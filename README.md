@@ -19,6 +19,10 @@ Twitter: [@alvarole_](https://twitter.com/alvarole_) \
 Website: www.alvarole.net
 
 
---
-*A veces diez minutos no son diez minutos*
-							Haruki Murakami
+---
+<align = center>
+*A veces diez minutos no son diez minutos* \
+</align><align = left>
+Haruki Murakami \
+Nejimakitori Kuronikuru
+</align>
