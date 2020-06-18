@@ -21,8 +21,11 @@ Website: www.alvarole.net
 
 ---
 <p align = center>
-*A veces diez minutos no son diez minutos* \
-</p> <p align = left>
-Haruki Murakami \br
-Nejimakitori Kuronikuru
+<it> A veces diez minutos no son diez minutos </it>
+</p> 
+
+<p align = left>
+Haruki Murakami
+
+<it> Nejimakitori Kuronikuru </it>
 </p>
