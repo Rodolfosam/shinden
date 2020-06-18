@@ -1,11 +1,12 @@
-# Repositorio de datos
+# Repositorio
 
 **Alvaro López-Espinoza** \
 E-mail: pro@alvarole.net \
 Twitter: @alvarole_
 
+Este repositorio incluye:
 ---
-Este repositorio incluye información de:
+- ***datasets:*** Bases de datos.
+---
 
-- **COVID-19:** Información de casos confirmados, personas fallecidas y recuperadas a nivel mundial, y de Nicaragua en particular. También incluye datos de movilidad de Google.
----
+
