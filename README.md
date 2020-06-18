@@ -1,8 +1,10 @@
 # Repositorio público
 
+**Alvaro López-Espinoza** \
+E-mail: pro@alvarole.net \
+Twitter: @alvarole_ \
 
-Alvaro López-Espinoza \
-E-mail: pro@alvarole.net \br
+Este repositorio incluye información de:
 
-Twitter: @alvarole_ \br
-
+- COVID-19
+  - Test
