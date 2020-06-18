@@ -6,7 +6,7 @@ Twitter: @alvarole_
 
 Este repositorio incluye:
 ---
-- ***datasets:*** Bases de datos.
----
+- ***datasets:*** Bases de datos de diversas temáticas.
+
 
 
