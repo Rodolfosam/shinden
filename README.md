@@ -21,10 +21,9 @@ Website: www.alvarole.net
 
 ---
 <p align = center>
-<i> A veces diez minutos no son diez minutos </i>
+<i> A veces diez minutos no son diez minutos. </i>
 </p> 
 
 <p align = right>
-Haruki Murakami
-<i> Nejimakitori Kuronikuru </i>
+Haruki Murakami - <i> Nejimakitori Kuronikuru </i>
 </p>
