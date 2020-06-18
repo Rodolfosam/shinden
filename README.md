@@ -5,7 +5,7 @@
 Soy **Alvaro López-Espinoza** y te doy la bienvenida a mi repositorio. 
 
 ---
-Este repositorio esta divido en las carpetas:
+Este repositorio se encuentra divido en las carpetas:
 
 - **datasets:** Bases de datos de diversas temáticas.
 ---
