@@ -1,4 +1,4 @@
-# Repositorio público
+# Repositorio de datos
 
 **Alvaro López-Espinoza** \
 E-mail: pro@alvarole.net \
