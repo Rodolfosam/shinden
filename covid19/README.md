@@ -1,6 +1,6 @@
 # Datos de COVID-19
 
-Esta carpeta incluye las bases de datos de:
+Esta carpeta incluye las bases de datos:
 - `jhu_confirmed:` Acumulado de casos confirmados de COVID-19 a nivel mundial reportados diariamente por el [Coronavirus Resource Center de Johns Hopkins University](https://coronavirus.jhu.edu/) desde el 22/enero/2020. Estos datos se actualizan cada día a las 18:00 (-06:00 UCT).
 - `jhu_deaths:` Acumulado de personas fallecidas a causa de COVID-19 a nivel mundial reportadas diariamente por el [Coronavirus Resource Center de Johns Hopkins University](https://coronavirus.jhu.edu/) desde el 22/enero/2020. Estos datos se actualizan cada día a las 18:00 (-06:00 UCT).
 - `jhu_recovered:` Acumulado de personas recuperadas de COVID-19 a nivel mundial reportadas diariamente por el [Coronavirus Resource Center de Johns Hopkins University](https://coronavirus.jhu.edu/) desde el 22/enero/2020. Estos datos se actualizan cada día a las 18:00 (-06:00 UCT).
