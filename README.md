@@ -5,9 +5,10 @@
 Soy **Alvaro López-Espinoza** y te doy la bienvenida a mi repositorio. 
 
 ---
-Este repositorio se encuentra divido en las carpetas:
+Este repositorio incluye información de:
 
-- **datasets:** Bases de datos de diversas temáticas.
+- **covid19:** Datos y códigos del COVID-19 a nivel mundial y de Nicaragua.
+- **world_bank:** Datos y códigos de diversas bases de datos de World Bank.
 ---
 
 ## Información de contacto
