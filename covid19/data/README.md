@@ -1,4 +1,4 @@
-# Datos de COVID-19
+# COVID-19: Datos
 
 Esta carpeta incluye las bases de datos:
 - `google_mobility:` Datos diarios de la movilidad de las personas a nivel mundial publicados por [Google](https://www.google.com/covid19/mobility/) desde el 15/febrero/2020. La fecha de la última actualización de estos datos se encuentra en el comentario del archivo.
