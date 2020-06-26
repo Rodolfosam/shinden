@@ -1,7 +1,7 @@
 ﻿country,iso2,iso3,country_es
 Afghanistan,AF,AFG,Afganistán
 Albania,AL,ALB,Albania
-Algeria,DZ,DZA,Algeria
+Algeria,DZ,DZA,Argelia
 Andorra,AD,AND,Andorra
 Angola,AO,AGO,Angola
 Antigua and Barbuda,AG,ATG,Antigua y Barbuda
@@ -11,7 +11,7 @@ Australia,AU,AUS,Australia
 Austria,AT,AUT,Austria
 Azerbaijan,AZ,AZE,Azerbaiyán
 Bahamas,BS,BHS,Bahamas
-Bahrain,BH,BHR,Barhein
+Bahrain,BH,BHR,Baréin
 Bangladesh,BD,BGD,Bangladés
 Barbados,BB,BRB,Barbados
 Belarus,BY,BRL,Bielorrusia
@@ -45,7 +45,7 @@ Cote d'Ivoire,CI,CIV,Costa de Marfil
 Croatia,HR,HRV,Croacia
 Cuba,CU,CUB,Cuba
 Cyprus,CY,CYP,Chipre
-Czechia,CZ,CZE,Républica Checa
+Czechia,CZ,CZE,República Checa
 Denmark,DK,DNK,Dinamarca
 Djibouti,DJ,DJI,Yibuti
 Dominica,DM,DMA,Dominica
@@ -57,7 +57,7 @@ Equatorial Guinea,GQ,GNQ,Guinea Ecuatorial
 Eritrea,ER,ERI,Eritrea
 Estonia,EE,EST,Estonia
 Ethiopia,ET,ETH,Etiopía
-Fiji,FJ,FJI,Fiji
+Fiji,FJ,FJI,Fiyi
 Finland,FI,FIN,Finlandia
 France,FR,FRA,Francia
 Gabon,GA,GAB,Gabón
@@ -102,7 +102,7 @@ Liechtenstein,LI,LIE,Liechtenstein
 Lithuania,LT,LTU,Lituania
 Luxembourg,LU,LUX,Luxemburgo
 Madagascar,MG,MDG,Madagascar
-Malawi,MW,MWI,Malawi
+Malawi,MW,MWI,Malaui
 Malaysia,MY,MYS,Malasia
 Maldives,MV,MDV,Maldivas
 Mali,ML,MLI,Malí
@@ -134,7 +134,7 @@ Peru,PE,PER,Perú
 Philippines,PH,PHL,Filipinas
 Poland,PL,POL,Polonia
 Portugal,PT,PRT,Portugal
-Qatar,QA,QAT,Qatar
+Qatar,QA,QAT,Catar
 Romania,RO,ROU,Rumania
 Russia,RU,RUS,Rusia
 Rwanda,RW,RWA,Ruanda
@@ -161,7 +161,7 @@ Suriname,SR,SUR,Surinam
 Sweden,SE,SWE,Suecia
 Switzerland,CH,CHE,Suiza
 Syria,SY,SYR,Siria
-Taiwan*,TW,TWN,Taiwán
+Taiwan*,TW,TWN,Taiwan
 Tajikistan,TJ,TJK,Tayikistán
 Tanzania,TZ,TZA,Tanzania
 Thailand,TH,THA,Tailandia
@@ -180,7 +180,7 @@ Uzbekistan,UZ,UZB,Uzbekistán
 Venezuela,VE,VEN,Venezuela
 Vietnam,VN,VNM,Vietnam
 West Bank and Gaza,PS,PSE,Cisjordania
-Western Sahara,EH,ESH,Sáhara Occidental
+Western Sahara,EH,ESH,Sahara Occidental
 Yemen,YE,YEM,Yemen
 Zambia,ZM,ZMB,Zambia
 Zimbabwe,ZW,ZWE,Zimbabue
