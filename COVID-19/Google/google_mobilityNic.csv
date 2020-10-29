@@ -212,6 +212,11 @@ Boaco,2020-10-17,NA,NA,NA,NA,-0.14,NA
 Boaco,2020-10-18,NA,NA,NA,NA,-0.28,NA
 Boaco,2020-10-19,NA,NA,NA,NA,-0.06,NA
 Boaco,2020-10-20,NA,NA,NA,NA,-0.11,NA
+Boaco,2020-10-21,NA,NA,NA,NA,-0.07,NA
+Boaco,2020-10-22,NA,NA,NA,NA,-0.17,NA
+Boaco,2020-10-23,NA,NA,NA,NA,-0.1,NA
+Boaco,2020-10-24,NA,NA,NA,NA,-0.21,NA
+Boaco,2020-10-25,NA,NA,NA,NA,-0.26,NA
 Carazo,2020-02-15,0.04,NA,-0.09,-0.19,0.06,NA
 Carazo,2020-02-16,NA,NA,-0.16,NA,0.01,NA
 Carazo,2020-02-17,NA,NA,-0.02,NA,0.21,NA
@@ -436,6 +441,11 @@ Carazo,2020-10-17,-0.1,NA,-0.27,-0.34,-0.11,NA
 Carazo,2020-10-18,NA,NA,-0.26,NA,-0.14,NA
 Carazo,2020-10-19,NA,NA,-0.34,-0.4,-0.06,NA
 Carazo,2020-10-20,NA,NA,-0.26,-0.48,-0.07,NA
+Carazo,2020-10-21,NA,NA,-0.26,-0.46,-0.07,NA
+Carazo,2020-10-22,NA,NA,-0.22,-0.46,-0.09,NA
+Carazo,2020-10-23,-0.14,NA,-0.17,-0.4,0.01,NA
+Carazo,2020-10-24,-0.15,NA,-0.22,-0.39,-0.11,NA
+Carazo,2020-10-25,-0.3,NA,-0.33,NA,-0.19,NA
 Chinandega,2020-02-15,0.08,0.03,-0.07,0.16,0.05,-0.01
 Chinandega,2020-02-16,0.05,0.05,-0.06,0.06,0,NA
 Chinandega,2020-02-17,0.04,0.02,-0.04,0.06,0.14,-0.01
@@ -679,6 +689,11 @@ Chinandega,2020-10-17,-0.15,0.08,-0.22,0.1,-0.14,0.08
 Chinandega,2020-10-18,-0.22,0,-0.16,-0.2,-0.22,0.09
 Chinandega,2020-10-19,-0.23,-0.08,-0.2,-0.14,-0.06,0.08
 Chinandega,2020-10-20,-0.2,0,-0.16,-0.07,-0.04,0.07
+Chinandega,2020-10-21,-0.18,-0.03,-0.13,-0.08,-0.03,0.06
+Chinandega,2020-10-22,-0.21,-0.04,-0.17,-0.1,-0.05,0.08
+Chinandega,2020-10-23,-0.17,0.02,-0.1,-0.07,-0.01,0.06
+Chinandega,2020-10-24,-0.15,0.06,-0.08,-0.01,-0.12,0.06
+Chinandega,2020-10-25,-0.25,-0.01,-0.14,-0.28,-0.23,0.09
 Chontales,2020-02-15,NA,0.03,0.05,NA,0.02,NA
 Chontales,2020-02-16,NA,NA,-0.07,NA,0.02,NA
 Chontales,2020-02-17,NA,NA,0.06,NA,0.12,NA
@@ -903,6 +918,11 @@ Chontales,2020-10-17,NA,0.14,-0.31,NA,-0.19,NA
 Chontales,2020-10-18,NA,NA,-0.26,NA,-0.17,NA
 Chontales,2020-10-19,NA,NA,-0.37,NA,-0.05,NA
 Chontales,2020-10-20,NA,NA,-0.28,NA,-0.06,NA
+Chontales,2020-10-21,NA,NA,-0.38,NA,-0.08,NA
+Chontales,2020-10-22,NA,NA,-0.3,NA,-0.05,NA
+Chontales,2020-10-23,NA,NA,-0.22,NA,-0.07,NA
+Chontales,2020-10-24,NA,0.08,-0.27,NA,-0.14,NA
+Chontales,2020-10-25,NA,NA,-0.34,NA,-0.23,NA
 Esteli,2020-02-15,0.03,0.03,0.15,NA,0.01,NA
 Esteli,2020-02-16,-0.03,0.02,0.11,NA,-0.01,NA
 Esteli,2020-02-17,-0.01,-0.03,0.14,NA,0.14,-0.01
@@ -1129,6 +1149,11 @@ Esteli,2020-10-17,-0.11,0.02,-0.02,NA,-0.05,0.04
 Esteli,2020-10-18,-0.2,0.03,0.02,NA,-0.13,NA
 Esteli,2020-10-19,-0.18,-0.07,-0.15,NA,-0.01,0.05
 Esteli,2020-10-20,-0.22,-0.13,-0.28,NA,-0.02,0.05
+Esteli,2020-10-21,-0.22,-0.12,-0.25,NA,-0.01,0.05
+Esteli,2020-10-22,-0.22,-0.08,-0.19,NA,-0.05,0.04
+Esteli,2020-10-23,-0.16,-0.03,-0.09,NA,0.01,0.04
+Esteli,2020-10-24,-0.16,-0.06,0.03,NA,-0.08,0.04
+Esteli,2020-10-25,-0.17,-0.01,0.1,NA,-0.19,NA
 Granada,2020-02-15,0.11,0.01,-0.13,NA,0.02,NA
 Granada,2020-02-16,0.09,NA,-0.13,NA,0.01,NA
 Granada,2020-02-17,NA,0.11,NA,NA,0.15,NA
@@ -1353,6 +1378,11 @@ Granada,2020-10-17,-0.29,0,0.06,NA,-0.16,NA
 Granada,2020-10-18,-0.26,NA,-0.03,NA,-0.16,NA
 Granada,2020-10-19,-0.4,0.03,NA,NA,-0.09,NA
 Granada,2020-10-20,-0.36,0.02,NA,NA,-0.09,NA
+Granada,2020-10-21,-0.32,-0.01,NA,NA,-0.07,NA
+Granada,2020-10-22,-0.36,-0.06,NA,NA,-0.11,NA
+Granada,2020-10-23,-0.4,-0.04,-0.04,NA,-0.1,NA
+Granada,2020-10-24,-0.33,-0.04,0.05,NA,-0.15,NA
+Granada,2020-10-25,-0.34,NA,-0.01,NA,-0.2,NA
 Jinotega,2020-02-15,NA,NA,NA,NA,0.07,NA
 Jinotega,2020-02-16,NA,NA,NA,NA,0.05,NA
 Jinotega,2020-02-17,NA,NA,NA,NA,0.19,NA
@@ -1577,6 +1607,11 @@ Jinotega,2020-10-17,NA,NA,NA,NA,-0.07,NA
 Jinotega,2020-10-18,NA,NA,-0.14,NA,-0.15,NA
 Jinotega,2020-10-19,NA,NA,NA,NA,-0.03,NA
 Jinotega,2020-10-20,NA,NA,NA,NA,-0.02,NA
+Jinotega,2020-10-21,NA,NA,NA,NA,-0.07,NA
+Jinotega,2020-10-22,NA,NA,NA,NA,-0.1,NA
+Jinotega,2020-10-23,NA,NA,NA,NA,-0.02,NA
+Jinotega,2020-10-24,NA,NA,NA,NA,-0.14,NA
+Jinotega,2020-10-25,NA,NA,-0.16,NA,-0.19,NA
 Leon,2020-02-15,0.02,0.06,0.06,0.02,0.02,0
 Leon,2020-02-16,0.03,0.04,0,-0.07,-0.03,NA
 Leon,2020-02-17,-0.05,0.06,0.13,0,0.16,-0.01
@@ -1821,6 +1856,11 @@ Leon,2020-10-17,-0.1,0.23,-0.07,0,-0.12,0.07
 Leon,2020-10-18,-0.14,0.04,-0.17,-0.23,-0.16,0.08
 Leon,2020-10-19,-0.22,0.07,-0.19,-0.02,-0.05,0.06
 Leon,2020-10-20,-0.15,0.18,-0.12,-0.07,-0.04,0.05
+Leon,2020-10-21,-0.16,0.12,-0.08,-0.06,-0.01,0.05
+Leon,2020-10-22,-0.18,0.06,-0.07,-0.09,-0.04,0.07
+Leon,2020-10-23,-0.15,0.13,-0.02,-0.08,-0.05,0.05
+Leon,2020-10-24,-0.12,0.18,-0.04,-0.1,-0.12,0.06
+Leon,2020-10-25,-0.19,0.03,-0.13,-0.31,-0.18,0.08
 Madriz,2020-02-18,NA,NA,NA,NA,0.07,NA
 Madriz,2020-02-20,NA,NA,NA,NA,0.04,NA
 Madriz,2020-03-23,NA,NA,NA,NA,0,NA
@@ -1925,6 +1965,8 @@ Madriz,2020-10-14,NA,NA,NA,NA,-0.07,NA
 Madriz,2020-10-15,NA,NA,NA,NA,-0.08,NA
 Madriz,2020-10-19,NA,NA,NA,NA,-0.03,NA
 Madriz,2020-10-20,NA,NA,NA,NA,-0.04,NA
+Madriz,2020-10-21,NA,NA,NA,NA,-0.03,NA
+Madriz,2020-10-22,NA,NA,NA,NA,-0.06,NA
 Managua,2020-02-15,0.09,0.07,0.02,0.02,0.03,-0.01
 Managua,2020-02-16,0.07,0.09,0.07,0.02,0,0
 Managua,2020-02-17,0.03,0.05,-0.01,0.02,0.1,-0.01
@@ -2174,6 +2216,11 @@ Managua,2020-10-17,-0.07,0.11,-0.14,-0.13,-0.03,0.05
 Managua,2020-10-18,-0.12,0.03,-0.13,-0.23,-0.07,0.05
 Managua,2020-10-19,-0.17,0.01,-0.17,-0.14,-0.07,0.06
 Managua,2020-10-20,-0.13,0.05,-0.18,-0.12,-0.1,0.07
+Managua,2020-10-21,-0.15,0.02,-0.11,-0.12,-0.09,0.06
+Managua,2020-10-22,-0.15,-0.01,-0.12,-0.08,-0.09,0.07
+Managua,2020-10-23,-0.14,0.04,-0.14,-0.13,-0.06,0.06
+Managua,2020-10-24,-0.12,0.03,-0.15,-0.19,-0.02,0.06
+Managua,2020-10-25,-0.17,-0.05,-0.12,-0.26,-0.08,0.06
 Masaya,2020-02-15,0.02,0.05,-0.03,0.11,0.02,NA
 Masaya,2020-02-16,0.04,0.02,0.01,0.11,0.07,NA
 Masaya,2020-02-17,-0.03,0.05,-0.01,0.11,0.14,-0.02
@@ -2417,6 +2464,11 @@ Masaya,2020-10-17,-0.12,-0.02,-0.11,-0.22,-0.15,0.07
 Masaya,2020-10-18,-0.11,-0.05,-0.06,-0.17,-0.19,NA
 Masaya,2020-10-19,-0.16,-0.05,-0.14,-0.2,-0.09,0.08
 Masaya,2020-10-20,-0.16,-0.05,-0.09,-0.17,-0.12,0.08
+Masaya,2020-10-21,-0.13,-0.05,-0.06,-0.21,-0.09,0.06
+Masaya,2020-10-22,-0.15,-0.06,-0.03,-0.26,-0.12,0.05
+Masaya,2020-10-23,-0.1,0.04,0.61,-0.2,-0.11,0.06
+Masaya,2020-10-24,-0.14,-0.07,0,-0.25,-0.15,0.07
+Masaya,2020-10-25,-0.24,-0.15,0,-0.4,-0.17,NA
 Matagalpa,2020-02-15,-0.05,0.04,0.08,0.03,0.02,NA
 Matagalpa,2020-02-16,0,0.04,0.22,0.1,0.12,NA
 Matagalpa,2020-02-17,-0.07,0.06,0.02,0.03,0.11,-0.01
@@ -2641,6 +2693,11 @@ Matagalpa,2020-10-17,-0.18,0.06,-0.31,-0.09,-0.13,0.06
 Matagalpa,2020-10-18,-0.3,-0.02,-0.3,-0.04,-0.18,NA
 Matagalpa,2020-10-19,-0.2,-0.04,-0.36,0,-0.04,0.07
 Matagalpa,2020-10-20,-0.18,0.01,-0.38,-0.05,-0.03,0.06
+Matagalpa,2020-10-21,-0.17,0.01,-0.32,-0.12,-0.04,0.06
+Matagalpa,2020-10-22,-0.17,0.01,-0.29,-0.1,-0.05,0.05
+Matagalpa,2020-10-23,-0.18,-0.03,-0.34,-0.13,-0.06,0.05
+Matagalpa,2020-10-24,-0.17,0.06,-0.27,-0.1,-0.13,0.07
+Matagalpa,2020-10-25,-0.23,0.02,-0.19,-0.17,-0.16,NA
 North Caribbean Coast Autonomous Region,2020-02-15,NA,NA,NA,NA,0.08,NA
 North Caribbean Coast Autonomous Region,2020-02-16,NA,NA,NA,NA,0.04,NA
 North Caribbean Coast Autonomous Region,2020-02-17,NA,NA,NA,NA,0.14,NA
@@ -2863,6 +2920,11 @@ North Caribbean Coast Autonomous Region,2020-10-17,NA,NA,NA,NA,-0.19,NA
 North Caribbean Coast Autonomous Region,2020-10-18,NA,NA,NA,NA,-0.21,NA
 North Caribbean Coast Autonomous Region,2020-10-19,NA,NA,NA,NA,-0.06,NA
 North Caribbean Coast Autonomous Region,2020-10-20,NA,NA,NA,NA,-0.05,NA
+North Caribbean Coast Autonomous Region,2020-10-21,NA,NA,NA,NA,-0.04,NA
+North Caribbean Coast Autonomous Region,2020-10-22,NA,NA,NA,NA,-0.12,NA
+North Caribbean Coast Autonomous Region,2020-10-23,NA,NA,NA,NA,-0.05,NA
+North Caribbean Coast Autonomous Region,2020-10-24,NA,NA,NA,NA,-0.15,NA
+North Caribbean Coast Autonomous Region,2020-10-25,NA,NA,NA,NA,-0.25,NA
 Nueva Segovia,2020-02-15,NA,NA,-0.02,NA,0.06,NA
 Nueva Segovia,2020-02-16,NA,NA,-0.13,NA,0.02,NA
 Nueva Segovia,2020-02-17,NA,NA,-0.1,NA,0.17,NA
@@ -3087,6 +3149,11 @@ Nueva Segovia,2020-10-17,NA,NA,-0.39,NA,-0.15,NA
 Nueva Segovia,2020-10-18,NA,NA,-0.48,NA,-0.3,NA
 Nueva Segovia,2020-10-19,NA,NA,-0.39,NA,-0.09,NA
 Nueva Segovia,2020-10-20,NA,NA,-0.4,NA,-0.11,NA
+Nueva Segovia,2020-10-21,NA,NA,-0.4,NA,-0.13,NA
+Nueva Segovia,2020-10-22,NA,NA,-0.39,NA,-0.1,NA
+Nueva Segovia,2020-10-23,NA,NA,-0.33,NA,-0.06,NA
+Nueva Segovia,2020-10-24,NA,NA,-0.38,NA,-0.23,NA
+Nueva Segovia,2020-10-25,NA,NA,-0.39,NA,-0.31,NA
 Rivas,2020-02-15,0.05,NA,0.03,NA,0.05,NA
 Rivas,2020-02-16,0,NA,-0.01,NA,0.06,NA
 Rivas,2020-02-17,NA,NA,0.03,NA,0.13,NA
@@ -3311,6 +3378,11 @@ Rivas,2020-10-17,-0.33,NA,-0.46,NA,-0.25,NA
 Rivas,2020-10-18,-0.42,NA,-0.33,NA,-0.37,NA
 Rivas,2020-10-19,-0.36,NA,-0.46,NA,-0.19,NA
 Rivas,2020-10-20,-0.39,NA,-0.47,NA,-0.2,NA
+Rivas,2020-10-21,-0.39,NA,-0.47,NA,-0.21,NA
+Rivas,2020-10-22,-0.33,NA,-0.39,NA,-0.19,NA
+Rivas,2020-10-23,-0.34,NA,-0.39,NA,-0.15,NA
+Rivas,2020-10-24,-0.33,NA,-0.33,NA,-0.26,NA
+Rivas,2020-10-25,-0.4,NA,-0.34,NA,-0.33,NA
 South Caribbean Coast Autonomous Region,2020-02-15,NA,NA,0.12,NA,0.01,NA
 South Caribbean Coast Autonomous Region,2020-02-16,NA,NA,0.07,NA,0,NA
 South Caribbean Coast Autonomous Region,2020-02-17,NA,NA,0.03,NA,0.13,NA
@@ -3535,3 +3607,8 @@ South Caribbean Coast Autonomous Region,2020-10-17,NA,NA,-0.28,NA,-0.16,NA
 South Caribbean Coast Autonomous Region,2020-10-18,NA,NA,-0.29,NA,-0.25,NA
 South Caribbean Coast Autonomous Region,2020-10-19,NA,NA,-0.31,NA,-0.02,NA
 South Caribbean Coast Autonomous Region,2020-10-20,NA,NA,-0.34,NA,0.02,NA
+South Caribbean Coast Autonomous Region,2020-10-21,NA,NA,-0.28,NA,0.03,NA
+South Caribbean Coast Autonomous Region,2020-10-22,NA,NA,-0.26,NA,0,NA
+South Caribbean Coast Autonomous Region,2020-10-23,NA,NA,-0.28,NA,-0.03,NA
+South Caribbean Coast Autonomous Region,2020-10-24,NA,NA,-0.22,NA,-0.19,NA
+South Caribbean Coast Autonomous Region,2020-10-25,NA,NA,-0.16,NA,-0.25,NA
