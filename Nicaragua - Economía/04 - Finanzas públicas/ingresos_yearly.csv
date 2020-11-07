@@ -1,0 +1,945 @@
+﻿date,code,conc,type,cord,usd
+2005-01-01,a,Ingresos totales,actualizado,14527606835.07,852474964
+2006-01-01,a,Ingresos totales,actualizado,17486896107.45,977261309
+2007-01-01,a,Ingresos totales,actualizado,20548225284.04,1093662358
+2008-01-01,a,Ingresos totales,actualizado,23880008789.24,1210450061
+2009-01-01,a,Ingresos totales,actualizado,23109815876.02,1115646919
+2010-01-01,a,Ingresos totales,actualizado,26949606097.88,1239063526
+2011-01-01,a,Ingresos totales,actualizado,34781692405.47,1523008892
+2012-01-01,a,Ingresos totales,actualizado,40954724874.05,1707887513
+2013-01-01,a,Ingresos totales,actualizado,46357463310.21,1841165340
+2014-01-01,a,Ingresos totales,actualizado,49106276417.36,1857465983
+2015-01-01,a,Ingresos totales,actualizado,57859216907.18,2084332661
+2016-01-01,a,Ingresos totales,actualizado,65572569709.58,2249677480
+2017-01-01,a,Ingresos totales,actualizado,73277185495.17,2394334046
+2018-01-01,a,Ingresos totales,actualizado,73599765547.76,2290355985
+2019-01-01,a,Ingresos totales,actualizado,77975352585,2313483418
+2020-01-01,a,Ingresos totales,actualizado,79214469190,2315223138
+2005-01-01,a01,Ingresos tributarios,actualizado,13505523433,792499462
+2006-01-01,a01,Ingresos tributarios,actualizado,16020543012,895313653
+2007-01-01,a01,Ingresos tributarios,actualizado,18926480877,1007346348
+2008-01-01,a01,Ingresos tributarios,actualizado,21885776020,1109364706
+2009-01-01,a01,Ingresos tributarios,actualizado,21142824456,1020688659
+2010-01-01,a01,Ingresos tributarios,actualizado,24684200000,1134906825
+2011-01-01,a01,Ingresos tributarios,actualizado,31449309285,1377091636
+2012-01-01,a01,Ingresos tributarios,actualizado,37422322185,1560579810
+2013-01-01,a01,Ingresos tributarios,actualizado,42818327007,1700602535
+2014-01-01,a01,Ingresos tributarios,actualizado,45399899997,1717270704
+2015-01-01,a01,Ingresos tributarios,actualizado,53669081864,1933386351
+2016-01-01,a01,Ingresos tributarios,actualizado,60935060285,2090572833
+2017-01-01,a01,Ingresos tributarios,actualizado,68054213274,2223673285
+2018-01-01,a01,Impuestos,actualizado,67890465437,2112687896
+2019-01-01,a01,Impuestos,actualizado,71714812593,2127736833
+2020-01-01,a01,Impuestos,actualizado,73548629579,2149626081
+2005-01-01,dai,DAI,actualizado,843235119,49480746
+2006-01-01,dai,DAI,actualizado,980640560,54803441
+2007-01-01,dai,DAI,actualizado,974788509,51882315
+2008-01-01,dai,DAI,actualizado,1128363294,57195432
+2009-01-01,dai,DAI,actualizado,888515818,42893892
+2010-01-01,dai,DAI,actualizado,945200000,43457513
+2011-01-01,dai,DAI,actualizado,1343636243,58834686
+2012-01-01,dai,DAI,actualizado,1646065940,68643984
+2013-01-01,dai,DAI,actualizado,1918338200,76190058
+2014-01-01,dai,DAI,actualizado,1812200000,68547243
+2015-01-01,dai,DAI,actualizado,2083547914,75058171
+2016-01-01,dai,DAI,actualizado,2441500000,83763494
+2017-01-01,dai,DAI,actualizado,2568039577,83910764
+2018-01-01,dai,DAI,actualizado,2499909044,77794835
+2019-01-01,dai,DAI,actualizado,1952996033,57944258
+2020-01-01,dai,DAI,actualizado,2028653311,59292010
+2005-01-01,difcam,Utilidad por diferencia de cambios,actualizado,0,0
+2006-01-01,difcam,Utilidad por diferencia de cambios,actualizado,90480000,5056506.5
+2007-01-01,difcam,Utilidad por diferencia de cambios,actualizado,80616855,4290765.7
+2008-01-01,difcam,Utilidad por diferencia de cambios,actualizado,1793000,90885.1
+2009-01-01,difcam,Utilidad por diferencia de cambios,actualizado,63506428,3065829.3
+2010-01-01,difcam,Utilidad por diferencia de cambios,actualizado,67400000,3098853.5
+2011-01-01,difcam,Utilidad por diferencia de cambios,actualizado,119082000,5214322
+2012-01-01,difcam,Utilidad por diferencia de cambios,actualizado,132143200,5510615
+2013-01-01,difcam,Utilidad por diferencia de cambios,actualizado,196300000,7796387.7
+2014-01-01,difcam,Utilidad por diferencia de cambios,actualizado,200905164,7599324.1
+2015-01-01,difcam,Utilidad por diferencia de cambios,actualizado,202896400,7309182.8
+2016-01-01,difcam,Utilidad por diferencia de cambios,actualizado,230812875,7918776.5
+2017-01-01,difcam,Utilidad por diferencia de cambios,actualizado,238157068,7781788.7
+2018-01-01,difcam,Utilidad por diferencia de cambios y mantenimiento de valor,actualizado,264726722,8238048.4
+2019-01-01,difcam,Utilidad por diferencia de cambios y mantenimiento de valor,actualizado,107181795,3180021.6
+2020-01-01,difcam,Utilidad por diferencia de cambios y mantenimiento de valor,actualizado,113229285,3309383.5
+2018-01-01,emgas,Certificado de emisión de gases,actualizado,24618000,766089
+2019-01-01,emgas,Certificado de emisión de gases,actualizado,24644957,731202
+2020-01-01,emgas,Certificado de emisión de gases,actualizado,24764957,723812
+2005-01-01,fomav,FOMAV,actualizado,0,0
+2006-01-01,fomav,FOMAV,actualizado,188416000,10529694
+2007-01-01,fomav,FOMAV,actualizado,288247797,15341751
+2008-01-01,fomav,FOMAV,actualizado,491275699.91,24902198
+2009-01-01,fomav,FOMAV,actualizado,614170124.57,29649609
+2010-01-01,fomav,FOMAV,actualizado,697687670.66,32077625
+2011-01-01,fomav,FOMAV,actualizado,775646475,33963743
+2012-01-01,fomav,FOMAV,actualizado,832942258.12,34735227
+2013-01-01,fomav,FOMAV,actualizado,959291432,38099887
+2014-01-01,fomav,FOMAV,actualizado,1041821895,39407360
+2015-01-01,fomav,FOMAV,actualizado,1186588267.13,42745907
+2016-01-01,fomav,FOMAV,actualizado,1354423955.92,46467861
+2017-01-01,fomav,FOMAV,actualizado,1462113343,47774594
+2018-01-01,fomav,FOMAV,actualizado,1465300031,45598769
+2019-01-01,fomav,FOMAV,actualizado,1657797188,49185880
+2020-01-01,fomav,FOMAV,actualizado,1504561109,43974222
+2005-01-01,for01,Derechos de vigencia sector forestal,actualizado,0,0
+2006-01-01,for01,Derechos de vigencia sector forestal,actualizado,622808,34805.843
+2007-01-01,for01,Derechos de vigencia sector forestal,actualizado,170254,9061.629
+2008-01-01,for01,Derechos de vigencia sector forestal,actualizado,957000,48509.225
+2009-01-01,for01,Derechos de vigencia sector forestal,actualizado,315555,15233.698
+2010-01-01,for01,Derechos de vigencia sector forestal,actualizado,400000,18390.822
+2011-01-01,for01,Derechos de vigencia sector forestal,actualizado,294451,12893.32
+2012-01-01,for01,Derechos de vigencia sector forestal,actualizado,268222,11185.352
+2013-01-01,for01,Derechos de vigencia sector forestal,actualizado,400090,15890.253
+2014-01-01,for01,Derechos de vigencia sector forestal,actualizado,2323594.02,87890.941
+2015-01-01,for01,Derechos de vigencia sector forestal,actualizado,875891,31553.283
+2016-01-01,for01,Derechos de vigencia sector forestal,actualizado,218989,7513.121
+2017-01-01,for01,Derechos de vigencia sector forestal,actualizado,339599,11096.407
+2018-01-01,for01,Derechos de vigencia forestal,actualizado,363300.75,11305.58
+2019-01-01,for01,Derechos de vigencia forestal,actualizado,902669.32,26781.674
+2020-01-01,for01,Derechos de vigencia forestal,actualizado,415049,12130.752
+2005-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,18912000,1109750
+2006-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,20286721,1133731
+2007-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,5247256,279281
+2008-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,8909733,451624
+2009-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,14868053,717768
+2010-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,27930143.25,1284146
+2011-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,56447280.41,2471694
+2012-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,75468924.57,3147193
+2013-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,50457759.08,2004016
+2014-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,53170000,2011178
+2015-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,45544729,1640713
+2016-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,15271431,523935
+2017-01-01,for02,Derecho de aprovechamiento sector forestal,actualizado,17423423,569311
+2018-01-01,for02,Derechos de aprovechamiento forestal,actualizado,25858348.48,804688
+2019-01-01,for02,Derechos de aprovechamiento forestal,actualizado,29416015.1,872756
+2020-01-01,for02,Derechos de aprovechamiento forestal,actualizado,30694686,897122
+2005-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2006-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2007-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,5037,268.0902
+2008-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,856000,43389.6512
+2009-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,702587,33918.0124
+2010-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,700000,32183.9386
+2011-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2012-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2013-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2014-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2015-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2016-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,0,0
+2017-01-01,geo01,Derecho superficial de recursos geotérmicos,actualizado,345261,11281.4126
+2018-01-01,geo01,Derecho de superficie de explotación de recursos geotérmicos,actualizado,351538.9,10939.5623
+2019-01-01,geo01,Derecho de superficie de explotación de recursos geotérmicos,actualizado,219959,6526.0558
+2020-01-01,geo01,Derecho de superficie de explotación de recursos geotérmicos,actualizado,235857,6893.4576
+2005-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,0,0
+2006-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,0,0
+2007-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,1885639,100361.6
+2008-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,3277000,166107.3
+2009-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,6347413,306427
+2010-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,7700000,354023.3
+2011-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,855968,37480.8
+2012-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,919298,38336.4
+2013-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,1000845,39750.3
+2014-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,900000,34042.9
+2015-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,1044372,37622.7
+2016-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,841853,28882.5
+2017-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,882450,28834.1
+2018-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,878848.1,27348.9
+2019-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,977595,29004.7
+2020-01-01,geo02,Derecho de explotación de recursos geotérmicos,actualizado,1048252,30637.6
+2018-01-01,imi,Impuesto selectivo municipal (ISC-IMI),actualizado,119983309.97,3733769
+2019-01-01,imi,Impuesto selectivo municipal (ISC-IMI),actualizado,127706494,3788977
+2020-01-01,imi,Impuesto selectivo municipal (ISC-IMI),actualizado,132611698,3875879
+2005-01-01,inftr,Multas por infracciones de tránsito,actualizado,0,0
+2006-01-01,inftr,Multas por infracciones de tránsito,actualizado,0,0
+2007-01-01,inftr,Multas por infracciones de tránsito,actualizado,1074000,57163
+2008-01-01,inftr,Multas por infracciones de tránsito,actualizado,1073000,54389
+2009-01-01,inftr,Multas por infracciones de tránsito,actualizado,1336000,64497
+2010-01-01,inftr,Multas por infracciones de tránsito,actualizado,2000000,91954
+2011-01-01,inftr,Multas por infracciones de tránsito,actualizado,27979388,1225152
+2012-01-01,inftr,Multas por infracciones de tránsito,actualizado,31579541,1316925
+2013-01-01,inftr,Multas por infracciones de tránsito,actualizado,81301900,3229043
+2014-01-01,inftr,Multas por infracciones de tránsito,actualizado,89300000,3377811
+2015-01-01,inftr,Multas por infracciones de tránsito,actualizado,210000000,7565084
+2016-01-01,inftr,Multas por infracciones de tránsito,actualizado,196736167,6749666
+2017-01-01,inftr,Multas por infracciones de tránsito,actualizado,277833113,9078205
+2018-01-01,inftr,Multas por infracción de tránsito,actualizado,278446727.96,8665002
+2019-01-01,inftr,Multas por infracción de tránsito,actualizado,238215989,7067730
+2020-01-01,inftr,Multas por infracción de tránsito,actualizado,247003290,7219233
+2005-01-01,intdep,Intereses obtenidos por depósitos,actualizado,114124467,6696784
+2006-01-01,intdep,Intereses obtenidos por depósitos,actualizado,97883000,5470226
+2007-01-01,intdep,Intereses obtenidos por depósitos,actualizado,138872859,7391393
+2008-01-01,intdep,Intereses obtenidos por depósitos,actualizado,132976504,6740425
+2009-01-01,intdep,Intereses obtenidos por depósitos,actualizado,23724818,1145337
+2010-01-01,intdep,Intereses obtenidos por depósitos,actualizado,25300000,1163219
+2011-01-01,intdep,Intereses obtenidos por depósitos,actualizado,13857946,606807
+2012-01-01,intdep,Intereses obtenidos por depósitos,actualizado,21273600,887148
+2013-01-01,intdep,Intereses obtenidos por depósitos,actualizado,23500673,933369
+2014-01-01,intdep,Intereses obtenidos por depósitos,actualizado,24888533,941419
+2015-01-01,intdep,Intereses obtenidos por depósitos,actualizado,24710800,890187
+2016-01-01,intdep,Intereses obtenidos por depósitos,actualizado,28256464,969429
+2017-01-01,intdep,Intereses obtenidos por depósitos,actualizado,60825255,1987467
+2018-01-01,intdep,Intereses por depósitos,actualizado,75943062,2363277
+2019-01-01,intdep,Intereses por depósitos,actualizado,69971521,2076014
+2020-01-01,intdep,Intereses por depósitos,actualizado,95190183,2782150
+2005-01-01,intpres,Intereses obtenidos por préstamos,actualizado,15653126,918520
+2006-01-01,intpres,Intereses obtenidos por préstamos,actualizado,27334732,1527611
+2007-01-01,intpres,Intereses obtenidos por préstamos,actualizado,30200000,1607370
+2008-01-01,intpres,Intereses obtenidos por préstamos,actualizado,53392417,2706400
+2009-01-01,intpres,Intereses obtenidos por préstamos,actualizado,21986047,1061396
+2010-01-01,intpres,Intereses obtenidos por préstamos,actualizado,23300000,1071265
+2011-01-01,intpres,Intereses obtenidos por préstamos,actualizado,13697934,599800
+2012-01-01,intpres,Intereses obtenidos por préstamos,actualizado,17926400,747564
+2013-01-01,intpres,Intereses obtenidos por préstamos,actualizado,29800000,1183558
+2014-01-01,intpres,Intereses obtenidos por préstamos,actualizado,64924110,2455782
+2015-01-01,intpres,Intereses obtenidos por préstamos,actualizado,94469100,3403175
+2016-01-01,intpres,Intereses obtenidos por préstamos,actualizado,108161190,3710817
+2017-01-01,intpres,Intereses obtenidos por préstamos,actualizado,120442615,3935466
+2018-01-01,intpres,Intereses por préstamos,actualizado,149041151,4638021
+2019-01-01,intpres,Intereses por préstamos,actualizado,68917652,2044747
+2020-01-01,intpres,Intereses por préstamos,actualizado,71292918,2083698
+2005-01-01,ir,IR,actualizado,3742072068,219583500
+2006-01-01,ir,IR,actualizado,4540471395,253745833
+2007-01-01,ir,IR,actualizado,5758380633,306485064
+2008-01-01,ir,IR,actualizado,6963716025,352982721
+2009-01-01,ir,IR,actualizado,7507547454,362433532
+2010-01-01,ir,IR,actualizado,8410000000,386667034
+2011-01-01,ir,IR,actualizado,11361938654,497512697
+2012-01-01,ir,IR,actualizado,13455609641,561123723
+2013-01-01,ir,IR,actualizado,15870892400,630339430
+2014-01-01,ir,IR,actualizado,16958010348,641444020
+2015-01-01,ir,IR,actualizado,21390637408,770580844
+2016-01-01,ir,IR,actualizado,24577228897,843200726
+2017-01-01,ir,IR,actualizado,28573738937,933647703
+2018-01-01,ir,IR,actualizado,29786714309,926934738
+2019-01-01,ir,IR,actualizado,32162418118,954240264
+2020-01-01,ir,IR,actualizado,32679226912,955124778
+2018-01-01,isc01,Azúcar,actualizado,0,0
+2019-01-01,isc01,Azúcar,actualizado,11845992,351464
+2020-01-01,isc01,Azúcar,actualizado,5049638,147587
+2005-01-01,isc02,Cigarrillos,actualizado,151158083,8869904.229
+2006-01-01,isc02,Cigarrillos,actualizado,160678393,8979568.229
+2007-01-01,isc02,Cigarrillos,actualizado,161298388,8584973.783
+2008-01-01,isc02,Cigarrillos,actualizado,163572388,8291295.401
+2009-01-01,isc02,Cigarrillos,actualizado,195347674,9430582.738
+2010-01-01,isc02,Cigarrillos,actualizado,43929000,2019726.056
+2011-01-01,isc02,Cigarrillos,actualizado,395,17.296
+2012-01-01,isc02,Cigarrillos,actualizado,0,0
+2013-01-01,isc02,Cigarrillos,actualizado,157976800,6274316.753
+2014-01-01,isc02,Cigarrillos,actualizado,0,0
+2015-01-01,isc02,Cigarrillos,actualizado,0,0
+2016-01-01,isc02,Cigarrillos,actualizado,365365,12535.019
+2017-01-01,isc02,Cigarrillos,actualizado,71218,2327.05
+2018-01-01,isc02,Cigarrillos,actualizado,0,0
+2019-01-01,isc02,Cigarrillos,actualizado,41809,1240.449
+2020-01-01,isc02,Cigarrillos,actualizado,0,0
+2005-01-01,isc03,Rones y aguardientes,actualizado,94804337,5563086
+2006-01-01,isc03,Rones y aguardientes,actualizado,129070117,7213129
+2007-01-01,isc03,Rones y aguardientes,actualizado,144572992,7694778
+2008-01-01,isc03,Rones y aguardientes,actualizado,189942797,9627981
+2009-01-01,isc03,Rones y aguardientes,actualizado,147631964,7127064
+2010-01-01,isc03,Rones y aguardientes,actualizado,180800000,8312652
+2011-01-01,isc03,Rones y aguardientes,actualizado,231109835,10119759
+2012-01-01,isc03,Rones y aguardientes,actualizado,284453484,11862235
+2013-01-01,isc03,Rones y aguardientes,actualizado,257889300,10242511
+2014-01-01,isc03,Rones y aguardientes,actualizado,267845000,10131352
+2015-01-01,isc03,Rones y aguardientes,actualizado,254613000,9172233
+2016-01-01,isc03,Rones y aguardientes,actualizado,300232968,10300456
+2017-01-01,isc03,Rones y aguardientes,actualizado,359272200,11739229
+2018-01-01,isc03,Bebidas alcohólicas,actualizado,360055237,11204583
+2019-01-01,isc03,Bebidas alcohólicas,actualizado,515723238,15301209
+2020-01-01,isc03,Bebidas alcohólicas,actualizado,537074373,15697221
+2005-01-01,isc04,Cervezas,actualizado,345499244,20273777
+2006-01-01,isc04,Cervezas,actualizado,448940132,25089176
+2007-01-01,isc04,Cervezas,actualizado,487548421,25949363
+2008-01-01,isc04,Cervezas,actualizado,578203850,29308485
+2009-01-01,isc04,Cervezas,actualizado,575564474,27785887
+2010-01-01,isc04,Cervezas,actualizado,688100000,31636812
+2011-01-01,isc04,Cervezas,actualizado,762007673,33366532
+2012-01-01,isc04,Cervezas,actualizado,961043429,40077282
+2013-01-01,isc04,Cervezas,actualizado,1109060000,44048200
+2014-01-01,isc04,Cervezas,actualizado,1181450000,44688853
+2015-01-01,isc04,Cervezas,actualizado,1322934662,47657678
+2016-01-01,isc04,Cervezas,actualizado,1485086747,50950668
+2017-01-01,isc04,Cervezas,actualizado,1663158000,54343733
+2018-01-01,isc04,Cervezas,actualizado,1666782866,51868727
+2019-01-01,isc04,Cervezas,actualizado,1890745105,56097309
+2020-01-01,isc04,Cervezas,actualizado,1942221119,56765832
+2005-01-01,isc05,Gaseosas,actualizado,138424992,8122731
+2006-01-01,isc05,Gaseosas,actualizado,148285931,8287011
+2007-01-01,isc05,Gaseosas,actualizado,144360220,7683454
+2008-01-01,isc05,Gaseosas,actualizado,195710629,9920346
+2009-01-01,isc05,Gaseosas,actualizado,199574006,9634613
+2010-01-01,isc05,Gaseosas,actualizado,230000000,10574723
+2011-01-01,isc05,Gaseosas,actualizado,271670705,11895824
+2012-01-01,isc05,Gaseosas,actualizado,344415499,14362761
+2013-01-01,isc05,Gaseosas,actualizado,417340100,16575370
+2014-01-01,isc05,Gaseosas,actualizado,437645000,16554110
+2015-01-01,isc05,Gaseosas,actualizado,490055872,17653876
+2016-01-01,isc05,Gaseosas,actualizado,532206381,18259048
+2017-01-01,isc05,Gaseosas,actualizado,555725627,18158350
+2018-01-01,isc05,Aguas gaseadas,actualizado,556936836,17331354
+2019-01-01,isc05,Aguas gaseadas,actualizado,513406314,15232467
+2020-01-01,isc05,Aguas gaseadas,actualizado,511338038,14945018
+2018-01-01,isc06,Otros ISC por enajenación de bienes,actualizado,167150867,5201579
+2019-01-01,isc06,Otros ISC por enajenación de bienes,actualizado,190676103,5657249
+2020-01-01,isc06,Otros ISC por enajenación de bienes,actualizado,148498519,4340207
+2005-01-01,isc07,ISC a la importación,actualizado,681397736,39984184
+2006-01-01,isc07,ISC a la importación,actualizado,935901417,52303178
+2007-01-01,isc07,ISC a la importación,actualizado,1023663791,54483662
+2008-01-01,isc07,ISC a la importación,actualizado,1214865250,61580116
+2009-01-01,isc07,ISC a la importación,actualizado,898116903,43357392
+2010-01-01,isc07,ISC a la importación,actualizado,1465000000,67356386
+2011-01-01,isc07,ISC a la importación,actualizado,1839633862,80553261
+2012-01-01,isc07,ISC a la importación,actualizado,2269712008,94651174
+2013-01-01,isc07,ISC a la importación,actualizado,2423210200,96241906
+2014-01-01,isc07,ISC a la importación,actualizado,2053015000,77656174
+2015-01-01,isc07,ISC a la importación,actualizado,2884493119,103911590
+2016-01-01,isc07,ISC a la importación,actualizado,3375263463,115799247
+2017-01-01,isc07,ISC a la importación,actualizado,3483327646,113817826
+2018-01-01,isc07,Otros ISC por importación o internación de bienes,actualizado,3157375730,98254585
+2019-01-01,isc07,Otros ISC por importación o internación de bienes,actualizado,4614052125,136896246
+2020-01-01,isc07,Otros ISC por importación o internación de bienes,actualizado,4911126969,143538862
+2005-01-01,isc08,Otros selectivos al consumo,actualizado,33524101,1967183
+2006-01-01,isc08,Otros selectivos al consumo,actualizado,41843436,2338435
+2007-01-01,isc08,Otros selectivos al consumo,actualizado,61717431,3284859
+2008-01-01,isc08,Otros selectivos al consumo,actualizado,51514532,2611212
+2009-01-01,isc08,Otros selectivos al consumo,actualizado,73928693,3568973
+2010-01-01,isc08,Otros selectivos al consumo,actualizado,78400000,3604601
+2011-01-01,isc08,Otros selectivos al consumo,actualizado,164394034,7198430
+2012-01-01,isc08,Otros selectivos al consumo,actualizado,213052707,8884691
+2013-01-01,isc08,Otros selectivos al consumo,actualizado,83034300,3297848
+2014-01-01,isc08,Otros selectivos al consumo,actualizado,119455000,4518437
+2015-01-01,isc08,Otros selectivos al consumo,actualizado,85957000,3096533
+2016-01-01,isc08,Otros selectivos al consumo,actualizado,113294508,3886932
+2017-01-01,isc08,Otros selectivos al consumo,actualizado,166787353,5449781
+2005-01-01,itf,ITF,actualizado,16476040,966808
+2006-01-01,itf,ITF,actualizado,21065772,1177268
+2007-01-01,itf,ITF,actualizado,27192018,1447273
+2008-01-01,itf,ITF,actualizado,21836297,1106857
+2009-01-01,itf,ITF,actualizado,27920610,1347892
+2010-01-01,itf,ITF,actualizado,72471000,3332003
+2011-01-01,itf,ITF,actualizado,22421103,981768
+2012-01-01,itf,ITF,actualizado,24603525,1026012
+2013-01-01,itf,ITF,actualizado,76110700,3022866
+2014-01-01,itf,ITF,actualizado,84955000,3213459
+2015-01-01,itf,ITF,actualizado,96481567,3475672
+2016-01-01,itf,ITF,actualizado,97669686,3350872
+2017-01-01,itf,ITF,actualizado,86450346,2824767
+2018-01-01,itf,ITF,actualizado,86638765,2696117
+2019-01-01,itf,ITF,actualizado,70755964,2099288
+2020-01-01,itf,ITF,actualizado,75429421,2204596
+2005-01-01,iva01,IVA,actualizado,2191665601,128606182
+2006-01-01,iva01,IVA,actualizado,2631809435,147079591
+2007-01-01,iva01,IVA,actualizado,3164057857,168404372
+2008-01-01,iva01,IVA,actualizado,3347218062,169666617
+2009-01-01,iva01,IVA,actualizado,3425231060,165356076
+2010-01-01,iva01,IVA,actualizado,4097600000,188395581
+2011-01-01,iva01,IVA,actualizado,4705468444,206041448
+2012-01-01,iva01,IVA,actualizado,5114773090,213295465
+2013-01-01,iva01,IVA,actualizado,5506900000,218715881
+2014-01-01,iva01,IVA,actualizado,6593399975,249398184
+2015-01-01,iva01,IVA,actualizado,7189937595,259011832
+2016-01-01,iva01,IVA,actualizado,8087389824,277463867
+2017-01-01,iva01,IVA,actualizado,9675137786,316135392
+2018-01-01,iva01,IVA enajenación de bienes de mercado interno,actualizado,8962539866,278905872
+2019-01-01,iva01,IVA enajenación de bienes de mercado interno,actualizado,9340824882,277136849
+2020-01-01,iva01,IVA enajenación de bienes de mercado interno,actualizado,9481577615,277120684
+2005-01-01,iva02,IVA de las importaciones,actualizado,3415614600,200427088
+2006-01-01,iva02,IVA de las importaciones,actualizado,4077068424,227848396
+2007-01-01,iva02,IVA de las importaciones,actualizado,4874362344,259433919
+2008-01-01,iva02,IVA de las importaciones,actualizado,5902718223,299201968
+2009-01-01,iva02,IVA de las importaciones,actualizado,5093064118,245872201
+2010-01-01,iva02,IVA de las importaciones,actualizado,5853400000,269122095
+2011-01-01,iva02,IVA de las importaciones,actualizado,8105959366,354940986
+2012-01-01,iva02,IVA de las importaciones,actualizado,10023357098,417992466
+2013-01-01,iva02,IVA de las importaciones,actualizado,11527520000,457835023
+2014-01-01,iva02,IVA de las importaciones,actualizado,11773100000,445322561
+2015-01-01,iva02,IVA de las importaciones,actualizado,13427821396,483726677
+2016-01-01,iva02,IVA de las importaciones,actualizado,14786200000,507288052
+2017-01-01,iva02,IVA de las importaciones,actualizado,15378197658,502483030
+2018-01-01,iva02,IVA importación e internación de bienes,actualizado,15271072468,475221517
+2019-01-01,iva02,IVA importación e internación de bienes,actualizado,14193293423,421106772
+2020-01-01,iva02,IVA importación e internación de bienes,actualizado,14786456647,432167846
+2005-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,0,0
+2006-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,26712904,1492860
+2007-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,36874877.7,1962635
+2008-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,39928562,2023933
+2009-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,28724000,1386677
+2010-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,74434081.13,3422260
+2011-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,62735637,2747047
+2012-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,67983340.78,2835031
+2013-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,75169300,2985476
+2014-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,78903764.25,2984569
+2015-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,88365074,3183282
+2016-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,107514410.36,3688627
+2017-01-01,min01,Derecho de superficie exploracion sector minero,actualizado,153593260.77,5018664
+2018-01-01,min01,Derechos de vigencia o superficiales minería,actualizado,118640201.81,3691972
+2019-01-01,min01,Derechos de vigencia o superficiales minería,actualizado,136493998,4049698
+2020-01-01,min01,Derechos de vigencia o superficiales minería,actualizado,148929206,4352795
+2005-01-01,min02,Derechos sobre explotación sector minero,actualizado,51876403,3044089
+2006-01-01,min02,Derechos sobre explotación sector minero,actualizado,31693358,1771194
+2007-01-01,min02,Derechos sobre explotación sector minero,actualizado,28229863,1502511
+2008-01-01,min02,Derechos sobre explotación sector minero,actualizado,54960301.29,2785874
+2009-01-01,min02,Derechos sobre explotación sector minero,actualizado,61390000,2963657
+2010-01-01,min02,Derechos sobre explotación sector minero,actualizado,99900000,4593108
+2011-01-01,min02,Derechos sobre explotación sector minero,actualizado,316040603.48,13838678
+2012-01-01,min02,Derechos sobre explotación sector minero,actualizado,307871645.66,12838815
+2013-01-01,min02,Derechos sobre explotación sector minero,actualizado,313824341.11,12464066
+2014-01-01,min02,Derechos sobre explotación sector minero,actualizado,327692000,12395091
+2015-01-01,min02,Derechos sobre explotación sector minero,actualizado,332607940.95,11981939
+2016-01-01,min02,Derechos sobre explotación sector minero,actualizado,316111958.11,10845235
+2017-01-01,min02,Derechos sobre explotación sector minero,actualizado,310122093,10133248
+2018-01-01,min02,Derechos de extracción o regalías minería,actualizado,348478832.35,10844336
+2019-01-01,min02,Derechos de extracción o regalías minería,actualizado,416305645.01,12351547
+2020-01-01,min02,Derechos de extracción o regalías minería,actualizado,404150777,11812226
+2005-01-01,pes01,Derechos de vigencia sector pesca,actualizado,0,0
+2006-01-01,pes01,Derechos de vigencia sector pesca,actualizado,5142822,287408
+2007-01-01,pes01,Derechos de vigencia sector pesca,actualizado,5574503,296698
+2008-01-01,pes01,Derechos de vigencia sector pesca,actualizado,6388494,323825
+2009-01-01,pes01,Derechos de vigencia sector pesca,actualizado,3395446,163918
+2010-01-01,pes01,Derechos de vigencia sector pesca,actualizado,5700000,262069
+2011-01-01,pes01,Derechos de vigencia sector pesca,actualizado,9205303.94,403079
+2012-01-01,pes01,Derechos de vigencia sector pesca,actualizado,7308077,304760
+2013-01-01,pes01,Derechos de vigencia sector pesca,actualizado,9389208.33,372908
+2014-01-01,pes01,Derechos de vigencia sector pesca,actualizado,10274176.84,388625
+2015-01-01,pes01,Derechos de vigencia sector pesca,actualizado,14263396,513828
+2016-01-01,pes01,Derechos de vigencia sector pesca,actualizado,10680197,366418
+2017-01-01,pes01,Derechos de vigencia sector pesca,actualizado,16634263,543525
+2018-01-01,pes01,Derechos de vigencia sector pesca y acuicultura,actualizado,20747358.39,645638
+2019-01-01,pes01,Derechos de vigencia sector pesca y acuicultura,actualizado,32503348.93,964355
+2020-01-01,pes01,Derechos de vigencia sector pesca y acuicultura,actualizado,34783213,1016619
+2005-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,8148000,478122
+2006-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,4501687,251578
+2007-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,6194677,329707
+2008-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,10478370,531136
+2009-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,5696630.26,275010
+2010-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,12618816.47,580176
+2011-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,4321842,189243
+2012-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,5313135.31,221568
+2013-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,7597247.42,301738
+2014-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,7960000,301090
+2015-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,5910698,212928
+2016-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,8778316.97,301168
+2017-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,actualizado,33864245,1106515
+2018-01-01,pes02,Derechos de aprovechamiento sector pesca,actualizado,33546637.68,1043940
+2019-01-01,pes02,Derechos de aprovechamiento sector pesca,actualizado,27363402.09,811856
+2020-01-01,pes02,Derechos de aprovechamiento sector pesca,actualizado,25145028,734921
+2018-01-01,recd,Certificado de antecedentes policiales y penales,actualizado,22366154,696013.8
+2019-01-01,recd,Certificado de antecedentes policiales y penales,actualizado,21836030,647862.3
+2020-01-01,recd,Certificado de antecedentes policiales y penales,actualizado,24807967,725069.3
+2005-01-01,tcap,Transferencias de capital,actualizado,0,0
+2006-01-01,tcap,Transferencias de capital,actualizado,0,0
+2007-01-01,tcap,Transferencias de capital,actualizado,0,0
+2008-01-01,tcap,Transferencias de capital,actualizado,0,0
+2009-01-01,tcap,Transferencias de capital,actualizado,0,0
+2010-01-01,tcap,Transferencias de capital,actualizado,0,0
+2011-01-01,tcap,Transferencias de capital,actualizado,0,0
+2012-01-01,tcap,Transferencias de capital,actualizado,0,0
+2013-01-01,tcap,Transferencias de capital,actualizado,0,0
+2014-01-01,tcap,Transferencias de capital,actualizado,0,0
+2015-01-01,tcap,Transferencias de capital,actualizado,0,0
+2016-01-01,tcap,Transferencias de capital,actualizado,0,0
+2017-01-01,tcap,Transferencias de capital,actualizado,0,0
+2018-01-01,tcap,Transferencias y donaciones de capital,actualizado,0,0
+2019-01-01,tcap,Transferencias y donaciones de capital,actualizado,0,0
+2020-01-01,tcap,Transferencias y donaciones de capital,actualizado,0,0
+2005-01-01,tcomb,Derivados del petróleo,actualizado,1797298963,105464884
+2006-01-01,tcomb,Derivados del petróleo,actualizado,1882268720,105191246
+2007-01-01,tcomb,Derivados del petróleo,actualizado,2078752465,110639887
+2008-01-01,tcomb,Derivados del petróleo,actualizado,2098592846,106375247
+2009-01-01,tcomb,Derivados del petróleo,actualizado,2070810621,99970225
+2010-01-01,tcomb,Derivados del petróleo,actualizado,2583800000,118795515
+2011-01-01,tcomb,Derivados del petróleo,actualizado,2595600064,113655251
+2012-01-01,tcomb,Derivados del petróleo,actualizado,3020676028,125967758
+2013-01-01,tcomb,Derivados del petróleo,actualizado,3400154600,135042911
+2014-01-01,tcomb,Derivados del petróleo,actualizado,3877440000,146665832
+2015-01-01,tcomb,Derivados del petróleo,actualizado,4341852572,156411815
+2016-01-01,tcomb,Derivados del petróleo,actualizado,5029252555,172544652
+2017-01-01,tcomb,Derivados del petróleo,actualizado,5513273226,180146354
+2018-01-01,tcomb,Impuesto conglobado a los combustibles,actualizado,5375289449,167273989
+2019-01-01,tcomb,Impuesto conglobado a los combustibles,actualizado,5696906417,169023904
+2020-01-01,tcomb,Impuesto conglobado a los combustibles,actualizado,5863479658,171373537
+2005-01-01,tcorr,Transferencias corrientes,actualizado,117073000,6869803.3
+2006-01-01,tcorr,Transferencias corrientes,actualizado,142255000,7949970.5
+2007-01-01,tcorr,Transferencias corrientes,actualizado,104044000,5537656.2
+2008-01-01,tcorr,Transferencias corrientes,actualizado,125000000,6336105.6
+2009-01-01,tcorr,Transferencias corrientes,actualizado,125000000,6034486.2
+2010-01-01,tcorr,Transferencias corrientes,actualizado,125400013,5765523.3
+2011-01-01,tcorr,Transferencias corrientes,actualizado,60132004,2633039.7
+2012-01-01,tcorr,Transferencias corrientes,actualizado,68100000,2839895.5
+2013-01-01,tcorr,Transferencias corrientes,actualizado,54000000,2144701.7
+2014-01-01,tcorr,Transferencias corrientes,actualizado,45000000,1702144.3
+2015-01-01,tcorr,Transferencias corrientes,actualizado,50000000,1801210.6
+2016-01-01,tcorr,Transferencias corrientes,actualizado,50000000,1715410.5
+2017-01-01,tcorr,Transferencias corrientes,actualizado,55000000,1797126.5
+2018-01-01,tcorr,"Transferencias, subsidios y donaciones corrientes",actualizado,206933950.26,6439591.3
+2019-01-01,tcorr,"Transferencias, subsidios y donaciones corrientes",actualizado,222500000,6601445.8
+2020-01-01,tcorr,"Transferencias, subsidios y donaciones corrientes",actualizado,248250000,7255671.2
+2018-01-01,tur01,Tarjeta de turismo,actualizado,41461845,1290254
+2019-01-01,tur01,Tarjeta de turismo,actualizado,43173578,1280935
+2020-01-01,tur01,Tarjeta de turismo,actualizado,43548772,1272812
+2018-01-01,tur02,Derecho de terminal aérea,actualizado,39632646,1233331
+2019-01-01,tur02,Derecho de terminal aérea,actualizado,38239618,1134547
+2020-01-01,tur02,Derecho de terminal aérea,actualizado,41627502,1216658
+2018-01-01,tur03,Despacho migratorio,actualizado,36583981,1138459
+2019-01-01,tur03,Despacho migratorio,actualizado,41165462,1221355
+2020-01-01,tur03,Despacho migratorio,actualizado,38425387,1123069
+2018-01-01,tur04,Prórroga de estancia,actualizado,7316796,227692
+2019-01-01,tur04,Prórroga de estancia,actualizado,20006255,593574
+2020-01-01,tur04,Prórroga de estancia,actualizado,7685077,224614
+2018-01-01,veh,Registro de la propiedad vehicular,actualizado,68353551.68,2127099
+2019-01-01,veh,Registro de la propiedad vehicular,actualizado,133479825.13,3960269
+2020-01-01,veh,Registro de la propiedad vehicular,actualizado,124233413,3631004
+2005-01-01,a,Ingresos totales,ejecutado,14708097044.01,863066067
+2006-01-01,a,Ingresos totales,ejecutado,17513936559.2,978772474
+2007-01-01,a,Ingresos totales,ejecutado,20585208897.4,1095630780
+2008-01-01,a,Ingresos totales,ejecutado,23475765326.41,1189959427
+2009-01-01,a,Ingresos totales,ejecutado,23776473034.11,1147830387
+2010-01-01,a,Ingresos totales,ejecutado,27736125935.03,1275225392
+2011-01-01,a,Ingresos totales,ejecutado,34946213464.24,1530212885
+2012-01-01,a,Ingresos totales,ejecutado,40729495224.12,1698495022
+2013-01-01,a,Ingresos totales,ejecutado,44041173647.3,1749169964
+2014-01-01,a,Ingresos totales,ejecutado,50687272583.87,1917267842
+2015-01-01,a,Ingresos totales,ejecutado,58170512449.18,2095546838
+2016-01-01,a,Ingresos totales,ejecutado,66101760713.52,2267833076
+2017-01-01,a,Ingresos totales,ejecutado,73851560525.29,2413101766
+2018-01-01,a,Ingresos totales,ejecutado,69712481365.27,2169387331
+2019-01-01,a,Ingresos totales,ejecutado,79271603553.58,2351942432
+2005-01-01,a01,Ingresos tributarios,ejecutado,13645868301.02,800734850
+2006-01-01,a01,Ingresos tributarios,ejecutado,16201227875.36,905411290
+2007-01-01,a01,Ingresos tributarios,ejecutado,18926379325.22,1007340943
+2008-01-01,a01,Ingresos tributarios,ejecutado,21674519141.4,1098656338
+2009-01-01,a01,Ingresos tributarios,ejecutado,22033821098.81,1063702314
+2010-01-01,a01,Ingresos tributarios,ejecutado,25530003215.72,1173794366
+2011-01-01,a01,Ingresos tributarios,ejecutado,31751686410.38,1390332023
+2012-01-01,a01,Ingresos tributarios,ejecutado,37124213033.87,1548148109
+2013-01-01,a01,Ingresos tributarios,ejecutado,40680905266.34,1615711202
+2014-01-01,a01,Ingresos tributarios,ejecutado,47162796443.45,1783953019
+2015-01-01,a01,Ingresos tributarios,ejecutado,54127920035.76,1949915634
+2016-01-01,a01,Ingresos tributarios,ejecutado,61403343570.12,2106638795
+2017-01-01,a01,Ingresos tributarios,ejecutado,68614348404.23,2241975716
+2018-01-01,a01,Impuestos,ejecutado,64522742222.77,2007887494
+2019-01-01,a01,Impuestos,ejecutado,73278356182.93,2174126263
+2005-01-01,dai,DAI,ejecutado,837390226.11,49137770
+2006-01-01,dai,DAI,ejecutado,887529667.14,49599906
+2007-01-01,dai,DAI,ejecutado,1003872989.43,53430313
+2008-01-01,dai,DAI,ejecutado,1093388823.51,55422616
+2009-01-01,dai,DAI,ejecutado,870329484.52,42015930
+2010-01-01,dai,DAI,ejecutado,1094254610.56,50310605
+2011-01-01,dai,DAI,ejecutado,1399764829.98,61292425
+2012-01-01,dai,DAI,ejecutado,1660949441.59,69264653
+2013-01-01,dai,DAI,ejecutado,1717368528.87,68208206
+2014-01-01,dai,DAI,ejecutado,1827832404.54,69138545
+2015-01-01,dai,DAI,ejecutado,2155126303.44,77636726
+2016-01-01,dai,DAI,ejecutado,2508652357.05,86067371
+2017-01-01,dai,DAI,ejecutado,2623449659.76,85721290
+2018-01-01,dai,DAI,ejecutado,1970928256.52,61333447
+2019-01-01,dai,DAI,ejecutado,1988480819.16,58997071
+2005-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,63202848.98,3708721.4
+2006-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,66365819.38,3708877
+2007-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,78143203.32,4159107.6
+2008-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,79198387.88,4014474.8
+2009-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,63628526.55,3071723.7
+2010-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,112380706.75,5166934
+2011-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,125962864.71,5515619
+2012-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,162602587.57,6780827.6
+2013-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,174076758.66,6913753.9
+2014-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,171404661.09,6483454.9
+2015-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,202559662.29,7297052.1
+2016-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,220277178.53,7557315.7
+2017-01-01,difcam,Utilidad por diferencia de cambios,ejecutado,252352688.73,8245631
+2018-01-01,difcam,Utilidad por diferencia de cambios y mantenimiento de valor,ejecutado,214586713.83,6677738.2
+2019-01-01,difcam,Utilidad por diferencia de cambios y mantenimiento de valor,ejecutado,103550947.08,3072296.5
+2018-01-01,emgas,Certificado de emisión de gases,ejecutado,13723200,427053
+2019-01-01,emgas,Certificado de emisión de gases,ejecutado,16545120,490884
+2005-01-01,fomav,FOMAV,ejecutado,0,0
+2006-01-01,fomav,FOMAV,ejecutado,178646904.81,9983745
+2007-01-01,fomav,FOMAV,ejecutado,282319382.7,15026216
+2008-01-01,fomav,FOMAV,ejecutado,439632858.86,22284482
+2009-01-01,fomav,FOMAV,ejecutado,614170124.57,29649609
+2010-01-01,fomav,FOMAV,ejecutado,697687670.66,32077625
+2011-01-01,fomav,FOMAV,ejecutado,772270363.75,33815911
+2012-01-01,fomav,FOMAV,ejecutado,832942258.12,34735227
+2013-01-01,fomav,FOMAV,ejecutado,995148178.22,39523999
+2014-01-01,fomav,FOMAV,ejecutado,1021170063.64,38626196
+2015-01-01,fomav,FOMAV,ejecutado,1200844244.89,43259467
+2016-01-01,fomav,FOMAV,ejecutado,1354463289.92,46469211
+2017-01-01,fomav,FOMAV,ejecutado,1483163153.56,48462397
+2018-01-01,fomav,FOMAV,ejecutado,1457022597.49,45341183
+2019-01-01,fomav,FOMAV,ejecutado,1552526934.29,46062572
+2005-01-01,for01,Derechos de vigencia sector forestal,ejecutado,490779.72,28798.785
+2006-01-01,for01,Derechos de vigencia sector forestal,ejecutado,169023.08,9445.914
+2007-01-01,for01,Derechos de vigencia sector forestal,ejecutado,128546.09,6841.76
+2008-01-01,for01,Derechos de vigencia sector forestal,ejecutado,750752.77,38054.791
+2009-01-01,for01,Derechos de vigencia sector forestal,ejecutado,233056.36,11251.003
+2010-01-01,for01,Derechos de vigencia sector forestal,ejecutado,175693.52,8077.871
+2011-01-01,for01,Derechos de vigencia sector forestal,ejecutado,296601.76,12987.497
+2012-01-01,for01,Derechos de vigencia sector forestal,ejecutado,171270.58,7142.299
+2013-01-01,for01,Derechos de vigencia sector forestal,ejecutado,255500.29,10147.628
+2014-01-01,for01,Derechos de vigencia sector forestal,ejecutado,317728.24,12018.207
+2015-01-01,for01,Derechos de vigencia sector forestal,ejecutado,481706.52,17353.098
+2016-01-01,for01,Derechos de vigencia sector forestal,ejecutado,186698.13,6405.279
+2017-01-01,for01,Derechos de vigencia sector forestal,ejecutado,298303.95,9747.09
+2018-01-01,for01,Derechos de vigencia forestal,ejecutado,58835.95,1830.92
+2019-01-01,for01,Derechos de vigencia forestal,ejecutado,324084,9615.384
+2005-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,24202614.06,1420201
+2006-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,11701110,653921
+2007-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,5747362.07,305899
+2008-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,8756516.64,443858
+2009-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,14319336.56,691279
+2010-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,24038667.52,1105227
+2011-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,58228386.34,2549685
+2012-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,45128930.88,1881960
+2013-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,48388471.72,1921830
+2014-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,51505135.14,1948204
+2015-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,35684227.72,1285496
+2016-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,14446559.04,495636
+2017-01-01,for02,Derecho de aprovechamiento sector forestal,ejecutado,22232855.64,726459
+2018-01-01,for02,Derechos de aprovechamiento forestal,ejecutado,18284269.16,568989
+2019-01-01,for02,Derechos de aprovechamiento forestal,ejecutado,26345946.75,781669
+2005-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,0,0
+2006-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,710172,39688.2108
+2007-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,4536.97,241.4765
+2008-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,642317.9,32558.3524
+2009-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,4413114.08,213047.008
+2010-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,1735.31,79.7844
+2011-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,0,0
+2012-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,6099.2,254.3479
+2013-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,1175.69,46.6945
+2014-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,0,0
+2015-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,202.93,7.3104
+2016-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,0,0
+2017-01-01,geo01,Derecho superficial de recursos geotérmicos,ejecutado,345261.15,11281.4175
+2018-01-01,geo01,Derecho de superficie de explotación de recursos geotérmicos,ejecutado,0,0
+2019-01-01,geo01,Derecho de superficie de explotación de recursos geotérmicos,ejecutado,219958.88,6526.0522
+2005-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,0,0
+2006-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,0,0
+2007-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,1485639.1,79071.9
+2008-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,1691326.4,85731.4
+2009-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,1826943.45,88197.3
+2010-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,639360.4,29395.9
+2011-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,713306.75,31234
+2012-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,808706.85,33724.6
+2013-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,848693.5,33707.3
+2014-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,763722,28888.1
+2015-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,800409,28834.1
+2016-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,841767,28879.5
+2017-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,882450,28834.1
+2018-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,1173780.3,36526.9
+2019-01-01,geo02,Derecho de explotación de recursos geotérmicos,ejecutado,977595,29004.7
+2018-01-01,imi,Impuesto selectivo municipal (ISC-IMI),ejecutado,131038192.58,4077786
+2019-01-01,imi,Impuesto selectivo municipal (ISC-IMI),ejecutado,127188499.71,3773609
+2005-01-01,inftr,Multas por infracciones de tránsito,ejecutado,524756.78,30793
+2006-01-01,inftr,Multas por infracciones de tránsito,ejecutado,10387012.91,580482
+2007-01-01,inftr,Multas por infracciones de tránsito,ejecutado,877859.46,46723
+2008-01-01,inftr,Multas por infracciones de tránsito,ejecutado,1047247.99,53084
+2009-01-01,inftr,Multas por infracciones de tránsito,ejecutado,1184255.02,57171
+2010-01-01,inftr,Multas por infracciones de tránsito,ejecutado,1455096.37,66901
+2011-01-01,inftr,Multas por infracciones de tránsito,ejecutado,29240659.67,1280380
+2012-01-01,inftr,Multas por infracciones de tránsito,ejecutado,54926844,2290551
+2013-01-01,inftr,Multas por infracciones de tránsito,ejecutado,81273813.53,3227927
+2014-01-01,inftr,Multas por infracciones de tránsito,ejecutado,122503205.49,4633736
+2015-01-01,inftr,Multas por infracciones de tránsito,ejecutado,177284880.37,6386548
+2016-01-01,inftr,Multas por infracciones de tránsito,ejecutado,193533822,6639799
+2017-01-01,inftr,Multas por infracciones de tránsito,ejecutado,280151406,9153955
+2018-01-01,inftr,Multas por infracción de tránsito,ejecutado,186675868,5809179
+2019-01-01,inftr,Multas por infracción de tránsito,ejecutado,227967234,6763655
+2005-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,42145579.72,2473088
+2006-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,68413625.48,3823319
+2007-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,137878867.81,7338489
+2008-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,94898754.85,4810308
+2009-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,11299195.34,545479
+2010-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,15763669.31,724767
+2011-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,16715166.45,731918
+2012-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,22672421.45,945482
+2013-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,23560117.4,935730
+2014-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,22158553.93,838157
+2015-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,26911542.56,969467
+2016-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,41438898.33,1421694
+2017-01-01,intdep,Intereses obtenidos por depósitos,ejecutado,72393280.8,2365452
+2018-01-01,intdep,Intereses por depósitos,ejecutado,98176367.25,3055157
+2019-01-01,intdep,Intereses por depósitos,ejecutado,54141384.51,1606343
+2005-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,25494915.01,1496033
+2006-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,27953959.26,1562217
+2007-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,13049279.5,694537
+2008-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,13735863.04,696255
+2009-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,13516274.17,652510
+2010-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,18212869.32,837374
+2011-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,18300214.58,801324
+2012-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,87294298.37,3640333
+2013-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,84546600.38,3357912
+2014-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,97948283.98,3704936
+2015-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,169986405.77,6123626
+2016-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,169178452.95,5804210
+2017-01-01,intpres,Intereses obtenidos por préstamos,ejecutado,142074570.03,4642290
+2018-01-01,intpres,Intereses por préstamos,ejecutado,85077333.79,2647527
+2019-01-01,intpres,Intereses por préstamos,ejecutado,89671992.09,2660516
+2005-01-01,ir,IR,ejecutado,3902282405.52,228984587
+2006-01-01,ir,IR,ejecutado,4780186918.89,267142419
+2007-01-01,ir,IR,ejecutado,5752242055.73,306158343
+2008-01-01,ir,IR,ejecutado,7003350236.81,354991734
+2009-01-01,ir,IR,ejecutado,7839672610.21,378467169
+2010-01-01,ir,IR,ejecutado,8480859950.5,389924966
+2011-01-01,ir,IR,ejecutado,11334936059.4,496330317
+2012-01-01,ir,IR,ejecutado,13346486369.87,556573081
+2013-01-01,ir,IR,ejecutado,14832230369.44,589087205
+2014-01-01,ir,IR,ejecutado,17658436017.88,667937922
+2015-01-01,ir,IR,ejecutado,20799947318.63,749301699
+2016-01-01,ir,IR,ejecutado,24307028201.57,833930624
+2017-01-01,ir,IR,ejecutado,27866514239.85,910539117
+2018-01-01,ir,IR,ejecutado,29257689114.47,910471968
+2019-01-01,ir,IR,ejecutado,33035807900.46,980153231
+2018-01-01,isc01,Azúcar,ejecutado,36085297.51,1122941
+2019-01-01,isc01,Azúcar,ejecutado,4632688.45,137449
+2005-01-01,isc02,Cigarrillos,ejecutado,142993959.55,8390836.278
+2006-01-01,isc02,Cigarrillos,ejecutado,139245977.21,7781810.171
+2007-01-01,isc02,Cigarrillos,ejecutado,158451853.8,8433469.346
+2008-01-01,isc02,Cigarrillos,ejecutado,177417243.94,8993075.156
+2009-01-01,isc02,Cigarrillos,ejecutado,171225930.91,8266084.133
+2010-01-01,isc02,Cigarrillos,ejecutado,44909966.3,2064827.997
+2011-01-01,isc02,Cigarrillos,ejecutado,394.91,17.292
+2012-01-01,isc02,Cigarrillos,ejecutado,7396.17,308.434
+2013-01-01,isc02,Cigarrillos,ejecutado,174022088.09,6911582.604
+2014-01-01,isc02,Cigarrillos,ejecutado,57219.85,2164.365
+2015-01-01,isc02,Cigarrillos,ejecutado,20907.03,753.159
+2016-01-01,isc02,Cigarrillos,ejecutado,252161.83,8651.221
+2017-01-01,isc02,Cigarrillos,ejecutado,106334.7,3474.489
+2018-01-01,isc02,Cigarrillos,ejecutado,352189.3,10959.802
+2019-01-01,isc02,Cigarrillos,ejecutado,65907.03,1955.423
+2005-01-01,isc03,Rones y aguardientes,ejecutado,101525789.81,5957498
+2006-01-01,isc03,Rones y aguardientes,ejecutado,118688555.05,6632951
+2007-01-01,isc03,Rones y aguardientes,ejecutado,144465258.8,7689044
+2008-01-01,isc03,Rones y aguardientes,ejecutado,188695738.31,9564769
+2009-01-01,isc03,Rones y aguardientes,ejecutado,147487593.94,7120095
+2010-01-01,isc03,Rones y aguardientes,ejecutado,197647940.97,9087270
+2011-01-01,isc03,Rones y aguardientes,ejecutado,240386384.17,10525957
+2012-01-01,isc03,Rones y aguardientes,ejecutado,213854124.68,8918111
+2013-01-01,isc03,Rones y aguardientes,ejecutado,252933410.74,10045680
+2014-01-01,isc03,Rones y aguardientes,ejecutado,230419155.18,8715703
+2015-01-01,isc03,Rones y aguardientes,ejecutado,264134147.86,9515224
+2016-01-01,isc03,Rones y aguardientes,ejecutado,304922343.09,10461340
+2017-01-01,isc03,Rones y aguardientes,ejecutado,355363176.04,11611502
+2018-01-01,isc03,Bebidas alcohólicas,ejecutado,352612561.36,10972974
+2019-01-01,isc03,Bebidas alcohólicas,ejecutado,583116368.93,17300724
+2005-01-01,isc04,Cervezas,ejecutado,339754797.56,19936694
+2006-01-01,isc04,Cervezas,ejecutado,422163289.3,23592743
+2007-01-01,isc04,Cervezas,ejecutado,479595677.69,25526085
+2008-01-01,isc04,Cervezas,ejecutado,560969560.37,28434899
+2009-01-01,isc04,Cervezas,ejecutado,556071365.81,26844840
+2010-01-01,isc04,Cervezas,ejecutado,644680737.93,29640522
+2011-01-01,isc04,Cervezas,ejecutado,780674776.06,34183921
+2012-01-01,isc04,Cervezas,ejecutado,915091214.64,38160990
+2013-01-01,isc04,Cervezas,ejecutado,1047310104.26,41595698
+2014-01-01,isc04,Cervezas,ejecutado,1183682303.91,44773291
+2015-01-01,isc04,Cervezas,ejecutado,1370485526.46,49370660
+2016-01-01,isc04,Cervezas,ejecutado,1476117846.44,50642961
+2017-01-01,isc04,Cervezas,ejecutado,1648803878.35,53874712
+2018-01-01,isc04,Cervezas,ejecutado,1662925112.81,51748677
+2019-01-01,isc04,Cervezas,ejecutado,1857159619.24,55100847
+2005-01-01,isc05,Gaseosas,ejecutado,127779296.56,7498045
+2006-01-01,isc05,Gaseosas,ejecutado,148927248.65,8322851
+2007-01-01,isc05,Gaseosas,ejecutado,146075475.89,7774747
+2008-01-01,isc05,Gaseosas,ejecutado,193580728.76,9812384
+2009-01-01,isc05,Gaseosas,ejecutado,187602113.25,9056659
+2010-01-01,isc05,Gaseosas,ejecutado,248139530.93,11408725
+2011-01-01,isc05,Gaseosas,ejecutado,291527946.08,12765326
+2012-01-01,isc05,Gaseosas,ejecutado,350724902.23,14625875
+2013-01-01,isc05,Gaseosas,ejecutado,388721427.65,15438731
+2014-01-01,isc05,Gaseosas,ejecutado,423442591.04,16016898
+2015-01-01,isc05,Gaseosas,ejecutado,500553189.11,18032034
+2016-01-01,isc05,Gaseosas,ejecutado,524696068,18001383
+2017-01-01,isc05,Gaseosas,ejecutado,544850294.05,17802998
+2018-01-01,isc05,Aguas gaseadas,ejecutado,523104581.14,16278526
+2019-01-01,isc05,Aguas gaseadas,ejecutado,470142336.23,13948850
+2018-01-01,isc06,Otros ISC por enajenación de bienes,ejecutado,108986061.65,3391544
+2019-01-01,isc06,Otros ISC por enajenación de bienes,ejecutado,187943007.88,5576160
+2005-01-01,isc07,ISC a la importación,ejecutado,734355825.09,43091747
+2006-01-01,isc07,ISC a la importación,ejecutado,975615307.77,54522603
+2007-01-01,isc07,ISC a la importación,ejecutado,1025464639.93,54579510
+2008-01-01,isc07,ISC a la importación,ejecutado,1180076469.34,59816713
+2009-01-01,isc07,ISC a la importación,ejecutado,975188970,47078115
+2010-01-01,isc07,ISC a la importación,ejecutado,1558580344.24,71658934
+2011-01-01,isc07,ISC a la importación,ejecutado,1901385450.29,83257218
+2012-01-01,isc07,ISC a la importación,ejecutado,2233350808.97,93134845
+2013-01-01,isc07,ISC a la importación,ejecutado,1924147761.04,76420794
+2014-01-01,isc07,ISC a la importación,ejecutado,1902057557.62,71946144
+2015-01-01,isc07,ISC a la importación,ejecutado,3105268567,111864851
+2016-01-01,isc07,ISC a la importación,ejecutado,3505023794.38,120251092
+2017-01-01,isc07,ISC a la importación,ejecutado,3540802087.83,115695805
+2018-01-01,isc07,Otros ISC por importación o internación de bienes,ejecutado,2762692590.21,85972414
+2019-01-01,isc07,Otros ISC por importación o internación de bienes,ejecutado,4804568938.09,142548770
+2005-01-01,isc08,Otros selectivos al consumo,ejecutado,24687742.43,1448668
+2006-01-01,isc08,Otros selectivos al consumo,ejecutado,33981967.01,1899094
+2007-01-01,isc08,Otros selectivos al consumo,ejecutado,37200689.68,1979976
+2008-01-01,isc08,Otros selectivos al consumo,ejecutado,55385476.77,2807426
+2009-01-01,isc08,Otros selectivos al consumo,ejecutado,77408247.11,3736952
+2010-01-01,isc08,Otros selectivos al consumo,ejecutado,148463609.33,6825920
+2011-01-01,isc08,Otros selectivos al consumo,ejecutado,155787230.6,6821558
+2012-01-01,isc08,Otros selectivos al consumo,ejecutado,125612091.31,5238256
+2013-01-01,isc08,Otros selectivos al consumo,ejecutado,48951136.5,1944177
+2014-01-01,isc08,Otros selectivos al consumo,ejecutado,77578914.43,2934456
+2015-01-01,isc08,Otros selectivos al consumo,ejecutado,135958620.67,4897802
+2016-01-01,isc08,Otros selectivos al consumo,ejecutado,117446793.07,4029389
+2017-01-01,isc08,Otros selectivos al consumo,ejecutado,140141075.44,4579113
+2005-01-01,itf,ITF,ejecutado,16612837.74,974836
+2006-01-01,itf,ITF,ejecutado,18524934.45,1035272
+2007-01-01,itf,ITF,ejecutado,20284332.01,1079617
+2008-01-01,itf,ITF,ejecutado,21284722.93,1078898
+2009-01-01,itf,ITF,ejecutado,24010728.46,1159139
+2010-01-01,itf,ITF,ejecutado,20253541.7,931198
+2011-01-01,itf,ITF,ejecutado,21991387.79,962951
+2012-01-01,itf,ITF,ejecutado,23503044.78,980120
+2013-01-01,itf,ITF,ejecutado,77298980.69,3070060
+2014-01-01,itf,ITF,ejecutado,86869075.3,3285860
+2015-01-01,itf,ITF,ejecutado,89764709.04,3233703
+2016-01-01,itf,ITF,ejecutado,89855085.13,3082767
+2017-01-01,itf,ITF,ejecutado,87781140.52,2868251
+2018-01-01,itf,ITF,ejecutado,80133004.31,2493664
+2019-01-01,itf,ITF,ejecutado,66535262.17,1974063
+2005-01-01,iva01,IVA,ejecutado,2141432472.47,125658520
+2006-01-01,iva01,IVA,ejecutado,2642967432.93,147703160
+2007-01-01,iva01,IVA,ejecutado,3102455793.24,165125653
+2008-01-01,iva01,IVA,ejecutado,3138684856.58,159096310
+2009-01-01,iva01,IVA,ejecutado,3831883139.05,184987567
+2010-01-01,iva01,IVA,ejecutado,4028332980.83,185210888
+2011-01-01,iva01,IVA,ejecutado,4605344862.87,201657271
+2012-01-01,iva01,IVA,ejecutado,5219395276.53,217658403
+2013-01-01,iva01,IVA,ejecutado,5689407449.11,225964474
+2014-01-01,iva01,IVA,ejecutado,6777353553.53,256356307
+2015-01-01,iva01,IVA,ejecutado,7258853637.13,261494478
+2016-01-01,iva01,IVA,ejecutado,8251140485.61,283081859
+2017-01-01,iva01,IVA,ejecutado,10048983134.08,328350799
+2018-01-01,iva01,IVA enajenación de bienes de mercado interno,ejecutado,9076148715.46,282441274
+2019-01-01,iva01,IVA enajenación de bienes de mercado interno,ejecutado,9525469729.67,282615154
+2005-01-01,iva02,IVA de las importaciones,ejecutado,3457272199.89,202871541
+2006-01-01,iva02,IVA de las importaciones,ejecutado,4163294896.16,232667192
+2007-01-01,iva02,IVA de las importaciones,ejecutado,4922483140.54,261995109
+2008-01-01,iva02,IVA de las importaciones,ejecutado,5870111184.66,297549155
+2009-01-01,iva02,IVA de las importaciones,ejecutado,5038784538.21,243251806
+2010-01-01,iva02,IVA de las importaciones,ejecutado,6324182755.83,290767299
+2011-01-01,iva02,IVA de las importaciones,ejecutado,8270619226.37,362151056
+2012-01-01,iva02,IVA de las importaciones,ejecutado,9932060882.14,414185245
+2013-01-01,iva02,IVA de las importaciones,ejecutado,11046595925.46,438734307
+2014-01-01,iva02,IVA de las importaciones,ejecutado,12607220958.16,476873544
+2015-01-01,iva02,IVA de las importaciones,ejecutado,13454846754.95,484700244
+2016-01-01,iva02,IVA de las importaciones,ejecutado,14570471789.97,499886803
+2017-01-01,iva02,IVA de las importaciones,ejecutado,15502036966.55,506529483
+2018-01-01,iva02,IVA importación e internación de bienes,ejecutado,12828449551.56,399209372
+2019-01-01,iva02,IVA importación e internación de bienes,ejecutado,14590056431.25,432878500
+2005-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,22417403.88,1315446
+2006-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,21522159.92,1202773
+2007-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,29140807.16,1550995
+2008-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,31109300.15,1576894
+2009-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,29206576.19,1409973
+2010-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,38872077.1,1787224
+2011-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,55010518.36,2408782
+2012-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,67324598.57,2807560
+2013-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,71809071.02,2852019
+2014-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,83613576.93,3162719
+2015-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,89176255.35,3212504
+2016-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,102875710.91,3529481
+2017-01-01,min01,Derecho de superficie exploracion sector minero,ejecutado,103079907.02,3368139
+2018-01-01,min01,Derechos de vigencia o superficiales minería,ejecutado,115745495.99,3601892
+2019-01-01,min01,Derechos de vigencia o superficiales minería,ejecutado,132930604.73,3943974
+2005-01-01,min02,Derechos sobre explotación sector minero,ejecutado,29694903.54,1742487
+2006-01-01,min02,Derechos sobre explotación sector minero,ejecutado,37937875.21,2120171
+2007-01-01,min02,Derechos sobre explotación sector minero,ejecutado,33638667.72,1790390
+2008-01-01,min02,Derechos sobre explotación sector minero,ejecutado,55992406.41,2838190
+2009-01-01,min02,Derechos sobre explotación sector minero,ejecutado,52006757.05,2510672
+2010-01-01,min02,Derechos sobre explotación sector minero,ejecutado,75307998.31,3462440
+2011-01-01,min02,Derechos sobre explotación sector minero,ejecutado,245458115.7,10748036
+2012-01-01,min02,Derechos sobre explotación sector minero,ejecutado,285878736.05,11921670
+2013-01-01,min02,Derechos sobre explotación sector minero,ejecutado,298230050.79,11844713
+2014-01-01,min02,Derechos sobre explotación sector minero,ejecutado,289898449.35,10965533
+2015-01-01,min02,Derechos sobre explotación sector minero,ejecutado,261935961.63,9436036
+2016-01-01,min02,Derechos sobre explotación sector minero,ejecutado,313994554.04,10772591
+2017-01-01,min02,Derechos sobre explotación sector minero,ejecutado,302213293.95,9874828
+2018-01-01,min02,Derechos de extracción o regalías minería,ejecutado,326561462.01,10162288
+2019-01-01,min02,Derechos de extracción o regalías minería,ejecutado,419175577.22,12436696
+2005-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,3808254.48,223467
+2006-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,4341698.52,242637
+2007-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,5893774.72,313691
+2008-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,5497041.56,278639
+2009-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,3646081.64,176018
+2010-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,5252293.03,241485
+2011-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,6074269.47,265978
+2012-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,7405783.29,308835
+2013-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,9153064.66,363529
+2014-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,12334347.1,466552
+2015-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,13163450.28,474203
+2016-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,11454361.9,392979
+2017-01-01,pes01,Derechos de vigencia sector pesca,ejecutado,16040988.05,524140
+2018-01-01,pes01,Derechos de vigencia sector pesca y acuicultura,ejecutado,22872842.44,711782
+2019-01-01,pes01,Derechos de vigencia sector pesca y acuicultura,ejecutado,31352540.81,930212
+2005-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,4360445.05,255869
+2006-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,8555762.72,478142
+2007-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,8718574.01,464039
+2008-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,8774651.47,444777
+2009-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,6017615.09,290506
+2010-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,4082621.99,187707
+2011-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,4324188.96,189346
+2012-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,5700962.54,237741
+2013-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,7241192.7,287596
+2014-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,5374997.4,203312
+2015-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,6729393.54,242421
+2016-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,17752978.98,609073
+2017-01-01,pes02,Derecho por aprovechamiento a los recursos pesqueros,ejecutado,28509122.06,931536
+2018-01-01,pes02,Derechos de aprovechamiento sector pesca,ejecutado,19876511.68,618538
+2019-01-01,pes02,Derechos de aprovechamiento sector pesca,ejecutado,22351093.44,663144
+2018-01-01,recd,Certificado de antecedentes policiales y penales,ejecutado,24547922.82,763908.4
+2019-01-01,recd,Certificado de antecedentes policiales y penales,ejecutado,19701590,584534.7
+2005-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2006-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2007-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2008-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2009-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2010-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2011-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2012-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2013-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2014-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2015-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2016-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2017-01-01,tcap,Transferencias de capital,ejecutado,0,0
+2018-01-01,tcap,Transferencias y donaciones de capital,ejecutado,0,0
+2019-01-01,tcap,Transferencias y donaciones de capital,ejecutado,4251.7,126.15
+2005-01-01,tcomb,Derivados del petróleo,ejecutado,1756133003.04,103049280
+2006-01-01,tcomb,Derivados del petróleo,ejecutado,1846050904.5,103167201
+2007-01-01,tcomb,Derivados del petróleo,ejecutado,2107610033.22,112175807
+2008-01-01,tcomb,Derivados del petróleo,ejecutado,2162182459.73,109598531
+2009-01-01,tcomb,Derivados del petróleo,ejecutado,2276564039.07,109903154
+2010-01-01,tcomb,Derivados del petróleo,ejecutado,2698889625.41,124086997
+2011-01-01,tcomb,Derivados del petróleo,ejecutado,2700122759.63,118232055
+2012-01-01,tcomb,Derivados del petróleo,ejecutado,3045311876.37,126995118
+2013-01-01,tcomb,Derivados del petróleo,ejecutado,3417655195.31,135737977
+2014-01-01,tcomb,Derivados del petróleo,ejecutado,3937528013.86,148938687
+2015-01-01,tcomb,Derivados del petróleo,ejecutado,4396408901.1,158377164
+2016-01-01,tcomb,Derivados del petróleo,ejecutado,5021467548.73,172277562
+2017-01-01,tcomb,Derivados del petróleo,ejecutado,5534028343.24,180824528
+2018-01-01,tcomb,Impuesto conglobado a los combustibles,ejecutado,5394860716.37,167883028
+2019-01-01,tcomb,Impuesto conglobado a los combustibles,ejecutado,5588582227.51,165809989
+2005-01-01,tcorr,Transferencias corrientes,ejecutado,102716251.48,6027354.2
+2006-01-01,tcorr,Transferencias corrientes,ejecutado,78985656.57,4414141.1
+2007-01-01,tcorr,Transferencias corrientes,ejecutado,110906191.35,5902890.6
+2008-01-01,tcorr,Transferencias corrientes,ejecutado,72186338.43,3659042.1
+2009-01-01,tcorr,Transferencias corrientes,ejecutado,50064000,2416884.1
+2010-01-01,tcorr,Transferencias corrientes,ejecutado,50308009.1,2313014.1
+2011-01-01,tcorr,Transferencias corrientes,ejecutado,60132003.9,2633039.7
+2012-01-01,tcorr,Transferencias corrientes,ejecutado,61725572.78,2574070.2
+2013-01-01,tcorr,Transferencias corrientes,ejecutado,54050000,2146687.5
+2014-01-01,tcorr,Transferencias corrientes,ejecutado,45000000,1702144.3
+2015-01-01,tcorr,Transferencias corrientes,ejecutado,16666666.64,600403.5
+2016-01-01,tcorr,Transferencias corrientes,ejecutado,32088398.49,1100895.5
+2017-01-01,tcorr,Transferencias corrientes,ejecutado,55000000,1797126.5
+2018-01-01,tcorr,"Transferencias, subsidios y donaciones corrientes",ejecutado,207546341.13,6458648.4
+2019-01-01,tcorr,"Transferencias, subsidios y donaciones corrientes",ejecutado,222945863.15,6614674.3
+2018-01-01,tur01,Tarjeta de turismo,ejecutado,35070983.64,1091376
+2019-01-01,tur01,Tarjeta de turismo,ejecutado,25220572.24,748280
+2018-01-01,tur02,Derecho de terminal aérea,ejecutado,32083077.1,998395
+2019-01-01,tur02,Derecho de terminal aérea,ejecutado,25444407.68,754921
+2018-01-01,tur03,Despacho migratorio,ejecutado,39283251.23,1222458
+2019-01-01,tur03,Despacho migratorio,ejecutado,39004292.34,1157235
+2018-01-01,tur04,Prórroga de estancia,ejecutado,15475743.06,481591
+2019-01-01,tur04,Prórroga de estancia,ejecutado,26276769.76,779616
+2018-01-01,veh,Registro de la propiedad vehicular,ejecutado,110328926.63,3433333
+2019-01-01,veh,Registro de la propiedad vehicular,ejecutado,130953730.58,3885321
