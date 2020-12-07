@@ -1,64 +1,65 @@
 ﻿date,var,type,amount
-2006-03-01,PIB,Nominal,28438.0166
-2006-06-01,PIB,Nominal,28538.1732
-2006-09-01,PIB,Nominal,29799.3038
-2006-12-01,PIB,Nominal,32062.2167
-2007-03-01,PIB,Nominal,32214.6467
-2007-06-01,PIB,Nominal,32761.1642
-2007-09-01,PIB,Nominal,34188.2666
-2007-12-01,PIB,Nominal,37786.1010
-2008-03-01,PIB,Nominal,38360.5906
-2008-06-01,PIB,Nominal,40914.3507
-2008-09-01,PIB,Nominal,42732.4020
-2008-12-01,PIB,Nominal,42595.0293
-2009-03-01,PIB,Nominal,40659.5401
-2009-06-01,PIB,Nominal,40612.5717
-2009-09-01,PIB,Nominal,42560.2632
-2009-12-01,PIB,Nominal,44958.9349
-2010-03-01,PIB,Nominal,44341.7706
-2010-06-01,PIB,Nominal,43653.4315
-2010-09-01,PIB,Nominal,47116.5141
-2010-12-01,PIB,Nominal,51940.9257
-2011-03-01,PIB,Nominal,49613.3127
-2011-06-01,PIB,Nominal,53475.1706
-2011-09-01,PIB,Nominal,56201.4943
-2011-12-01,PIB,Nominal,59892.2322
-2012-03-01,PIB,Nominal,59938.6686
-2012-06-01,PIB,Nominal,58613.7514
-2012-09-01,PIB,Nominal,62042.7502
-2012-12-01,PIB,Nominal,67398.7008
-2013-03-01,PIB,Nominal,65548.4330
-2013-06-01,PIB,Nominal,66530.9248
-2013-09-01,PIB,Nominal,68702.9700
-2013-12-01,PIB,Nominal,70747.4987
-2014-03-01,PIB,Nominal,73446.1586
-2014-06-01,PIB,Nominal,73339.7074
-2014-09-01,PIB,Nominal,78425.0247
-2014-12-01,PIB,Nominal,83192.2327
-2015-03-01,PIB,Nominal,82067.6669
-2015-06-01,PIB,Nominal,82690.8108
-2015-09-01,PIB,Nominal,87960.3925
-2015-12-01,PIB,Nominal,94988.4226
-2016-03-01,PIB,Nominal,91153.9491
-2016-06-01,PIB,Nominal,92667.6615
-2016-09-01,PIB,Nominal,95095.3644
-2016-12-01,PIB,Nominal,101343.7991
-2017-03-01,PIB,Nominal,101220.6524
-2017-06-01,PIB,Nominal,99969.3349
-2017-09-01,PIB,Nominal,101383.2658
-2017-12-01,PIB,Nominal,111705.8043
-2018-03-01,PIB,Nominal,107027.5946
-2018-06-01,PIB,Nominal,98617.7201
-2018-09-01,PIB,Nominal,100804.0730
-2018-12-01,PIB,Nominal,105757.6151
-2019-03-01,PIB,Nominal,101347.2721
-2019-06-01,PIB,Nominal,99999.7156
-2019-09-01,PIB,Nominal,102691.8262
-2019-12-01,PIB,Nominal,110674.7593
-2020-03-01,PIB,Nominal,108048.3669
-2020-06-01,PIB,Nominal,94486.7912
+2006-03-01,PIB,Nominal,28449.6682
+2006-06-01,PIB,Nominal,28558.09788
+2006-09-01,PIB,Nominal,29769.2498
+2006-12-01,PIB,Nominal,32060.6943
+2007-03-01,PIB,Nominal,32173.6903
+2007-06-01,PIB,Nominal,32805.0303
+2007-09-01,PIB,Nominal,34169.4674
+2007-12-01,PIB,Nominal,37801.9904
+2008-03-01,PIB,Nominal,38368.0557
+2008-06-01,PIB,Nominal,40953.4724
+2008-09-01,PIB,Nominal,42687.3310
+2008-12-01,PIB,Nominal,42593.5136
+2009-03-01,PIB,Nominal,40686.0870
+2009-06-01,PIB,Nominal,40633.6597
+2009-09-01,PIB,Nominal,42515.5523
+2009-12-01,PIB,Nominal,44956.0109
+2010-03-01,PIB,Nominal,44380.1865
+2010-06-01,PIB,Nominal,43678.0570
+2010-09-01,PIB,Nominal,47054.8448
+2010-12-01,PIB,Nominal,51939.5536
+2011-03-01,PIB,Nominal,49703.1528
+2011-06-01,PIB,Nominal,53493.9464
+2011-09-01,PIB,Nominal,56123.5590
+2011-12-01,PIB,Nominal,59861.5516
+2012-03-01,PIB,Nominal,59952.2611
+2012-06-01,PIB,Nominal,58620.4176
+2012-09-01,PIB,Nominal,61981.9053
+2012-12-01,PIB,Nominal,67439.2869
+2013-03-01,PIB,Nominal,65557.8940
+2013-06-01,PIB,Nominal,66598.9891
+2013-09-01,PIB,Nominal,68638.9192
+2013-12-01,PIB,Nominal,70734.0240
+2014-03-01,PIB,Nominal,73484.7795
+2014-06-01,PIB,Nominal,73392.3940
+2014-09-01,PIB,Nominal,78385.2570
+2014-12-01,PIB,Nominal,83140.6928
+2015-03-01,PIB,Nominal,82078.5067
+2015-06-01,PIB,Nominal,82690.9577
+2015-09-01,PIB,Nominal,88011.8094
+2015-12-01,PIB,Nominal,94926.0189
+2016-03-01,PIB,Nominal,91277.3130
+2016-06-01,PIB,Nominal,92683.1722
+2016-09-01,PIB,Nominal,95110.0375
+2016-12-01,PIB,Nominal,101190.2513
+2017-03-01,PIB,Nominal,101338.5684
+2017-06-01,PIB,Nominal,99970.0938
+2017-09-01,PIB,Nominal,101420.8106
+2017-12-01,PIB,Nominal,111549.5846
+2018-03-01,PIB,Nominal,107219.0052
+2018-06-01,PIB,Nominal,98665.9248
+2018-09-01,PIB,Nominal,100784.3061
+2018-12-01,PIB,Nominal,105537.7667
+2019-03-01,PIB,Nominal,101845.0552
+2019-06-01,PIB,Nominal,100106.5429
+2019-09-01,PIB,Nominal,102409.6908
+2019-12-01,PIB,Nominal,110352.2842
+2020-03-01,PIB,Nominal,108380.5547
+2020-06-01,PIB,Nominal,95146.4892
+2020-09-01,PIB,Nominal,103006.6133
 2006-03-01,Impuestos netos a la producción,Nominal, 2806.9921
-2006-06-01,Impuestos netos a la producción,Nominal, 2693.0511
+2006-06-01,Impuestos netos a la producción,Nominal, 2693.05110
 2006-09-01,Impuestos netos a la producción,Nominal, 2777.8294
 2006-12-01,Impuestos netos a la producción,Nominal, 2970.0871
 2007-03-01,Impuestos netos a la producción,Nominal, 3133.7421
@@ -84,97 +85,99 @@
 2012-03-01,Impuestos netos a la producción,Nominal, 6091.4914
 2012-06-01,Impuestos netos a la producción,Nominal, 5901.4289
 2012-09-01,Impuestos netos a la producción,Nominal, 5850.0293
-2012-12-01,Impuestos netos a la producción,Nominal, 6453.5359
-2013-03-01,Impuestos netos a la producción,Nominal, 6910.3392
-2013-06-01,Impuestos netos a la producción,Nominal, 6870.9858
+2012-12-01,Impuestos netos a la producción,Nominal, 6453.5360
+2013-03-01,Impuestos netos a la producción,Nominal, 6910.3394
+2013-06-01,Impuestos netos a la producción,Nominal, 6870.9859
 2013-09-01,Impuestos netos a la producción,Nominal, 6576.2519
-2013-12-01,Impuestos netos a la producción,Nominal, 6133.5853
-2014-03-01,Impuestos netos a la producción,Nominal, 7951.3900
-2014-06-01,Impuestos netos a la producción,Nominal, 7435.0704
-2014-09-01,Impuestos netos a la producción,Nominal, 7586.1068
-2014-12-01,Impuestos netos a la producción,Nominal, 6765.9804
-2015-03-01,Impuestos netos a la producción,Nominal, 8519.9930
-2015-06-01,Impuestos netos a la producción,Nominal, 7940.8883
-2015-09-01,Impuestos netos a la producción,Nominal, 8102.2943
-2015-12-01,Impuestos netos a la producción,Nominal, 8751.5740
-2016-03-01,Impuestos netos a la producción,Nominal, 9777.4637
-2016-06-01,Impuestos netos a la producción,Nominal, 9286.9384
-2016-09-01,Impuestos netos a la producción,Nominal, 9079.1079
-2016-12-01,Impuestos netos a la producción,Nominal,  9216.3900
-2017-03-01,Impuestos netos a la producción,Nominal, 10143.4094
-2017-06-01,Impuestos netos a la producción,Nominal,10330.8177
-2017-09-01,Impuestos netos a la producción,Nominal,  9881.7208
-2017-12-01,Impuestos netos a la producción,Nominal, 10691.7374
-2018-03-01,Impuestos netos a la producción,Nominal, 10387.2948
-2018-06-01,Impuestos netos a la producción,Nominal, 8787.9334
-2018-09-01,Impuestos netos a la producción,Nominal,  7897.4238
-2018-12-01,Impuestos netos a la producción,Nominal,  8602.3415
-2019-03-01,Impuestos netos a la producción,Nominal,  9594.8964
-2019-06-01,Impuestos netos a la producción,Nominal,10388.3609
-2019-09-01,Impuestos netos a la producción,Nominal, 10245.2291
-2019-12-01,Impuestos netos a la producción,Nominal, 10540.2909
-2020-03-01,Impuestos netos a la producción,Nominal, 11046.2689
-2020-06-01,Impuestos netos a la producción,Nominal, 9691.5706
-2006-03-01,Agricultura,Nominal, 2124.3835
-2006-06-01,Agricultura,Nominal, 2053.3652
-2006-09-01,Agricultura,Nominal, 2422.2437
-2006-12-01,Agricultura,Nominal, 2895.2787
-2007-03-01,Agricultura,Nominal, 2240.8818
-2007-06-01,Agricultura,Nominal, 2869.4920
-2007-09-01,Agricultura,Nominal, 3483.9364
-2007-12-01,Agricultura,Nominal, 3997.6374
-2008-03-01,Agricultura,Nominal, 2897.4661
-2008-06-01,Agricultura,Nominal, 3961.9508
-2008-09-01,Agricultura,Nominal, 4071.7178
-2008-12-01,Agricultura,Nominal, 3429.2022
-2009-03-01,Agricultura,Nominal, 3047.7694
-2009-06-01,Agricultura,Nominal, 3625.0898
-2009-09-01,Agricultura,Nominal, 4106.5759
-2009-12-01,Agricultura,Nominal, 4389.6758
-2010-03-01,Agricultura,Nominal, 3193.8419
-2010-06-01,Agricultura,Nominal, 3695.7481
-2010-09-01,Agricultura,Nominal, 5230.9859
-2010-12-01,Agricultura,Nominal, 6321.2148
-2011-03-01,Agricultura,Nominal, 4053.6168
-2011-06-01,Agricultura,Nominal, 6646.6324
-2011-09-01,Agricultura,Nominal, 6453.1959
-2011-12-01,Agricultura,Nominal, 7750.7922
-2012-03-01,Agricultura,Nominal, 5903.0197
-2012-06-01,Agricultura,Nominal, 5288.7732
-2012-09-01,Agricultura,Nominal, 6417.8938
-2012-12-01,Agricultura,Nominal, 6772.5808
-2013-03-01,Agricultura,Nominal, 5432.0743
-2013-06-01,Agricultura,Nominal, 5888.4945
-2013-09-01,Agricultura,Nominal, 6626.9713
-2013-12-01,Agricultura,Nominal, 5822.0835
-2014-03-01,Agricultura,Nominal, 5204.2588
-2014-06-01,Agricultura,Nominal, 5696.6631
-2014-09-01,Agricultura,Nominal, 7576.0011
-2014-12-01,Agricultura,Nominal, 8436.8198
-2015-03-01,Agricultura,Nominal, 6374.0000
-2015-06-01,Agricultura,Nominal, 6768.0291
-2015-09-01,Agricultura,Nominal, 7378.1923
-2015-12-01,Agricultura,Nominal, 8037.0829
-2016-03-01,Agricultura,Nominal, 6469.3701
-2016-06-01,Agricultura,Nominal, 7371.9199
-2016-09-01,Agricultura,Nominal, 7854.9307
-2016-12-01,Agricultura,Nominal,  7819.3059
-2017-03-01,Agricultura,Nominal,  7234.4906
-2017-06-01,Agricultura,Nominal, 7463.0021
-2017-09-01,Agricultura,Nominal,  7764.7522
-2017-12-01,Agricultura,Nominal,  8952.8816
-2018-03-01,Agricultura,Nominal,  7054.1687
-2018-06-01,Agricultura,Nominal, 7240.1279
-2018-09-01,Agricultura,Nominal,  7878.0971
-2018-12-01,Agricultura,Nominal,  9101.2019
-2019-03-01,Agricultura,Nominal,  7261.1654
-2019-06-01,Agricultura,Nominal, 7419.9486
-2019-09-01,Agricultura,Nominal,  8418.6535
-2019-12-01,Agricultura,Nominal,  9356.2027
-2020-03-01,Agricultura,Nominal,  7257.4457
-2020-06-01,Agricultura,Nominal, 7757.9413
+2013-12-01,Impuestos netos a la producción,Nominal, 6133.5849
+2014-03-01,Impuestos netos a la producción,Nominal, 7951.3890
+2014-06-01,Impuestos netos a la producción,Nominal, 7435.0697
+2014-09-01,Impuestos netos a la producción,Nominal, 7586.1069
+2014-12-01,Impuestos netos a la producción,Nominal, 6765.9821
+2015-03-01,Impuestos netos a la producción,Nominal, 8519.9976
+2015-06-01,Impuestos netos a la producción,Nominal, 7940.8918
+2015-09-01,Impuestos netos a la producción,Nominal, 8102.2940
+2015-12-01,Impuestos netos a la producción,Nominal, 8751.5662
+2016-03-01,Impuestos netos a la producción,Nominal, 9777.4425
+2016-06-01,Impuestos netos a la producción,Nominal, 9286.9220
+2016-09-01,Impuestos netos a la producción,Nominal, 9079.1102
+2016-12-01,Impuestos netos a la producción,Nominal,  9216.4253
+2017-03-01,Impuestos netos a la producción,Nominal, 10143.5009
+2017-06-01,Impuestos netos a la producción,Nominal,10330.8972
+2017-09-01,Impuestos netos a la producción,Nominal,  9881.7164
+2017-12-01,Impuestos netos a la producción,Nominal, 10691.5709
+2018-03-01,Impuestos netos a la producción,Nominal, 10386.8899
+2018-06-01,Impuestos netos a la producción,Nominal, 8787.6677
+2018-09-01,Impuestos netos a la producción,Nominal,  7897.4819
+2018-12-01,Impuestos netos a la producción,Nominal,  8602.9540
+2019-03-01,Impuestos netos a la producción,Nominal,  9596.4565
+2019-06-01,Impuestos netos a la producción,Nominal, 10390.7675
+2019-09-01,Impuestos netos a la producción,Nominal, 10248.0679
+2019-12-01,Impuestos netos a la producción,Nominal, 10533.4856
+2020-03-01,Impuestos netos a la producción,Nominal, 11049.5772
+2020-06-01,Impuestos netos a la producción,Nominal, 9694.4729
+2020-09-01,Impuestos netos a la producción,Nominal, 10394.0107
+2006-03-01,Agricultura,Nominal, 2136.8326
+2006-06-01,Agricultura,Nominal, 2073.75936
+2006-09-01,Agricultura,Nominal, 2391.6073
+2006-12-01,Agricultura,Nominal, 2893.0718
+2007-03-01,Agricultura,Nominal, 2203.2970
+2007-06-01,Agricultura,Nominal, 2913.4246
+2007-09-01,Agricultura,Nominal, 3462.1933
+2007-12-01,Agricultura,Nominal, 4013.0328
+2008-03-01,Agricultura,Nominal, 2906.3725
+2008-06-01,Agricultura,Nominal, 4002.0989
+2008-09-01,Agricultura,Nominal, 4024.5372
+2008-12-01,Agricultura,Nominal, 3427.3283
+2009-03-01,Agricultura,Nominal, 3075.8236
+2009-06-01,Agricultura,Nominal, 3648.4071
+2009-09-01,Agricultura,Nominal, 4057.7671
+2009-12-01,Agricultura,Nominal, 4387.1131
+2010-03-01,Agricultura,Nominal, 3237.5924
+2010-06-01,Agricultura,Nominal, 3723.1234
+2010-09-01,Agricultura,Nominal, 5165.5441
+2010-12-01,Agricultura,Nominal, 6315.5307
+2011-03-01,Agricultura,Nominal, 4144.9852
+2011-06-01,Agricultura,Nominal, 6669.1279
+2011-09-01,Agricultura,Nominal, 6370.3507
+2011-12-01,Agricultura,Nominal, 7719.7735
+2012-03-01,Agricultura,Nominal, 5919.6603
+2012-06-01,Agricultura,Nominal, 5300.0869
+2012-09-01,Agricultura,Nominal, 6350.8679
+2012-12-01,Agricultura,Nominal, 6811.6523
+2013-03-01,Agricultura,Nominal, 5443.4114
+2013-06-01,Agricultura,Nominal, 5962.1171
+2013-09-01,Agricultura,Nominal, 6554.2312
+2013-12-01,Agricultura,Nominal, 5809.8638
+2014-03-01,Agricultura,Nominal, 5248.3472
+2014-06-01,Agricultura,Nominal, 5770.1921
+2014-09-01,Agricultura,Nominal, 7516.0054
+2014-12-01,Agricultura,Nominal, 8379.1981
+2015-03-01,Agricultura,Nominal, 6399.8786
+2015-06-01,Agricultura,Nominal, 6798.6672
+2015-09-01,Agricultura,Nominal, 7383.6786
+2015-12-01,Agricultura,Nominal, 7975.0799
+2016-03-01,Agricultura,Nominal, 6582.7707
+2016-06-01,Agricultura,Nominal, 7383.4533
+2016-09-01,Agricultura,Nominal, 7873.3278
+2016-12-01,Agricultura,Nominal,  7675.9749
+2017-03-01,Agricultura,Nominal,  7357.6824
+2017-06-01,Agricultura,Nominal, 7462.5353
+2017-09-01,Agricultura,Nominal,  7801.1395
+2017-12-01,Agricultura,Nominal,  8793.7693
+2018-03-01,Agricultura,Nominal,  7246.4297
+2018-06-01,Agricultura,Nominal, 7288.3203
+2018-09-01,Agricultura,Nominal,  7858.7573
+2018-12-01,Agricultura,Nominal,  8880.0883
+2019-03-01,Agricultura,Nominal,  7757.9853
+2019-06-01,Agricultura,Nominal,  7524.6473
+2019-09-01,Agricultura,Nominal,  8134.3275
+2019-12-01,Agricultura,Nominal,  9039.0101
+2020-03-01,Agricultura,Nominal,  7538.0670
+2020-06-01,Agricultura,Nominal, 8194.1581
+2020-09-01,Agricultura,Nominal,  8772.6285
 2006-03-01,Pecuario,Nominal, 1821.2484
-2006-06-01,Pecuario,Nominal, 1740.6898
+2006-06-01,Pecuario,Nominal, 1740.68979
 2006-09-01,Pecuario,Nominal, 1722.7388
 2006-12-01,Pecuario,Nominal, 1783.2320
 2007-03-01,Pecuario,Nominal, 1931.1586
@@ -226,13 +229,14 @@
 2018-09-01,Pecuario,Nominal,  6272.5136
 2018-12-01,Pecuario,Nominal,  5774.7130
 2019-03-01,Pecuario,Nominal,  5802.6308
-2019-06-01,Pecuario,Nominal, 5508.2018
+2019-06-01,Pecuario,Nominal,  5508.2018
 2019-09-01,Pecuario,Nominal,  6029.1831
 2019-12-01,Pecuario,Nominal,  6594.9091
 2020-03-01,Pecuario,Nominal,  6597.3624
 2020-06-01,Pecuario,Nominal, 5619.1629
+2020-09-01,Pecuario,Nominal,  6175.9281
 2006-03-01,Silvicultura,Nominal,  386.4266
-2006-06-01,Silvicultura,Nominal,  347.7779
+2006-06-01,Silvicultura,Nominal,  347.77788
 2006-09-01,Silvicultura,Nominal,  343.9123
 2006-12-01,Silvicultura,Nominal,  362.2920
 2007-03-01,Silvicultura,Nominal,  391.9724
@@ -284,71 +288,73 @@
 2018-09-01,Silvicultura,Nominal,   933.5176
 2018-12-01,Silvicultura,Nominal,  1031.4765
 2019-03-01,Silvicultura,Nominal,   980.2281
-2019-06-01,Silvicultura,Nominal,  855.5491
+2019-06-01,Silvicultura,Nominal,   855.5491
 2019-09-01,Silvicultura,Nominal,   985.6689
 2019-12-01,Silvicultura,Nominal,  1078.9362
 2020-03-01,Silvicultura,Nominal,   993.1826
 2020-06-01,Silvicultura,Nominal,  838.4751
-2006-03-01,Pesca,Nominal,  213.2446
-2006-06-01,Pesca,Nominal,   58.7943
-2006-09-01,Pesca,Nominal,  314.9859
-2006-12-01,Pesca,Nominal,  304.1812
-2007-03-01,Pesca,Nominal,  182.8524
-2007-06-01,Pesca,Nominal,  100.8430
-2007-09-01,Pesca,Nominal,  347.9825
-2007-12-01,Pesca,Nominal,  327.6132
-2008-03-01,Pesca,Nominal,  167.6239
-2008-06-01,Pesca,Nominal,  155.2973
-2008-09-01,Pesca,Nominal,  330.7574
-2008-12-01,Pesca,Nominal,  268.9452
-2009-03-01,Pesca,Nominal,  145.8687
-2009-06-01,Pesca,Nominal,  147.4420
-2009-09-01,Pesca,Nominal,  377.3922
-2009-12-01,Pesca,Nominal,  310.5789
-2010-03-01,Pesca,Nominal,  171.7208
-2010-06-01,Pesca,Nominal,  129.1323
-2010-09-01,Pesca,Nominal,  470.3616
-2010-12-01,Pesca,Nominal,  534.1797
-2011-03-01,Pesca,Nominal,  238.7499
-2011-06-01,Pesca,Nominal,  208.8131
-2011-09-01,Pesca,Nominal,  597.5186
-2011-12-01,Pesca,Nominal,  475.9526
-2012-03-01,Pesca,Nominal,  206.0446
-2012-06-01,Pesca,Nominal,  230.5161
-2012-09-01,Pesca,Nominal,  642.8187
-2012-12-01,Pesca,Nominal,  551.5335
-2013-03-01,Pesca,Nominal,  249.5204
-2013-06-01,Pesca,Nominal,  277.5815
-2013-09-01,Pesca,Nominal,  838.7409
-2013-12-01,Pesca,Nominal,  859.0947
-2014-03-01,Pesca,Nominal,  379.2264
-2014-06-01,Pesca,Nominal,  516.6395
-2014-09-01,Pesca,Nominal, 1093.2855
-2014-12-01,Pesca,Nominal, 1003.7755
-2015-03-01,Pesca,Nominal,  441.2496
-2015-06-01,Pesca,Nominal,  353.0376
-2015-09-01,Pesca,Nominal, 1138.7289
-2015-12-01,Pesca,Nominal, 1084.8969
-2016-03-01,Pesca,Nominal,  434.1273
-2016-06-01,Pesca,Nominal,  484.7118
-2016-09-01,Pesca,Nominal,  962.3464
-2016-12-01,Pesca,Nominal,  1228.3337
-2017-03-01,Pesca,Nominal,   498.9365
-2017-06-01,Pesca,Nominal,  622.6817
-2017-09-01,Pesca,Nominal,  1289.3178
-2017-12-01,Pesca,Nominal,  1464.0742
-2018-03-01,Pesca,Nominal,   772.8610
-2018-06-01,Pesca,Nominal,  857.8908
-2018-09-01,Pesca,Nominal,  1282.5134
-2018-12-01,Pesca,Nominal,  1453.0710
-2019-03-01,Pesca,Nominal,   614.8457
-2019-06-01,Pesca,Nominal,  607.7094
-2019-09-01,Pesca,Nominal,  1168.1772
-2019-12-01,Pesca,Nominal,  1236.9421
-2020-03-01,Pesca,Nominal,   792.8158
-2020-06-01,Pesca,Nominal,  431.7117
+2020-09-01,Silvicultura,Nominal,   973.7761
+2006-03-01,Pesca,Nominal,  212.4471
+2006-06-01,Pesca,Nominal,   58.32487
+2006-09-01,Pesca,Nominal,  315.5683
+2006-12-01,Pesca,Nominal,  304.8657
+2007-03-01,Pesca,Nominal,  179.4808
+2007-06-01,Pesca,Nominal,  100.7766
+2007-09-01,Pesca,Nominal,  350.9265
+2007-12-01,Pesca,Nominal,  328.1073
+2008-03-01,Pesca,Nominal,  166.1826
+2008-06-01,Pesca,Nominal,  154.2709
+2008-09-01,Pesca,Nominal,  332.8670
+2008-12-01,Pesca,Nominal,  269.3033
+2009-03-01,Pesca,Nominal,  144.3615
+2009-06-01,Pesca,Nominal,  145.2127
+2009-09-01,Pesca,Nominal,  381.4901
+2009-12-01,Pesca,Nominal,  310.2176
+2010-03-01,Pesca,Nominal,  166.3861
+2010-06-01,Pesca,Nominal,  126.3824
+2010-09-01,Pesca,Nominal,  474.1341
+2010-12-01,Pesca,Nominal,  538.4918
+2011-03-01,Pesca,Nominal,  237.2216
+2011-06-01,Pesca,Nominal,  205.0936
+2011-09-01,Pesca,Nominal,  602.4285
+2011-12-01,Pesca,Nominal,  476.2905
+2012-03-01,Pesca,Nominal,  202.9958
+2012-06-01,Pesca,Nominal,  225.8680
+2012-09-01,Pesca,Nominal,  649.0001
+2012-12-01,Pesca,Nominal,  553.0491
+2013-03-01,Pesca,Nominal,  247.6445
+2013-06-01,Pesca,Nominal,  272.0320
+2013-09-01,Pesca,Nominal,  847.4255
+2013-12-01,Pesca,Nominal,  857.8356
+2014-03-01,Pesca,Nominal,  373.7596
+2014-06-01,Pesca,Nominal,  495.7873
+2014-09-01,Pesca,Nominal, 1113.5203
+2014-12-01,Pesca,Nominal, 1009.8597
+2015-03-01,Pesca,Nominal,  426.2072
+2015-06-01,Pesca,Nominal,  322.5850
+2015-09-01,Pesca,Nominal, 1184.6558
+2015-12-01,Pesca,Nominal, 1084.4649
+2016-03-01,Pesca,Nominal,  443.9209
+2016-06-01,Pesca,Nominal,  488.6204
+2016-09-01,Pesca,Nominal,  958.9491
+2016-12-01,Pesca,Nominal,  1218.0289
+2017-03-01,Pesca,Nominal,   496.6558
+2017-06-01,Pesca,Nominal,  621.7515
+2017-09-01,Pesca,Nominal,  1290.2805
+2017-12-01,Pesca,Nominal,  1466.3225
+2018-03-01,Pesca,Nominal,   773.4610
+2018-06-01,Pesca,Nominal,  858.0571
+2018-09-01,Pesca,Nominal,  1282.2493
+2018-12-01,Pesca,Nominal,  1452.5688
+2019-03-01,Pesca,Nominal,   614.7269
+2019-06-01,Pesca,Nominal,   607.6698
+2019-09-01,Pesca,Nominal,  1168.2218
+2019-12-01,Pesca,Nominal,  1237.0559
+2020-03-01,Pesca,Nominal,   793.2559
+2020-06-01,Pesca,Nominal,  432.2992
+2020-09-01,Pesca,Nominal,  1178.5439
 2006-03-01,Minería,Nominal,  216.7454
-2006-06-01,Minería,Nominal,  289.5161
+2006-06-01,Minería,Nominal,  289.51605
 2006-09-01,Minería,Nominal,  273.9323
 2006-12-01,Minería,Nominal,  308.9363
 2007-03-01,Minería,Nominal,  402.4238
@@ -400,17 +406,18 @@
 2018-09-01,Minería,Nominal,  2475.9947
 2018-12-01,Minería,Nominal,  2478.5285
 2019-03-01,Minería,Nominal,  2679.5217
-2019-06-01,Minería,Nominal, 2797.5561
+2019-06-01,Minería,Nominal,  2797.5561
 2019-09-01,Minería,Nominal,  3891.6321
 2019-12-01,Minería,Nominal,  3788.4815
-2020-03-01,Minería,Nominal,  3713.9454
+2020-03-01,Minería,Nominal,  3713.7251
 2020-06-01,Minería,Nominal, 2398.8372
+2020-09-01,Minería,Nominal,  4942.3887
 2006-03-01,Manufactura,Nominal, 4086.4510
-2006-06-01,Manufactura,Nominal, 3656.8102
+2006-06-01,Manufactura,Nominal, 3656.81021
 2006-09-01,Manufactura,Nominal, 4056.1374
 2006-12-01,Manufactura,Nominal, 4354.3266
 2007-03-01,Manufactura,Nominal, 4972.8820
-2007-06-01,Manufactura,Nominal, 4367.1162
+2007-06-01,Manufactura,Nominal, 4367.1161
 2007-09-01,Manufactura,Nominal, 4731.6449
 2007-12-01,Manufactura,Nominal, 5087.6478
 2008-03-01,Manufactura,Nominal, 5805.5245
@@ -424,47 +431,48 @@
 2010-03-01,Manufactura,Nominal, 6769.0919
 2010-06-01,Manufactura,Nominal, 6183.0462
 2010-09-01,Manufactura,Nominal, 6785.3639
-2010-12-01,Manufactura,Nominal, 6946.1634
-2011-03-01,Manufactura,Nominal, 7756.5306
-2011-06-01,Manufactura,Nominal, 6939.0818
-2011-09-01,Manufactura,Nominal, 8038.7732
-2011-12-01,Manufactura,Nominal, 8064.2750
-2012-03-01,Manufactura,Nominal, 9342.1792
-2012-06-01,Manufactura,Nominal, 7536.9109
-2012-09-01,Manufactura,Nominal, 8938.4119
-2012-12-01,Manufactura,Nominal, 9414.3988
-2013-03-01,Manufactura,Nominal, 9413.6924
-2013-06-01,Manufactura,Nominal, 8990.0886
-2013-09-01,Manufactura,Nominal,10304.9242
-2013-12-01,Manufactura,Nominal,10648.2721
-2014-03-01,Manufactura,Nominal,11467.7490
-2014-06-01,Manufactura,Nominal,10199.1052
-2014-09-01,Manufactura,Nominal,11812.5743
-2014-12-01,Manufactura,Nominal,11957.3370
-2015-03-01,Manufactura,Nominal,12149.8145
-2015-06-01,Manufactura,Nominal,10970.2448
-2015-09-01,Manufactura,Nominal,13292.8530
-2015-12-01,Manufactura,Nominal,12954.3412
-2016-03-01,Manufactura,Nominal,13372.2677
-2016-06-01,Manufactura,Nominal,12667.0344
-2016-09-01,Manufactura,Nominal,13804.2314
-2016-12-01,Manufactura,Nominal, 13943.4044
-2017-03-01,Manufactura,Nominal, 14572.3190
-2017-06-01,Manufactura,Nominal,13217.5090
-2017-09-01,Manufactura,Nominal, 14257.9485
-2017-12-01,Manufactura,Nominal, 14470.3662
-2018-03-01,Manufactura,Nominal, 14952.6992
-2018-06-01,Manufactura,Nominal,12700.9262
-2018-09-01,Manufactura,Nominal, 15381.9678
-2018-12-01,Manufactura,Nominal, 14986.4069
-2019-03-01,Manufactura,Nominal, 15042.1350
-2019-06-01,Manufactura,Nominal,13697.8463
-2019-09-01,Manufactura,Nominal, 14981.3187
-2019-12-01,Manufactura,Nominal, 14945.4235
-2020-03-01,Manufactura,Nominal, 15930.4216
-2020-06-01,Manufactura,Nominal,11356.6215
+2010-12-01,Manufactura,Nominal, 6946.1633
+2011-03-01,Manufactura,Nominal, 7756.5304
+2011-06-01,Manufactura,Nominal, 6939.0816
+2011-09-01,Manufactura,Nominal, 8038.7733
+2011-12-01,Manufactura,Nominal, 8064.2754
+2012-03-01,Manufactura,Nominal, 9342.1803
+2012-06-01,Manufactura,Nominal, 7536.9119
+2012-09-01,Manufactura,Nominal, 8938.4116
+2012-12-01,Manufactura,Nominal, 9414.3971
+2013-03-01,Manufactura,Nominal, 9413.6905
+2013-06-01,Manufactura,Nominal, 8990.0863
+2013-09-01,Manufactura,Nominal,10304.9252
+2013-12-01,Manufactura,Nominal,10648.2752
+2014-03-01,Manufactura,Nominal,11467.7492
+2014-06-01,Manufactura,Nominal,10199.1162
+2014-09-01,Manufactura,Nominal,11812.5678
+2014-12-01,Manufactura,Nominal,11957.3321
+2015-03-01,Manufactura,Nominal,12149.8103
+2015-06-01,Manufactura,Nominal,10970.2018
+2015-09-01,Manufactura,Nominal,13292.8578
+2015-12-01,Manufactura,Nominal,12954.3837
+2016-03-01,Manufactura,Nominal,13372.4622
+2016-06-01,Manufactura,Nominal,12667.1243
+2016-09-01,Manufactura,Nominal,13803.9043
+2016-12-01,Manufactura,Nominal, 13943.4471
+2017-03-01,Manufactura,Nominal, 14569.1658
+2017-06-01,Manufactura,Nominal,13219.5760
+2017-09-01,Manufactura,Nominal, 14258.1854
+2017-12-01,Manufactura,Nominal, 14471.2154
+2018-03-01,Manufactura,Nominal, 14951.7360
+2018-06-01,Manufactura,Nominal,12701.5667
+2018-09-01,Manufactura,Nominal, 15381.9126
+2018-12-01,Manufactura,Nominal, 14986.7847
+2019-03-01,Manufactura,Nominal, 15041.5598
+2019-06-01,Manufactura,Nominal, 13697.5475
+2019-09-01,Manufactura,Nominal, 14980.9962
+2019-12-01,Manufactura,Nominal, 14946.6199
+2020-03-01,Manufactura,Nominal, 15928.7667
+2020-06-01,Manufactura,Nominal,11370.6932
+2020-09-01,Manufactura,Nominal, 15381.3164
 2006-03-01,Construcción,Nominal, 1296.2591
-2006-06-01,Construcción,Nominal, 1412.2135
+2006-06-01,Construcción,Nominal, 1412.21355
 2006-09-01,Construcción,Nominal, 1446.3142
 2006-12-01,Construcción,Nominal, 1636.8812
 2007-03-01,Construcción,Nominal, 1393.9058
@@ -491,38 +499,39 @@
 2012-06-01,Construcción,Nominal, 2737.4859
 2012-09-01,Construcción,Nominal, 2518.4614
 2012-12-01,Construcción,Nominal, 3622.3936
-2013-03-01,Construcción,Nominal, 3317.0100
-2013-06-01,Construcción,Nominal, 3567.5847
-2013-09-01,Construcción,Nominal, 3336.3480
-2013-12-01,Construcción,Nominal, 3176.6315
-2014-03-01,Construcción,Nominal, 3267.1630
-2014-06-01,Construcción,Nominal, 3388.0009
-2014-09-01,Construcción,Nominal, 3283.6486
-2014-12-01,Construcción,Nominal, 4470.3921
-2015-03-01,Construcción,Nominal, 4402.2457
-2015-06-01,Construcción,Nominal, 4960.7316
-2015-09-01,Construcción,Nominal, 5048.1599
-2015-12-01,Construcción,Nominal, 6126.3544
-2016-03-01,Construcción,Nominal, 4790.9827
-2016-06-01,Construcción,Nominal, 5247.8224
-2016-09-01,Construcción,Nominal, 5311.1049
-2016-12-01,Construcción,Nominal,  5952.2473
-2017-03-01,Construcción,Nominal,  5873.0567
-2017-06-01,Construcción,Nominal, 5418.0640
-2017-09-01,Construcción,Nominal,  5645.7861
-2017-12-01,Construcción,Nominal,  6530.8695
-2018-03-01,Construcción,Nominal,  6118.0597
-2018-06-01,Construcción,Nominal, 5286.1687
-2018-09-01,Construcción,Nominal,  5662.0249
-2018-12-01,Construcción,Nominal,  4709.9950
-2019-03-01,Construcción,Nominal,  3145.3794
-2019-06-01,Construcción,Nominal, 3448.6333
-2019-09-01,Construcción,Nominal,  3743.4193
-2019-12-01,Construcción,Nominal,  4548.7449
-2020-03-01,Construcción,Nominal,  3845.8807
-2020-06-01,Construcción,Nominal, 3449.8231
+2013-03-01,Construcción,Nominal, 3317.0101
+2013-06-01,Construcción,Nominal, 3567.5848
+2013-09-01,Construcción,Nominal, 3336.3479
+2013-12-01,Construcción,Nominal, 3176.6312
+2014-03-01,Construcción,Nominal, 3267.1625
+2014-06-01,Construcción,Nominal, 3388.0003
+2014-09-01,Construcción,Nominal, 3283.6484
+2014-12-01,Construcción,Nominal, 4470.3934
+2015-03-01,Construcción,Nominal, 4402.2490
+2015-06-01,Construcción,Nominal, 4960.7326
+2015-09-01,Construcción,Nominal, 5048.1591
+2015-12-01,Construcción,Nominal, 6126.3509
+2016-03-01,Construcción,Nominal, 4790.9791
+2016-06-01,Construcción,Nominal, 5247.8177
+2016-09-01,Construcción,Nominal, 5311.1032
+2016-12-01,Construcción,Nominal,  5952.2573
+2017-03-01,Construcción,Nominal,  5873.1235
+2017-06-01,Construcción,Nominal, 5418.0734
+2017-09-01,Construcción,Nominal,  5645.7484
+2017-12-01,Construcción,Nominal,  6530.8311
+2018-03-01,Construcción,Nominal,  6117.9773
+2018-06-01,Construcción,Nominal, 5285.6399
+2018-09-01,Construcción,Nominal,  5661.8590
+2018-12-01,Construcción,Nominal,  4710.7722
+2019-03-01,Construcción,Nominal,  3145.4765
+2019-06-01,Construcción,Nominal,  3448.6938
+2019-09-01,Construcción,Nominal,  3743.0490
+2019-12-01,Construcción,Nominal,  4548.9575
+2020-03-01,Construcción,Nominal,  3895.1871
+2020-06-01,Construcción,Nominal, 3629.9379
+2020-09-01,Construcción,Nominal,  3709.8448
 2006-03-01,Electricidad,Nominal,  311.1654
-2006-06-01,Electricidad,Nominal,  329.7002
+2006-06-01,Electricidad,Nominal,  329.70022
 2006-09-01,Electricidad,Nominal,  305.0597
 2006-12-01,Electricidad,Nominal,  277.2913
 2007-03-01,Electricidad,Nominal,  282.9541
@@ -574,13 +583,14 @@
 2018-09-01,Electricidad,Nominal,  3626.8301
 2018-12-01,Electricidad,Nominal,  3930.3677
 2019-03-01,Electricidad,Nominal,  4714.6319
-2019-06-01,Electricidad,Nominal, 4403.5056
+2019-06-01,Electricidad,Nominal,  4403.5056
 2019-09-01,Electricidad,Nominal,  3514.1669
 2019-12-01,Electricidad,Nominal,  3300.6095
-2020-03-01,Electricidad,Nominal,  4610.0447
-2020-06-01,Electricidad,Nominal, 3969.6118
+2020-03-01,Electricidad,Nominal,  4610.4316
+2020-06-01,Electricidad,Nominal, 4055.2544
+2020-09-01,Electricidad,Nominal,  2773.4548
 2006-03-01,Agua,Nominal,  138.0188
-2006-06-01,Agua,Nominal,  145.4903
+2006-06-01,Agua,Nominal,  145.49028
 2006-09-01,Agua,Nominal,  135.3115
 2006-12-01,Agua,Nominal,  132.1237
 2007-03-01,Agua,Nominal,  137.4303
@@ -632,13 +642,14 @@
 2018-09-01,Agua,Nominal,   315.0535
 2018-12-01,Agua,Nominal,   317.9909
 2019-03-01,Agua,Nominal,   330.8839
-2019-06-01,Agua,Nominal,  345.6176
+2019-06-01,Agua,Nominal,   345.6176
 2019-09-01,Agua,Nominal,   318.3658
 2019-12-01,Agua,Nominal,   319.7554
 2020-03-01,Agua,Nominal,   332.2194
 2020-06-01,Agua,Nominal,  351.3622
+2020-09-01,Agua,Nominal,   339.9548
 2006-03-01,Comercio,Nominal, 2908.2148
-2006-06-01,Comercio,Nominal, 3166.3786
+2006-06-01,Comercio,Nominal, 3166.37860
 2006-09-01,Comercio,Nominal, 3181.3374
 2006-12-01,Comercio,Nominal, 3547.2592
 2007-03-01,Comercio,Nominal, 3504.3351
@@ -690,13 +701,14 @@
 2018-09-01,Comercio,Nominal,  8885.4259
 2018-12-01,Comercio,Nominal, 11021.5081
 2019-03-01,Comercio,Nominal,  9077.2171
-2019-06-01,Comercio,Nominal, 9076.8829
+2019-06-01,Comercio,Nominal,  9076.8829
 2019-09-01,Comercio,Nominal,  8870.0628
 2019-12-01,Comercio,Nominal, 11605.9528
 2020-03-01,Comercio,Nominal, 10298.6359
-2020-06-01,Comercio,Nominal, 9377.2172
+2020-06-01,Comercio,Nominal, 9369.0924
+2020-09-01,Comercio,Nominal,  9831.9587
 2006-03-01,Hoteles y restaurantes,Nominal,  824.1647
-2006-06-01,Hoteles y restaurantes,Nominal,  797.6833
+2006-06-01,Hoteles y restaurantes,Nominal,  797.68331
 2006-09-01,Hoteles y restaurantes,Nominal,  882.5692
 2006-12-01,Hoteles y restaurantes,Nominal,  942.4812
 2007-03-01,Hoteles y restaurantes,Nominal,  965.7287
@@ -715,27 +727,27 @@
 2010-06-01,Hoteles y restaurantes,Nominal, 1411.5848
 2010-09-01,Hoteles y restaurantes,Nominal, 1520.6554
 2010-12-01,Hoteles y restaurantes,Nominal, 1536.1206
-2011-03-01,Hoteles y restaurantes,Nominal, 1529.1823
-2011-06-01,Hoteles y restaurantes,Nominal, 1540.6318
+2011-03-01,Hoteles y restaurantes,Nominal, 1529.1824
+2011-06-01,Hoteles y restaurantes,Nominal, 1540.6319
 2011-09-01,Hoteles y restaurantes,Nominal, 1569.0728
-2011-12-01,Hoteles y restaurantes,Nominal, 1664.7584
-2012-03-01,Hoteles y restaurantes,Nominal, 1816.7986
-2012-06-01,Hoteles y restaurantes,Nominal, 1737.2543
+2011-12-01,Hoteles y restaurantes,Nominal, 1664.7583
+2012-03-01,Hoteles y restaurantes,Nominal, 1816.7983
+2012-06-01,Hoteles y restaurantes,Nominal, 1737.2541
 2012-09-01,Hoteles y restaurantes,Nominal, 1791.9220
-2012-12-01,Hoteles y restaurantes,Nominal, 2010.5652
-2013-03-01,Hoteles y restaurantes,Nominal, 2088.9059
-2013-06-01,Hoteles y restaurantes,Nominal, 1917.7148
-2013-09-01,Hoteles y restaurantes,Nominal, 1979.9562
-2013-12-01,Hoteles y restaurantes,Nominal, 2213.8134
-2014-03-01,Hoteles y restaurantes,Nominal, 2217.2756
+2012-12-01,Hoteles y restaurantes,Nominal, 2010.5658
+2013-03-01,Hoteles y restaurantes,Nominal, 2088.9073
+2013-06-01,Hoteles y restaurantes,Nominal, 1917.7079
+2013-09-01,Hoteles y restaurantes,Nominal, 1979.9600
+2013-12-01,Hoteles y restaurantes,Nominal, 2213.8151
+2014-03-01,Hoteles y restaurantes,Nominal, 2217.2764
 2014-06-01,Hoteles y restaurantes,Nominal, 2246.3485
-2014-09-01,Hoteles y restaurantes,Nominal, 2265.8632
-2014-12-01,Hoteles y restaurantes,Nominal, 2697.3983
-2015-03-01,Hoteles y restaurantes,Nominal, 2730.1035
+2014-09-01,Hoteles y restaurantes,Nominal, 2265.8628
+2014-12-01,Hoteles y restaurantes,Nominal, 2697.3978
+2015-03-01,Hoteles y restaurantes,Nominal, 2730.1033
 2015-06-01,Hoteles y restaurantes,Nominal, 2619.0032
-2015-09-01,Hoteles y restaurantes,Nominal, 2734.1024
-2015-12-01,Hoteles y restaurantes,Nominal, 3276.4479
-2016-03-01,Hoteles y restaurantes,Nominal, 3381.5206
+2015-09-01,Hoteles y restaurantes,Nominal, 2734.1025
+2015-12-01,Hoteles y restaurantes,Nominal, 3276.4480
+2016-03-01,Hoteles y restaurantes,Nominal, 3381.5207
 2016-06-01,Hoteles y restaurantes,Nominal, 2964.1444
 2016-09-01,Hoteles y restaurantes,Nominal, 3123.2786
 2016-12-01,Hoteles y restaurantes,Nominal,  3973.6827
@@ -748,13 +760,14 @@
 2018-09-01,Hoteles y restaurantes,Nominal,  2437.7877
 2018-12-01,Hoteles y restaurantes,Nominal,  3299.3863
 2019-03-01,Hoteles y restaurantes,Nominal,  3396.6028
-2019-06-01,Hoteles y restaurantes,Nominal, 3009.8710
+2019-06-01,Hoteles y restaurantes,Nominal,  3009.8710
 2019-09-01,Hoteles y restaurantes,Nominal,  3351.8759
 2019-12-01,Hoteles y restaurantes,Nominal,  4253.8136
 2020-03-01,Hoteles y restaurantes,Nominal,  3748.2469
 2020-06-01,Hoteles y restaurantes,Nominal, 1468.2631
+2020-09-01,Hoteles y restaurantes,Nominal,  1733.6839
 2006-03-01,Transporte y comunicaciones,Nominal, 1713.5018
-2006-06-01,Transporte y comunicaciones,Nominal, 1890.5687
+2006-06-01,Transporte y comunicaciones,Nominal, 1890.56867
 2006-09-01,Transporte y comunicaciones,Nominal, 1743.4487
 2006-12-01,Transporte y comunicaciones,Nominal, 1780.6154
 2007-03-01,Transporte y comunicaciones,Nominal, 1953.6902
@@ -806,13 +819,14 @@
 2018-09-01,Transporte y comunicaciones,Nominal,  5269.6432
 2018-12-01,Transporte y comunicaciones,Nominal,  5459.3610
 2019-03-01,Transporte y comunicaciones,Nominal,  4895.7220
-2019-06-01,Transporte y comunicaciones,Nominal, 5421.7325
+2019-06-01,Transporte y comunicaciones,Nominal,  5421.7325
 2019-09-01,Transporte y comunicaciones,Nominal,  5064.7007
 2019-12-01,Transporte y comunicaciones,Nominal,  5520.6763
 2020-03-01,Transporte y comunicaciones,Nominal,  4834.3341
-2020-06-01,Transporte y comunicaciones,Nominal, 4404.2283
+2020-06-01,Transporte y comunicaciones,Nominal, 4404.5015
+2020-09-01,Transporte y comunicaciones,Nominal,  4430.3980
 2006-03-01,Financiero,Nominal, 1331.8494
-2006-06-01,Financiero,Nominal, 1439.6239
+2006-06-01,Financiero,Nominal, 1439.62395
 2006-09-01,Financiero,Nominal, 1494.0568
 2006-12-01,Financiero,Nominal, 1531.2178
 2007-03-01,Financiero,Nominal, 1567.4261
@@ -864,13 +878,14 @@
 2018-09-01,Financiero,Nominal,  5324.0185
 2018-12-01,Financiero,Nominal,  5190.1000
 2019-03-01,Financiero,Nominal,  5507.4481
-2019-06-01,Financiero,Nominal, 4961.0844
+2019-06-01,Financiero,Nominal,  4961.0844
 2019-09-01,Financiero,Nominal,  4508.7537
 2019-12-01,Financiero,Nominal,  4483.3509
 2020-03-01,Financiero,Nominal,  4948.5362
 2020-06-01,Financiero,Nominal, 4531.9496
+2020-09-01,Financiero,Nominal,  4187.6201
 2006-03-01,Vivienda,Nominal, 2366.2506
-2006-06-01,Vivienda,Nominal, 2439.0152
+2006-06-01,Vivienda,Nominal, 2439.01516
 2006-09-01,Vivienda,Nominal, 2490.4185
 2006-12-01,Vivienda,Nominal, 2585.9610
 2007-03-01,Vivienda,Nominal, 2631.2519
@@ -922,13 +937,14 @@
 2018-09-01,Vivienda,Nominal,  5949.3017
 2018-12-01,Vivienda,Nominal,  6294.2182
 2019-03-01,Vivienda,Nominal,  6279.0447
-2019-06-01,Vivienda,Nominal, 6226.3698
+2019-06-01,Vivienda,Nominal,  6226.3698
 2019-09-01,Vivienda,Nominal,  6089.8225
 2019-12-01,Vivienda,Nominal,  6532.0809
 2020-03-01,Vivienda,Nominal,  6465.9600
-2020-06-01,Vivienda,Nominal, 6443.7866
+2020-06-01,Vivienda,Nominal, 6406.1690
+2020-09-01,Vivienda,Nominal,  6272.5824
 2006-03-01,Administración pública y defensa,Nominal, 1489.2946
-2006-06-01,Administración pública y defensa,Nominal, 1500.6949
+2006-06-01,Administración pública y defensa,Nominal, 1500.69491
 2006-09-01,Administración pública y defensa,Nominal, 1497.8764
 2006-12-01,Administración pública y defensa,Nominal, 1593.5637
 2007-03-01,Administración pública y defensa,Nominal, 1449.4198
@@ -980,13 +996,14 @@
 2018-09-01,Administración pública y defensa,Nominal,  4758.7819
 2018-12-01,Administración pública y defensa,Nominal,  5155.7266
 2019-03-01,Administración pública y defensa,Nominal,  4749.9436
-2019-06-01,Administración pública y defensa,Nominal, 4763.7487
+2019-06-01,Administración pública y defensa,Nominal,  4763.7487
 2019-09-01,Administración pública y defensa,Nominal,  4778.9216
 2019-12-01,Administración pública y defensa,Nominal,  5258.5309
 2020-03-01,Administración pública y defensa,Nominal,  4861.0579
-2020-06-01,Administración pública y defensa,Nominal, 4963.9896
+2020-06-01,Administración pública y defensa,Nominal, 4949.6183
+2020-09-01,Administración pública y defensa,Nominal,  4994.4481
 2006-03-01,Enseñanza,Nominal, 1351.7506
-2006-06-01,Enseñanza,Nominal, 1325.6177
+2006-06-01,Enseñanza,Nominal, 1325.61766
 2006-09-01,Enseñanza,Nominal, 1330.1883
 2006-12-01,Enseñanza,Nominal, 1322.3440
 2007-03-01,Enseñanza,Nominal, 1588.2132
@@ -1038,13 +1055,14 @@
 2018-09-01,Enseñanza,Nominal,  5628.6469
 2018-12-01,Enseñanza,Nominal,  5677.8212
 2019-03-01,Enseñanza,Nominal,  5622.3968
-2019-06-01,Enseñanza,Nominal, 5602.7779
+2019-06-01,Enseñanza,Nominal,  5602.7779
 2019-09-01,Enseñanza,Nominal,  5944.7317
 2019-12-01,Enseñanza,Nominal,  5922.9405
 2020-03-01,Enseñanza,Nominal,  5831.2422
 2020-06-01,Enseñanza,Nominal, 5810.7444
+2020-09-01,Enseñanza,Nominal,  6106.8300
 2006-03-01,Salud,Nominal,  657.2105
-2006-06-01,Salud,Nominal,  676.7881
+2006-06-01,Salud,Nominal,  676.78813
 2006-09-01,Salud,Nominal,  724.4260
 2006-12-01,Salud,Nominal,  759.1174
 2007-03-01,Salud,Nominal,  758.4667
@@ -1096,13 +1114,14 @@
 2018-09-01,Salud,Nominal,  3005.5427
 2018-12-01,Salud,Nominal,  3065.7858
 2019-03-01,Salud,Nominal,  3048.3707
-2019-06-01,Salud,Nominal, 3084.5016
+2019-06-01,Salud,Nominal,  3084.5016
 2019-09-01,Salud,Nominal,  3097.9859
 2019-12-01,Salud,Nominal,  3142.2272
 2020-03-01,Salud,Nominal,  3200.5955
 2020-06-01,Salud,Nominal, 3250.9813
+2020-09-01,Salud,Nominal,  3132.6494
 2006-03-01,Otros servicios,Nominal, 2394.8446
-2006-06-01,Otros servicios,Nominal, 2574.3942
+2006-06-01,Otros servicios,Nominal, 2574.39418
 2006-09-01,Otros servicios,Nominal, 2656.5173
 2006-12-01,Otros servicios,Nominal, 2975.0268
 2007-03-01,Otros servicios,Nominal, 2725.9117
@@ -1154,185 +1173,189 @@
 2018-09-01,Otros servicios,Nominal,  7818.9881
 2018-12-01,Otros servicios,Nominal,  8207.6148
 2019-03-01,Otros servicios,Nominal,  8604.2081
-2019-06-01,Otros servicios,Nominal, 8379.8180
+2019-06-01,Otros servicios,Nominal,  8379.8180
 2019-09-01,Otros servicios,Nominal,  7689.1567
 2019-12-01,Otros servicios,Nominal,  8244.8905
 2020-03-01,Otros servicios,Nominal,  8740.1712
-2020-06-01,Otros servicios,Nominal, 8370.5137
-2006-03-01,PIB,Real,29018.5536
-2006-06-01,PIB,Real,28593.75402
-2006-09-01,PIB,Real,29768.1643
-2006-12-01,PIB,Real,31457.2383
-2007-03-01,PIB,Real,30124.5994
-2007-06-01,PIB,Real,29941.0057
-2007-09-01,PIB,Real,31317.3303
-2007-12-01,PIB,Real,33487.3954
-2008-03-01,PIB,Real,31798.3168
-2008-06-01,PIB,Real,32147.1680
-2008-09-01,PIB,Real,32621.3511
-2008-12-01,PIB,Real,32593.6859
-2009-03-01,PIB,Real,30144.3993
-2009-06-01,PIB,Real,30215.4301
-2009-09-01,PIB,Real,31564.6264
-2009-12-01,PIB,Real,32983.2425
-2010-03-01,PIB,Real,31282.6163
-2010-06-01,PIB,Real,31181.9498
-2010-09-01,PIB,Real,33137.3821
-2010-12-01,PIB,Real,34814.3034
-2011-03-01,PIB,Real,32937.4532
-2011-06-01,PIB,Real,33669.1127
-2011-09-01,PIB,Real,35341.9283
-2011-12-01,PIB,Real,36705.7418
-2012-03-01,PIB,Real,35957.6598
-2012-06-01,PIB,Real,35179.0834
-2012-09-01,PIB,Real,36897.8743
-2012-12-01,PIB,Real,39626.7870
-2013-03-01,PIB,Real,37240.2445
-2013-06-01,PIB,Real,37722.2313
-2013-09-01,PIB,Real,39052.8755
-2013-12-01,PIB,Real,40921.4696
-2014-03-01,PIB,Real,39391.5161
-2014-06-01,PIB,Real,39116.7662
-2014-09-01,PIB,Real,40512.5985
-2014-12-01,PIB,Real,43330.3799
-2015-03-01,PIB,Real,41040.8938
-2015-06-01,PIB,Real,40203.7620
-2015-09-01,PIB,Real,42724.8475
-2015-12-01,PIB,Real,46162.0644
-2016-03-01,PIB,Real,42511.9403
-2016-06-01,PIB,Real,42975.9964
-2016-09-01,PIB,Real,44424.8855
-2016-12-01,PIB,Real,47982.0998
-2017-03-01,PIB,Real,45495.3487
-2017-06-01,PIB,Real,44819.3017
-2017-09-01,PIB,Real,45963.3564
-2017-12-01,PIB,Real,49855.5981
-2018-03-01,PIB,Real,46668.8659
-2018-06-01,PIB,Real,42388.6016
-2018-09-01,PIB,Real,43636.7610
-2018-12-01,PIB,Real,46086.3929
-2019-03-01,PIB,Real,42528.1654
-2019-06-01,PIB,Real,41030.7101
-2019-09-01,PIB,Real,42224.8121
-2019-12-01,PIB,Real,46062.1702
-2020-03-01,PIB,Real,43249.9122
-2020-06-01,PIB,Real,37772.9903
-2006-03-01,Impuestos netos a la producción,Real, 2703.8665
-2006-06-01,Impuestos netos a la producción,Real, 2698.28695
-2006-09-01,Impuestos netos a la producción,Real, 2828.9921
-2006-12-01,Impuestos netos a la producción,Real, 3016.8140
-2007-03-01,Impuestos netos a la producción,Real, 2870.5390
-2007-06-01,Impuestos netos a la producción,Real, 2854.4688
-2007-09-01,Impuestos netos a la producción,Real, 3055.2478
-2007-12-01,Impuestos netos a la producción,Real, 3288.8642
-2008-03-01,Impuestos netos a la producción,Real, 3081.1398
-2008-06-01,Impuestos netos a la producción,Real, 3091.8920
-2008-09-01,Impuestos netos a la producción,Real, 3049.1599
-2008-12-01,Impuestos netos a la producción,Real, 3130.4416
-2009-03-01,Impuestos netos a la producción,Real, 2881.3739
-2009-06-01,Impuestos netos a la producción,Real, 2944.5280
-2009-09-01,Impuestos netos a la producción,Real, 3062.1390
-2009-12-01,Impuestos netos a la producción,Real, 3161.2435
-2010-03-01,Impuestos netos a la producción,Real, 2936.9465
-2010-06-01,Impuestos netos a la producción,Real, 2944.5427
-2010-09-01,Impuestos netos a la producción,Real, 3104.6120
-2010-12-01,Impuestos netos a la producción,Real, 3200.7396
-2011-03-01,Impuestos netos a la producción,Real, 3278.8195
-2011-06-01,Impuestos netos a la producción,Real, 3306.1928
-2011-09-01,Impuestos netos a la producción,Real, 3438.4434
-2011-12-01,Impuestos netos a la producción,Real, 3362.2073
-2012-03-01,Impuestos netos a la producción,Real, 3705.8218
-2012-06-01,Impuestos netos a la producción,Real, 3630.0775
-2012-09-01,Impuestos netos a la producción,Real, 3573.7713
-2012-12-01,Impuestos netos a la producción,Real, 3651.7067
-2013-03-01,Impuestos netos a la producción,Real, 3517.0104
-2013-06-01,Impuestos netos a la producción,Real, 3694.6347
-2013-09-01,Impuestos netos a la producción,Real, 3788.9083
-2013-12-01,Impuestos netos a la producción,Real, 3972.8692
-2014-03-01,Impuestos netos a la producción,Real, 3748.8909
-2014-06-01,Impuestos netos a la producción,Real, 3799.3513
-2014-09-01,Impuestos netos a la producción,Real, 3931.7103
-2014-12-01,Impuestos netos a la producción,Real, 4163.0879
-2015-03-01,Impuestos netos a la producción,Real, 4073.8013
-2015-06-01,Impuestos netos a la producción,Real, 3981.3507
-2015-09-01,Impuestos netos a la producción,Real, 4365.8445
-2015-12-01,Impuestos netos a la producción,Real, 4565.2663
-2016-03-01,Impuestos netos a la producción,Real, 4274.9126
-2016-06-01,Impuestos netos a la producción,Real, 4198.9745
-2016-09-01,Impuestos netos a la producción,Real, 4577.7021
-2016-12-01,Impuestos netos a la producción,Real, 4832.7254
-2017-03-01,Impuestos netos a la producción,Real, 4390.6775
-2017-06-01,Impuestos netos a la producción,Real, 4337.6422
-2017-09-01,Impuestos netos a la producción,Real, 4681.3686
-2017-12-01,Impuestos netos a la producción,Real, 5045.9260
-2018-03-01,Impuestos netos a la producción,Real, 4591.1235
-2018-06-01,Impuestos netos a la producción,Real, 4103.9378
-2018-09-01,Impuestos netos a la producción,Real, 4047.2957
-2018-12-01,Impuestos netos a la producción,Real, 4209.0307
-2019-03-01,Impuestos netos a la producción,Real, 4048.8206
-2019-06-01,Impuestos netos a la producción,Real, 4111.7985
-2019-09-01,Impuestos netos a la producción,Real, 4174.9227
-2019-12-01,Impuestos netos a la producción,Real, 4297.5696
-2020-03-01,Impuestos netos a la producción,Real, 4281.2440
-2020-06-01,Impuestos netos a la producción,Real, 3915.5724
-2006-03-01,Agricultura,Real, 2195.0201
-2006-06-01,Agricultura,Real, 2051.77704
-2006-09-01,Agricultura,Real, 2417.1450
-2006-12-01,Agricultura,Real, 2831.3290
-2007-03-01,Agricultura,Real, 2069.6212
-2007-06-01,Agricultura,Real, 2510.3426
-2007-09-01,Agricultura,Real, 2900.5363
-2007-12-01,Agricultura,Real, 3212.8518
-2008-03-01,Agricultura,Real, 2189.9112
-2008-06-01,Agricultura,Real, 2716.7128
-2008-09-01,Agricultura,Real, 2656.1947
-2008-12-01,Agricultura,Real, 2505.4011
-2009-03-01,Agricultura,Real, 2144.4154
-2009-06-01,Agricultura,Real, 2502.1802
-2009-09-01,Agricultura,Real, 2769.0652
-2009-12-01,Agricultura,Real, 3065.6461
-2010-03-01,Agricultura,Real, 2117.2259
-2010-06-01,Agricultura,Real, 2446.6316
-2010-09-01,Agricultura,Real, 3063.3437
-2010-12-01,Agricultura,Real, 3127.5688
-2011-03-01,Agricultura,Real, 2118.6238
-2011-06-01,Agricultura,Real, 2950.9802
-2011-09-01,Agricultura,Real, 3152.8923
-2011-12-01,Agricultura,Real, 3357.9451
-2012-03-01,Agricultura,Real, 2692.9020
-2012-06-01,Agricultura,Real, 2688.4110
-2012-09-01,Agricultura,Real, 3024.3826
-2012-12-01,Agricultura,Real, 3447.1671
-2013-03-01,Agricultura,Real, 2564.0004
-2013-06-01,Agricultura,Real, 2629.8443
-2013-09-01,Agricultura,Real, 3086.6315
-2013-12-01,Agricultura,Real, 3253.9658
-2014-03-01,Agricultura,Real, 2498.4982
-2014-06-01,Agricultura,Real, 2571.1129
-2014-09-01,Agricultura,Real, 2919.9753
-2014-12-01,Agricultura,Real, 3506.2827
-2015-03-01,Agricultura,Real, 2630.2676
-2015-06-01,Agricultura,Real, 2574.7222
-2015-09-01,Agricultura,Real, 2993.6795
-2015-12-01,Agricultura,Real, 3320.1831
-2016-03-01,Agricultura,Real, 2630.0883
-2016-06-01,Agricultura,Real, 3088.5697
-2016-09-01,Agricultura,Real, 3167.8010
-2016-12-01,Agricultura,Real, 3600.1706
-2017-03-01,Agricultura,Real, 2937.5095
-2017-06-01,Agricultura,Real, 3190.1266
-2017-09-01,Agricultura,Real, 3406.8658
-2017-12-01,Agricultura,Real, 3831.8497
-2018-03-01,Agricultura,Real, 2917.7019
-2018-06-01,Agricultura,Real, 3078.3885
-2018-09-01,Agricultura,Real, 3678.2951
-2018-12-01,Agricultura,Real, 4144.9321
-2019-03-01,Agricultura,Real, 3060.7613
-2019-06-01,Agricultura,Real, 3241.9017
-2019-09-01,Agricultura,Real, 3816.4135
-2019-12-01,Agricultura,Real, 4214.6575
-2020-03-01,Agricultura,Real, 3089.4302
-2020-06-01,Agricultura,Real, 3278.8562
+2020-06-01,Otros servicios,Nominal, 8370.5164
+2020-09-01,Otros servicios,Nominal,  7674.5959
+2006-03-01,PIB,Real,29028.0590
+2006-06-01,PIB,Real,28612.94934
+2006-09-01,PIB,Real,29738.7977
+2006-12-01,PIB,Real,31457.9041
+2007-03-01,PIB,Real,30079.6987
+2007-06-01,PIB,Real,29987.8675
+2007-09-01,PIB,Real,31305.3348
+2007-12-01,PIB,Real,33497.4296
+2008-03-01,PIB,Real,31789.9457
+2008-06-01,PIB,Real,32174.9458
+2008-09-01,PIB,Real,32599.4117
+2008-12-01,PIB,Real,32596.2186
+2009-03-01,PIB,Real,30160.9654
+2009-06-01,PIB,Real,30238.0932
+2009-09-01,PIB,Real,31526.1358
+2009-12-01,PIB,Real,32982.5039
+2010-03-01,PIB,Real,31304.8943
+2010-06-01,PIB,Real,31201.2892
+2010-09-01,PIB,Real,33099.9444
+2010-12-01,PIB,Real,34810.1236
+2011-03-01,PIB,Real,33002.0309
+2011-06-01,PIB,Real,33686.1026
+2011-09-01,PIB,Real,35286.4117
+2011-12-01,PIB,Real,36679.6909
+2012-03-01,PIB,Real,35977.9399
+2012-06-01,PIB,Real,35182.3369
+2012-09-01,PIB,Real,36853.0247
+2012-12-01,PIB,Real,39648.1030
+2013-03-01,PIB,Real,37239.4655
+2013-06-01,PIB,Real,37760.7969
+2013-09-01,PIB,Real,39029.8088
+2013-12-01,PIB,Real,40906.7497
+2014-03-01,PIB,Real,39467.8259
+2014-06-01,PIB,Real,39141.6991
+2014-09-01,PIB,Real,40444.5859
+2014-12-01,PIB,Real,43297.1499
+2015-03-01,PIB,Real,40978.8627
+2015-06-01,PIB,Real,40216.6690
+2015-09-01,PIB,Real,42782.2286
+2015-12-01,PIB,Real,46153.8074
+2016-03-01,PIB,Real,42578.9745
+2016-06-01,PIB,Real,42982.9889
+2016-09-01,PIB,Real,44429.5842
+2016-12-01,PIB,Real,47903.3744
+2017-03-01,PIB,Real,45548.5502
+2017-06-01,PIB,Real,44820.7944
+2017-09-01,PIB,Real,45970.8441
+2017-12-01,PIB,Real,49793.4163
+2018-03-01,PIB,Real,46810.8996
+2018-06-01,PIB,Real,42420.8788
+2018-09-01,PIB,Real,43628.3688
+2018-12-01,PIB,Real,45920.4741
+2019-03-01,PIB,Real,42640.4891
+2019-06-01,PIB,Real,41091.5840
+2019-09-01,PIB,Real,42198.7853
+2019-12-01,PIB,Real,45914.9994
+2020-03-01,PIB,Real,43339.3468
+2020-06-01,PIB,Real,38027.9900
+2020-09-01,PIB,Real,41063.5074
+2006-03-01,Impuestos netos a la producción,Real, 2704.3742
+2006-06-01,Impuestos netos a la producción,Real, 2699.12994
+2006-09-01,Impuestos netos a la producción,Real, 2827.3288
+2006-12-01,Impuestos netos a la producción,Real, 3017.1266
+2007-03-01,Impuestos netos a la producción,Real, 2868.1382
+2007-06-01,Impuestos netos a la producción,Real, 2855.5791
+2007-09-01,Impuestos netos a la producción,Real, 3053.2028
+2007-12-01,Impuestos netos a la producción,Real, 3292.1997
+2008-03-01,Impuestos netos a la producción,Real, 3082.8306
+2008-06-01,Impuestos netos a la producción,Real, 3092.1562
+2008-09-01,Impuestos netos a la producción,Real, 3047.1540
+2008-12-01,Impuestos netos a la producción,Real, 3130.4925
+2009-03-01,Impuestos netos a la producción,Real, 2884.1587
+2009-06-01,Impuestos netos a la producción,Real, 2945.4169
+2009-09-01,Impuestos netos a la producción,Real, 3059.5162
+2009-12-01,Impuestos netos a la producción,Real, 3160.1926
+2010-03-01,Impuestos netos a la producción,Real, 2937.6450
+2010-06-01,Impuestos netos a la producción,Real, 2946.0240
+2010-09-01,Impuestos netos a la producción,Real, 3103.4553
+2010-12-01,Impuestos netos a la producción,Real, 3199.7165
+2011-03-01,Impuestos netos a la producción,Real, 3280.4807
+2011-06-01,Impuestos netos a la producción,Real, 3307.7624
+2011-09-01,Impuestos netos a la producción,Real, 3436.3816
+2011-12-01,Impuestos netos a la producción,Real, 3361.0383
+2012-03-01,Impuestos netos a la producción,Real, 3706.5611
+2012-06-01,Impuestos netos a la producción,Real, 3630.3781
+2012-09-01,Impuestos netos a la producción,Real, 3571.9154
+2012-12-01,Impuestos netos a la producción,Real, 3652.5227
+2013-03-01,Impuestos netos a la producción,Real, 3517.4395
+2013-06-01,Impuestos netos a la producción,Real, 3696.6845
+2013-09-01,Impuestos netos a la producción,Real, 3787.1006
+2013-12-01,Impuestos netos a la producción,Real, 3972.1980
+2014-03-01,Impuestos netos a la producción,Real, 3752.0394
+2014-06-01,Impuestos netos a la producción,Real, 3800.5402
+2014-09-01,Impuestos netos a la producción,Real, 3928.6702
+2014-12-01,Impuestos netos a la producción,Real, 4161.7906
+2015-03-01,Impuestos netos a la producción,Real, 4071.5261
+2015-06-01,Impuestos netos a la producción,Real, 3981.9684
+2015-09-01,Impuestos netos a la producción,Real, 4368.4568
+2015-12-01,Impuestos netos a la producción,Real, 4564.3115
+2016-03-01,Impuestos netos a la producción,Real, 4277.8371
+2016-06-01,Impuestos netos a la producción,Real, 4198.9240
+2016-09-01,Impuestos netos a la producción,Real, 4577.9588
+2016-12-01,Impuestos netos a la producción,Real, 4829.5947
+2017-03-01,Impuestos netos a la producción,Real, 4392.2152
+2017-06-01,Impuestos netos a la producción,Real, 4337.5515
+2017-09-01,Impuestos netos a la producción,Real, 4681.6387
+2017-12-01,Impuestos netos a la producción,Real, 5044.2088
+2018-03-01,Impuestos netos a la producción,Real, 4598.1539
+2018-06-01,Impuestos netos a la producción,Real, 4106.2116
+2018-09-01,Impuestos netos a la producción,Real, 4046.2192
+2018-12-01,Impuestos netos a la producción,Real, 4200.8030
+2019-03-01,Impuestos netos a la producción,Real, 4053.0078
+2019-06-01,Impuestos netos a la producción,Real, 4113.1512
+2019-09-01,Impuestos netos a la producción,Real, 4182.3978
+2019-12-01,Impuestos netos a la producción,Real, 4284.5545
+2020-03-01,Impuestos netos a la producción,Real, 4284.9988
+2020-06-01,Impuestos netos a la producción,Real, 3912.2187
+2020-09-01,Impuestos netos a la producción,Real, 4090.1897
+2006-03-01,Agricultura,Real, 2204.8386
+2006-06-01,Agricultura,Real, 2070.59548
+2006-09-01,Agricultura,Real, 2388.8739
+2006-12-01,Agricultura,Real, 2830.9631
+2007-03-01,Agricultura,Real, 2030.4566
+2007-06-01,Agricultura,Real, 2556.1591
+2007-09-01,Agricultura,Real, 2887.5733
+2007-12-01,Agricultura,Real, 3219.1628
+2008-03-01,Agricultura,Real, 2182.0050
+2008-06-01,Agricultura,Real, 2743.4262
+2008-09-01,Agricultura,Real, 2635.4475
+2008-12-01,Agricultura,Real, 2507.3411
+2009-03-01,Agricultura,Real, 2158.0345
+2009-06-01,Agricultura,Real, 2523.3859
+2009-09-01,Agricultura,Real, 2733.8131
+2009-12-01,Agricultura,Real, 3066.0734
+2010-03-01,Agricultura,Real, 2140.8528
+2010-06-01,Agricultura,Real, 2464.9899
+2010-09-01,Agricultura,Real, 3026.8551
+2010-12-01,Agricultura,Real, 3122.0722
+2011-03-01,Agricultura,Real, 2171.8916
+2011-06-01,Agricultura,Real, 2965.6153
+2011-09-01,Agricultura,Real, 3105.9148
+2011-12-01,Agricultura,Real, 3337.0197
+2012-03-01,Agricultura,Real, 2708.7982
+2012-06-01,Agricultura,Real, 2692.8404
+2012-09-01,Agricultura,Real, 2989.7174
+2012-12-01,Agricultura,Real, 3461.5067
+2013-03-01,Agricultura,Real, 2563.7690
+2013-06-01,Agricultura,Real, 2661.8385
+2013-09-01,Agricultura,Real, 3065.8686
+2013-12-01,Agricultura,Real, 3242.9658
+2014-03-01,Agricultura,Real, 2562.9078
+2014-06-01,Agricultura,Real, 2599.3730
+2014-09-01,Agricultura,Real, 2857.1889
+2014-12-01,Agricultura,Real, 3476.3994
+2015-03-01,Agricultura,Real, 2587.9861
+2015-06-01,Agricultura,Real, 2595.7128
+2015-09-01,Agricultura,Real, 3020.1587
+2015-12-01,Agricultura,Real, 3314.9948
+2016-03-01,Agricultura,Real, 2679.4130
+2016-06-01,Agricultura,Real, 3093.2366
+2016-09-01,Agricultura,Real, 3173.1660
+2016-12-01,Agricultura,Real, 3540.8140
+2017-03-01,Agricultura,Real, 2985.1286
+2017-06-01,Agricultura,Real, 3190.4041
+2017-09-01,Agricultura,Real, 3412.8948
+2017-12-01,Agricultura,Real, 3777.9242
+2018-03-01,Agricultura,Real, 3048.6635
+2018-06-01,Agricultura,Real, 3108.4406
+2018-09-01,Agricultura,Real, 3671.4013
+2018-12-01,Agricultura,Real, 3990.8123
+2019-03-01,Agricultura,Real, 3175.8262
+2019-06-01,Agricultura,Real, 3316.3151
+2019-09-01,Agricultura,Real, 3770.1186
+2019-12-01,Agricultura,Real, 4071.4742
+2020-03-01,Agricultura,Real, 3195.1151
+2020-06-01,Agricultura,Real, 3506.6235
+2020-09-01,Agricultura,Real, 3973.5714
 2006-03-01,Pecuario,Real, 1653.5049
 2006-06-01,Pecuario,Real, 1663.84569
 2006-09-01,Pecuario,Real, 1852.5855
@@ -1391,6 +1414,7 @@
 2019-12-01,Pecuario,Real, 2661.3849
 2020-03-01,Pecuario,Real, 2567.4679
 2020-06-01,Pecuario,Real, 2233.9959
+2020-09-01,Pecuario,Real, 2476.0175
 2006-03-01,Silvicultura,Real,  394.6290
 2006-06-01,Silvicultura,Real,  353.10484
 2006-09-01,Silvicultura,Real,  336.1017
@@ -1449,64 +1473,66 @@
 2019-12-01,Silvicultura,Real,  400.6262
 2020-03-01,Silvicultura,Real,  408.7787
 2020-06-01,Silvicultura,Real,  332.7302
-2006-03-01,Pesca,Real,  213.9508
-2006-06-01,Pesca,Real,   57.81693
-2006-09-01,Pesca,Real,  314.7019
-2006-12-01,Pesca,Real,  304.7364
-2007-03-01,Pesca,Real,  184.3928
-2007-06-01,Pesca,Real,  103.8321
-2007-09-01,Pesca,Real,  364.9545
-2007-12-01,Pesca,Real,  355.4026
-2008-03-01,Pesca,Real,  192.9922
-2008-06-01,Pesca,Real,  190.6886
-2008-09-01,Pesca,Real,  433.5353
-2008-12-01,Pesca,Real,  361.0882
-2009-03-01,Pesca,Real,  197.7312
-2009-06-01,Pesca,Real,  200.9915
-2009-09-01,Pesca,Real,  521.0173
-2009-12-01,Pesca,Real,  424.2246
-2010-03-01,Pesca,Real,  229.6700
-2010-06-01,Pesca,Real,  164.0335
-2010-09-01,Pesca,Real,  522.7163
-2010-12-01,Pesca,Real,  499.3988
-2011-03-01,Pesca,Real,  221.7931
-2011-06-01,Pesca,Real,  170.1729
-2011-09-01,Pesca,Real,  530.8078
-2011-12-01,Pesca,Real,  435.8154
-2012-03-01,Pesca,Real,  188.2636
-2012-06-01,Pesca,Real,  216.3788
-2012-09-01,Pesca,Real,  616.0859
-2012-12-01,Pesca,Real,  502.7391
-2013-03-01,Pesca,Real,  211.9668
-2013-06-01,Pesca,Real,  198.4871
-2013-09-01,Pesca,Real,  604.5352
-2013-12-01,Pesca,Real,  586.7051
-2014-03-01,Pesca,Real,  246.6500
-2014-06-01,Pesca,Real,  326.2577
-2014-09-01,Pesca,Real,  694.1732
-2014-12-01,Pesca,Real,  616.5197
-2015-03-01,Pesca,Real,  258.4795
-2015-06-01,Pesca,Real,  240.8460
-2015-09-01,Pesca,Real,  645.6151
-2015-12-01,Pesca,Real,  607.3553
-2016-03-01,Pesca,Real,  260.7819
-2016-06-01,Pesca,Real,  263.5396
-2016-09-01,Pesca,Real,  581.2829
-2016-12-01,Pesca,Real,  606.1458
-2017-03-01,Pesca,Real,  246.6126
-2017-06-01,Pesca,Real,  310.7110
-2017-09-01,Pesca,Real,  613.0372
-2017-12-01,Pesca,Real,  704.3056
-2018-03-01,Pesca,Real,  382.3480
-2018-06-01,Pesca,Real,  427.2390
-2018-09-01,Pesca,Real,  641.5883
-2018-12-01,Pesca,Real,  694.2223
-2019-03-01,Pesca,Real,  291.7562
-2019-06-01,Pesca,Real,  322.2865
-2019-09-01,Pesca,Real,  608.2013
-2019-12-01,Pesca,Real,  611.3494
-2020-03-01,Pesca,Real,  391.6372
-2020-06-01,Pesca,Real,  232.4317
+2020-09-01,Silvicultura,Real,  371.6939
+2006-03-01,Pesca,Real,  213.1302
+2006-06-01,Pesca,Real,   57.35065
+2006-09-01,Pesca,Real,  315.2702
+2006-12-01,Pesca,Real,  305.4551
+2007-03-01,Pesca,Real,  181.0504
+2007-06-01,Pesca,Real,  103.7742
+2007-09-01,Pesca,Real,  367.9676
+2007-12-01,Pesca,Real,  355.7900
+2008-03-01,Pesca,Real,  191.2171
+2008-06-01,Pesca,Real,  189.3390
+2008-09-01,Pesca,Real,  436.1973
+2008-12-01,Pesca,Real,  361.5509
+2009-03-01,Pesca,Real,  195.6612
+2009-06-01,Pesca,Real,  197.9016
+2009-09-01,Pesca,Real,  526.5545
+2009-12-01,Pesca,Real,  423.8473
+2010-03-01,Pesca,Real,  222.9133
+2010-06-01,Pesca,Real,  160.9764
+2010-09-01,Pesca,Real,  527.6730
+2010-12-01,Pesca,Real,  504.2559
+2011-03-01,Pesca,Real,  220.6420
+2011-06-01,Pesca,Real,  166.9488
+2011-09-01,Pesca,Real,  534.9772
+2011-12-01,Pesca,Real,  436.0211
+2012-03-01,Pesca,Real,  185.3615
+2012-06-01,Pesca,Real,  212.0540
+2012-09-01,Pesca,Real,  621.9155
+2012-12-01,Pesca,Real,  504.1365
+2013-03-01,Pesca,Real,  210.4911
+2013-06-01,Pesca,Real,  194.3040
+2013-09-01,Pesca,Real,  611.0587
+2013-12-01,Pesca,Real,  585.8404
+2014-03-01,Pesca,Real,  243.4106
+2014-06-01,Pesca,Real,  314.3097
+2014-09-01,Pesca,Real,  705.3846
+2014-12-01,Pesca,Real,  620.4957
+2015-03-01,Pesca,Real,  249.2643
+2015-06-01,Pesca,Real,  224.5815
+2015-09-01,Pesca,Real,  672.0899
+2015-12-01,Pesca,Real,  606.3602
+2016-03-01,Pesca,Real,  266.0561
+2016-06-01,Pesca,Real,  265.1729
+2016-09-01,Pesca,Real,  578.9123
+2016-12-01,Pesca,Real,  601.6091
+2017-03-01,Pesca,Real,  245.5886
+2017-06-01,Pesca,Real,  310.2847
+2017-09-01,Pesca,Real,  613.4700
+2017-12-01,Pesca,Real,  705.3232
+2018-03-01,Pesca,Real,  382.6225
+2018-06-01,Pesca,Real,  427.3126
+2018-09-01,Pesca,Real,  641.4623
+2018-12-01,Pesca,Real,  694.0000
+2019-03-01,Pesca,Real,  291.7033
+2019-06-01,Pesca,Real,  322.2666
+2019-09-01,Pesca,Real,  608.2224
+2019-12-01,Pesca,Real,  611.4011
+2020-03-01,Pesca,Real,  391.8609
+2020-06-01,Pesca,Real,  232.7452
+2020-09-01,Pesca,Real,  628.8700
 2006-03-01,Minería,Real,  262.1760
 2006-06-01,Minería,Real,  278.10350
 2006-09-01,Minería,Real,  257.9608
@@ -1565,10 +1591,11 @@
 2019-12-01,Minería,Real,  807.0516
 2020-03-01,Minería,Real,  766.3808
 2020-06-01,Minería,Real,  467.4774
+2020-09-01,Minería,Real,  811.0138
 2006-03-01,Manufactura,Real, 4332.6842
-2006-06-01,Manufactura,Real, 3670.53449
+2006-06-01,Manufactura,Real, 3670.53450
 2006-09-01,Manufactura,Real, 4050.0567
-2006-12-01,Manufactura,Real, 4100.4499
+2006-12-01,Manufactura,Real, 4100.4498
 2007-03-01,Manufactura,Real, 4391.3586
 2007-06-01,Manufactura,Real, 3843.1784
 2007-09-01,Manufactura,Real, 4158.6110
@@ -1585,44 +1612,45 @@
 2010-06-01,Manufactura,Real, 4028.6918
 2010-09-01,Manufactura,Real, 4517.4935
 2010-12-01,Manufactura,Real, 4464.3521
-2011-03-01,Manufactura,Real, 4789.7466
-2011-06-01,Manufactura,Real, 4337.3716
+2011-03-01,Manufactura,Real, 4789.7465
+2011-06-01,Manufactura,Real, 4337.3715
 2011-09-01,Manufactura,Real, 5064.8200
-2011-12-01,Manufactura,Real, 5015.7797
-2012-03-01,Manufactura,Real, 5565.9186
-2012-06-01,Manufactura,Real, 4551.0350
-2012-09-01,Manufactura,Real, 5342.0768
-2012-12-01,Manufactura,Real, 5711.5766
-2013-03-01,Manufactura,Real, 5689.3641
-2013-06-01,Manufactura,Real, 5197.7506
-2013-09-01,Manufactura,Real, 5729.1995
-2013-12-01,Manufactura,Real, 5937.6651
-2014-03-01,Manufactura,Real, 6311.0020
-2014-06-01,Manufactura,Real, 5518.7463
-2014-09-01,Manufactura,Real, 6174.8370
-2014-12-01,Manufactura,Real, 6256.3551
-2015-03-01,Manufactura,Real, 6417.6542
-2015-06-01,Manufactura,Real, 5444.3336
-2015-09-01,Manufactura,Real, 6471.8388
-2015-12-01,Manufactura,Real, 6529.3286
-2016-03-01,Manufactura,Real, 6657.5608
-2016-06-01,Manufactura,Real, 5978.6578
-2016-09-01,Manufactura,Real, 6503.2006
-2016-12-01,Manufactura,Real, 6635.4515
-2017-03-01,Manufactura,Real, 6860.2613
-2017-06-01,Manufactura,Real, 6149.6145
-2017-09-01,Manufactura,Real, 6714.5041
-2017-12-01,Manufactura,Real, 6786.9747
-2018-03-01,Manufactura,Real, 7078.7208
-2018-06-01,Manufactura,Real, 5733.4596
-2018-09-01,Manufactura,Real, 7064.4084
-2018-12-01,Manufactura,Real, 6772.3836
-2019-03-01,Manufactura,Real, 6824.6371
-2019-06-01,Manufactura,Real, 5940.5982
-2019-09-01,Manufactura,Real, 6931.7832
-2019-12-01,Manufactura,Real, 6998.7770
-2020-03-01,Manufactura,Real, 7193.4162
-2020-06-01,Manufactura,Real, 4825.0238
+2011-12-01,Manufactura,Real, 5015.7799
+2012-03-01,Manufactura,Real, 5565.9190
+2012-06-01,Manufactura,Real, 4551.0355
+2012-09-01,Manufactura,Real, 5342.0767
+2012-12-01,Manufactura,Real, 5711.5757
+2013-03-01,Manufactura,Real, 5689.3638
+2013-06-01,Manufactura,Real, 5197.7504
+2013-09-01,Manufactura,Real, 5729.2001
+2013-12-01,Manufactura,Real, 5937.6649
+2014-03-01,Manufactura,Real, 6311.0000
+2014-06-01,Manufactura,Real, 5518.7487
+2014-09-01,Manufactura,Real, 6174.8351
+2014-12-01,Manufactura,Real, 6256.3566
+2015-03-01,Manufactura,Real, 6417.6619
+2015-06-01,Manufactura,Real, 5444.3263
+2015-09-01,Manufactura,Real, 6471.8424
+2015-12-01,Manufactura,Real, 6529.3247
+2016-03-01,Manufactura,Real, 6657.5693
+2016-06-01,Manufactura,Real, 5978.6896
+2016-09-01,Manufactura,Real, 6503.1183
+2016-12-01,Manufactura,Real, 6635.4935
+2017-03-01,Manufactura,Real, 6859.9922
+2017-06-01,Manufactura,Real, 6151.2711
+2017-09-01,Manufactura,Real, 6714.7867
+2017-12-01,Manufactura,Real, 6785.3045
+2018-03-01,Manufactura,Real, 7075.2918
+2018-06-01,Manufactura,Real, 5731.5804
+2018-09-01,Manufactura,Real, 7064.7247
+2018-12-01,Manufactura,Real, 6777.3755
+2019-03-01,Manufactura,Real, 6822.5706
+2019-06-01,Manufactura,Real, 5935.6658
+2019-09-01,Manufactura,Real, 6932.7901
+2019-12-01,Manufactura,Real, 7004.7691
+2020-03-01,Manufactura,Real, 7162.2827
+2020-06-01,Manufactura,Real, 4822.8949
+2020-09-01,Manufactura,Real, 7068.8485
 2006-03-01,Construcción,Real, 1401.7468
 2006-06-01,Construcción,Real, 1461.34675
 2006-09-01,Construcción,Real, 1396.6472
@@ -1650,37 +1678,38 @@
 2012-03-01,Construcción,Real,  869.2511
 2012-06-01,Construcción,Real,  902.6970
 2012-09-01,Construcción,Real,  808.8407
-2012-12-01,Construcción,Real, 1125.3898
+2012-12-01,Construcción,Real, 1125.3899
 2013-03-01,Construcción,Real, 1028.3138
-2013-06-01,Construcción,Real, 1110.8201
+2013-06-01,Construcción,Real, 1110.8202
 2013-09-01,Construcción,Real, 1015.3436
-2013-12-01,Construcción,Real,  958.7623
-2014-03-01,Construcción,Real,  989.6255
-2014-06-01,Construcción,Real, 1004.2448
-2014-09-01,Construcción,Real,  945.0453
-2014-12-01,Construcción,Real, 1247.7149
-2015-03-01,Construcción,Real, 1194.3643
-2015-06-01,Construcción,Real, 1284.4826
-2015-09-01,Construcción,Real, 1259.2141
-2015-12-01,Construcción,Real, 1513.1534
-2016-03-01,Construcción,Real, 1186.2517
-2016-06-01,Construcción,Real, 1272.8968
+2013-12-01,Construcción,Real,  958.7622
+2014-03-01,Construcción,Real,  989.6254
+2014-06-01,Construcción,Real, 1004.2446
+2014-09-01,Construcción,Real,  945.0452
+2014-12-01,Construcción,Real, 1247.7152
+2015-03-01,Construcción,Real, 1194.3652
+2015-06-01,Construcción,Real, 1284.4829
+2015-09-01,Construcción,Real, 1259.2139
+2015-12-01,Construcción,Real, 1513.1525
+2016-03-01,Construcción,Real, 1186.2504
+2016-06-01,Construcción,Real, 1272.8954
 2016-09-01,Construcción,Real, 1283.9223
-2016-12-01,Construcción,Real, 1435.9429
-2017-03-01,Construcción,Real, 1450.9167
-2017-06-01,Construcción,Real, 1292.4149
-2017-09-01,Construcción,Real, 1360.8056
-2017-12-01,Construcción,Real, 1519.2675
-2018-03-01,Construcción,Real, 1380.2722
-2018-06-01,Construcción,Real, 1151.8318
-2018-09-01,Construcción,Real, 1212.2362
-2018-12-01,Construcción,Real, 1004.1110
-2019-03-01,Construcción,Real,  637.6283
-2019-06-01,Construcción,Real,  688.6518
-2019-09-01,Construcción,Real,  728.4156
-2019-12-01,Construcción,Real,  884.4830
-2020-03-01,Construcción,Real,  743.4402
-2020-06-01,Construcción,Real,  658.1452
+2016-12-01,Construcción,Real, 1435.9456
+2017-03-01,Construcción,Real, 1450.9329
+2017-06-01,Construcción,Real, 1292.4142
+2017-09-01,Construcción,Real, 1360.7962
+2017-12-01,Construcción,Real, 1519.2614
+2018-03-01,Construcción,Real, 1380.2655
+2018-06-01,Construcción,Real, 1151.7244
+2018-09-01,Construcción,Real, 1212.1985
+2018-12-01,Construcción,Real, 1004.2628
+2019-03-01,Construcción,Real,  637.6483
+2019-06-01,Construcción,Real,  688.6600
+2019-09-01,Construcción,Real,  728.3442
+2019-12-01,Construcción,Real,  884.5262
+2020-03-01,Construcción,Real,  752.9324
+2020-06-01,Construcción,Real,  692.6189
+2020-09-01,Construcción,Real,  695.4330
 2006-03-01,Electricidad,Real,  327.4780
 2006-06-01,Electricidad,Real,  316.03137
 2006-09-01,Electricidad,Real,  287.8807
@@ -1738,7 +1767,8 @@
 2019-09-01,Electricidad,Real,  680.0751
 2019-12-01,Electricidad,Real,  625.4482
 2020-03-01,Electricidad,Real,  709.9389
-2020-06-01,Electricidad,Real,  652.0831
+2020-06-01,Electricidad,Real,  649.4915
+2020-09-01,Electricidad,Real,  523.9439
 2006-03-01,Agua,Real,  137.6462
 2006-06-01,Agua,Real,  141.80475
 2006-09-01,Agua,Real,  136.6167
@@ -1797,6 +1827,7 @@
 2019-12-01,Agua,Real,  288.1162
 2020-03-01,Agua,Real,  295.7845
 2020-06-01,Agua,Real,  292.3780
+2020-09-01,Agua,Real,  289.0511
 2006-03-01,Comercio,Real, 3004.0021
 2006-06-01,Comercio,Real, 3191.24211
 2006-09-01,Comercio,Real, 3160.8417
@@ -1854,7 +1885,8 @@
 2019-09-01,Comercio,Real, 3876.4200
 2019-12-01,Comercio,Real, 5116.8492
 2020-03-01,Comercio,Real, 4336.3803
-2020-06-01,Comercio,Real, 4062.4403
+2020-06-01,Comercio,Real, 4059.1385
+2020-09-01,Comercio,Real, 4178.8295
 2006-03-01,Hoteles y restaurantes,Real,  845.5292
 2006-06-01,Hoteles y restaurantes,Real,  802.36246
 2006-09-01,Hoteles y restaurantes,Real,  876.0747
@@ -1894,12 +1926,12 @@
 2015-03-01,Hoteles y restaurantes,Real, 1235.1388
 2015-06-01,Hoteles y restaurantes,Real, 1140.5703
 2015-09-01,Hoteles y restaurantes,Real, 1144.7524
-2015-12-01,Hoteles y restaurantes,Real, 1315.3395
+2015-12-01,Hoteles y restaurantes,Real, 1315.3396
 2016-03-01,Hoteles y restaurantes,Real, 1286.7728
 2016-06-01,Hoteles y restaurantes,Real, 1155.3025
 2016-09-01,Hoteles y restaurantes,Real, 1172.6440
 2016-12-01,Hoteles y restaurantes,Real, 1525.0833
-2017-03-01,Hoteles y restaurantes,Real, 1478.8329
+2017-03-01,Hoteles y restaurantes,Real, 1478.8328
 2017-06-01,Hoteles y restaurantes,Real, 1329.6404
 2017-09-01,Hoteles y restaurantes,Real, 1330.4239
 2017-12-01,Hoteles y restaurantes,Real, 1759.1195
@@ -1913,6 +1945,7 @@
 2019-12-01,Hoteles y restaurantes,Real, 1456.8549
 2020-03-01,Hoteles y restaurantes,Real, 1280.2679
 2020-06-01,Hoteles y restaurantes,Real,  510.0539
+2020-09-01,Hoteles y restaurantes,Real,  571.7109
 2006-03-01,Transporte y comunicaciones,Real, 1750.9020
 2006-06-01,Transporte y comunicaciones,Real, 1849.62457
 2006-09-01,Transporte y comunicaciones,Real, 1706.2826
@@ -1970,7 +2003,8 @@
 2019-09-01,Transporte y comunicaciones,Real, 3611.2910
 2019-12-01,Transporte y comunicaciones,Real, 3739.6815
 2020-03-01,Transporte y comunicaciones,Real, 3223.7419
-2020-06-01,Transporte y comunicaciones,Real, 3322.8877
+2020-06-01,Transporte y comunicaciones,Real, 3323.0638
+2020-09-01,Transporte y comunicaciones,Real, 3269.7129
 2006-03-01,Financiero,Real, 1334.1385
 2006-06-01,Financiero,Real, 1441.20096
 2006-09-01,Financiero,Real, 1493.7423
@@ -2029,6 +2063,7 @@
 2019-12-01,Financiero,Real, 1276.7678
 2020-03-01,Financiero,Real, 1145.5940
 2020-06-01,Financiero,Real, 1108.5716
+2020-09-01,Financiero,Real, 1093.1992
 2006-03-01,NA,Real, 2441.2043
 2006-06-01,NA,Real, 2473.13292
 2006-09-01,NA,Real, 2459.5199
@@ -2079,14 +2114,15 @@
 2017-12-01,NA,Real, 3216.9583
 2018-03-01,NA,Real, 2986.8612
 2018-06-01,NA,Real, 3001.7511
-2018-09-01,NA,Real, 2965.3866
+2018-09-01,NA,Real, 2965.3867
 2018-12-01,NA,Real, 3170.4107
-2019-03-01,NA,Real, 2952.6502
-2019-06-01,NA,Real, 2945.1416
-2019-09-01,NA,Real, 2911.3064
-2019-12-01,NA,Real, 3145.2500
-2020-03-01,NA,Real, 2930.5953
-2020-06-01,NA,Real, 2911.3582
+2019-03-01,NA,Real, 2952.6504
+2019-06-01,NA,Real, 2945.1418
+2019-09-01,NA,Real, 2911.3069
+2019-12-01,NA,Real, 3145.2493
+2020-03-01,NA,Real, 2930.5985
+2020-06-01,NA,Real, 2894.5737
+2020-09-01,NA,Real, 2892.2885
 2006-03-01,Administración pública y defensa,Real, 1505.5824
 2006-06-01,Administración pública y defensa,Real, 1513.09315
 2006-09-01,Administración pública y defensa,Real, 1519.6683
@@ -2144,7 +2180,8 @@
 2019-09-01,Administración pública y defensa,Real, 2719.8558
 2019-12-01,Administración pública y defensa,Real, 2717.7133
 2020-03-01,Administración pública y defensa,Real, 2733.8583
-2020-06-01,Administración pública y defensa,Real, 2740.7524
+2020-06-01,Administración pública y defensa,Real, 2760.9812
+2020-09-01,Administración pública y defensa,Real, 2758.2562
 2006-03-01,Enseñanza,Real, 1379.8593
 2006-06-01,Enseñanza,Real, 1323.90041
 2006-09-01,Enseñanza,Real, 1322.1067
@@ -2169,21 +2206,21 @@
 2011-06-01,Enseñanza,Real, 1450.5387
 2011-09-01,Enseñanza,Real, 1477.8919
 2011-12-01,Enseñanza,Real, 1490.5872
-2012-03-01,Enseñanza,Real, 1556.6262
-2012-06-01,Enseñanza,Real, 1478.7251
+2012-03-01,Enseñanza,Real, 1556.6263
+2012-06-01,Enseñanza,Real, 1478.7252
 2012-09-01,Enseñanza,Real, 1501.2897
-2012-12-01,Enseñanza,Real, 1568.3312
-2013-03-01,Enseñanza,Real, 1556.0883
+2012-12-01,Enseñanza,Real, 1568.3310
+2013-03-01,Enseñanza,Real, 1556.0894
 2013-06-01,Enseñanza,Real, 1522.7224
-2013-09-01,Enseñanza,Real, 1529.1819
-2013-12-01,Enseñanza,Real, 1589.5850
-2014-03-01,Enseñanza,Real, 1648.4167
+2013-09-01,Enseñanza,Real, 1529.1811
+2013-12-01,Enseñanza,Real, 1589.5846
+2014-03-01,Enseñanza,Real, 1648.4165
 2014-06-01,Enseñanza,Real, 1563.6424
-2014-09-01,Enseñanza,Real, 1490.8343
-2014-12-01,Enseñanza,Real, 1624.8242
+2014-09-01,Enseñanza,Real, 1490.8344
+2014-12-01,Enseñanza,Real, 1624.8243
 2015-03-01,Enseñanza,Real, 1701.6901
 2015-06-01,Enseñanza,Real, 1606.5685
-2015-09-01,Enseñanza,Real, 1555.3888
+2015-09-01,Enseñanza,Real, 1555.3887
 2015-12-01,Enseñanza,Real, 1693.6869
 2016-03-01,Enseñanza,Real, 1772.6838
 2016-06-01,Enseñanza,Real, 1668.1669
@@ -2203,6 +2240,7 @@
 2019-12-01,Enseñanza,Real, 1825.2602
 2020-03-01,Enseñanza,Real, 1925.1809
 2020-06-01,Enseñanza,Real, 1788.1106
+2020-09-01,Enseñanza,Real, 1722.4074
 2006-03-01,Salud,Real,  683.5871
 2006-06-01,Salud,Real,  702.55890
 2006-09-01,Salud,Real,  709.6650
@@ -2223,7 +2261,7 @@
 2010-06-01,Salud,Real,  741.1047
 2010-09-01,Salud,Real,  738.2569
 2010-12-01,Salud,Real,  761.2881
-2011-03-01,Salud,Real,  745.1885
+2011-03-01,Salud,Real,  745.1886
 2011-06-01,Salud,Real,  729.2876
 2011-09-01,Salud,Real,  761.2795
 2011-12-01,Salud,Real,  763.9360
@@ -2231,11 +2269,11 @@
 2012-06-01,Salud,Real,  790.6888
 2012-09-01,Salud,Real,  784.9158
 2012-12-01,Salud,Real,  808.8844
-2013-03-01,Salud,Real,  882.9241
-2013-06-01,Salud,Real,  901.1602
-2013-09-01,Salud,Real,  896.5379
-2013-12-01,Salud,Real,  891.0553
-2014-03-01,Salud,Real,  899.6351
+2013-03-01,Salud,Real,  882.9239
+2013-06-01,Salud,Real,  901.1597
+2013-09-01,Salud,Real,  896.5385
+2013-12-01,Salud,Real,  891.0554
+2014-03-01,Salud,Real,  899.6352
 2014-06-01,Salud,Real,  897.3146
 2014-09-01,Salud,Real,  911.0574
 2014-12-01,Salud,Real,  934.2322
@@ -2261,6 +2299,7 @@
 2019-12-01,Salud,Real, 1132.5724
 2020-03-01,Salud,Real, 1134.9432
 2020-06-01,Salud,Real, 1150.2059
+2020-09-01,Salud,Real, 1143.5997
 2006-03-01,Otros servicios,Real, 2451.5403
 2006-06-01,Otros servicios,Real, 2604.66023
 2006-09-01,Otros servicios,Real, 2641.6889
@@ -2284,28 +2323,28 @@
 2011-03-01,Otros servicios,Real, 3259.3701
 2011-06-01,Otros servicios,Real, 3217.0115
 2011-09-01,Otros servicios,Real, 3420.0800
-2011-12-01,Otros servicios,Real, 3601.4446
-2012-03-01,Otros servicios,Real, 3356.3675
-2012-06-01,Otros servicios,Real, 3546.2244
+2011-12-01,Otros servicios,Real, 3601.4445
+2012-03-01,Otros servicios,Real, 3356.3673
+2012-06-01,Otros servicios,Real, 3546.2241
 2012-09-01,Otros servicios,Real, 3592.6268
-2012-12-01,Otros servicios,Real, 3857.8461
-2013-03-01,Otros servicios,Real, 3694.9716
-2013-06-01,Otros servicios,Real, 3866.2082
-2013-09-01,Otros servicios,Real, 3741.7984
-2013-12-01,Otros servicios,Real, 3802.4797
-2014-03-01,Otros servicios,Real, 3989.6595
+2012-12-01,Otros servicios,Real, 3857.8465
+2013-03-01,Otros servicios,Real, 3694.9725
+2013-06-01,Otros servicios,Real, 3866.2045
+2013-09-01,Otros servicios,Real, 3741.8004
+2013-12-01,Otros servicios,Real, 3802.4807
+2014-03-01,Otros servicios,Real, 3989.6599
 2014-06-01,Otros servicios,Real, 4182.8597
-2014-09-01,Otros servicios,Real, 4115.1700
-2014-12-01,Otros servicios,Real, 4323.1545
-2015-03-01,Otros servicios,Real, 4245.7375
+2014-09-01,Otros servicios,Real, 4115.1697
+2014-12-01,Otros servicios,Real, 4323.1543
+2015-03-01,Otros servicios,Real, 4245.7374
 2015-06-01,Otros servicios,Real, 4283.0937
 2015-09-01,Otros servicios,Real, 4334.6857
-2015-12-01,Otros servicios,Real, 4485.6764
-2016-03-01,Otros servicios,Real, 4689.7500
+2015-12-01,Otros servicios,Real, 4485.6765
+2016-03-01,Otros servicios,Real, 4689.7501
 2016-06-01,Otros servicios,Real, 4602.9317
 2016-09-01,Otros servicios,Real, 4349.1029
 2016-12-01,Otros servicios,Real, 4567.8252
-2017-03-01,Otros servicios,Real, 4785.0146
+2017-03-01,Otros servicios,Real, 4785.0145
 2017-06-01,Otros servicios,Real, 4633.2016
 2017-09-01,Otros servicios,Real, 4418.2934
 2017-12-01,Otros servicios,Real, 4659.7000
@@ -2318,4 +2357,5 @@
 2019-09-01,Otros servicios,Real, 3998.2006
 2019-12-01,Otros servicios,Real, 4234.4035
 2020-03-01,Otros servicios,Real, 4412.0391
-2020-06-01,Otros servicios,Real, 4168.2642
+2020-06-01,Otros servicios,Real, 4168.2655
+2020-09-01,Otros servicios,Real, 3852.5459
